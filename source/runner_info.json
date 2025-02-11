@@ -1,0 +1,1131 @@
+{
+    "maximebascon": {
+        "infos": {
+            "nom": "Bascon",
+            "prenom": "Maxime",
+            "age": 26,
+            "birthdate":"17/07/1997",
+            "cote": 610,
+            "nationality": "France",
+            "Team": "Les Ratons Laveurs",
+            "personalized_message":"Good luck for this race, I'm 100% that you will feel strong",
+            "best_nutrition_brand":"Maurten",
+            "energy_consumption":80, 
+            "sexe":"M",
+            "poids":70,     
+            "taille":170     
+        },
+        "Race4": {
+            "template": "trail",
+            "course": "Grand Raid des Templiers",
+            "profil_split": 108,
+            "objectif_heure": 10,
+            "objectif_minute": 30,
+            "objectif_seconde": 0,
+            "threshold": 8,
+            "a_gradient": 15,
+            "a_split": 0,
+            "a_drift": 0,
+            "a_vent": 0,
+            "a_temp": 1,
+            "previous_place": 11
+        },
+        "Race2": {
+            "template": "trail",
+            "course": "saintelyon",
+            "profil_split": -8,
+            "objectif_heure": 8,
+            "objectif_minute": 0,
+            "objectif_seconde": 0,
+            "threshold": 5,
+            "a_gradient": 15,
+            "a_split": 1,
+            "a_drift": 2,
+            "a_vent": 0,
+            "a_temp": 0,
+            "previous_place": 115
+        },
+        "Race3": {
+            "template": "trail",
+            "course": "Ecotrail",
+            "profil_split": -8,
+            "objectif_heure": 7,
+            "objectif_minute": 30,
+            "objectif_seconde": 0,
+            "threshold": 4,
+            "a_gradient": 15,
+            "a_split": 1,
+            "a_drift": 2,
+            "a_vent": 0,
+            "a_temp": 0,
+            "previous_place": 60
+        },
+        "Race1": {
+            "template": "trail",
+            "course": "Trail des Chibottes",
+            "profil_split": -8,
+            "objectif_heure": 1,
+            "objectif_minute": 25,
+            "objectif_seconde": 0,
+            "threshold": 4,
+            "a_gradient": 15,
+            "a_split": 1,
+            "a_drift": 2,
+            "a_vent": 0,
+            "a_temp": 0,
+            "previous_place": 22
+        },
+        "Race": {
+            "template": "trail",
+            "course": "Restonica 33k",
+            "profil_split": 108,
+            "objectif_heure": 4,
+            "objectif_minute": 45,
+            "objectif_seconde": 0,
+            "threshold": 8,
+            "a_gradient": 15,
+            "a_split": 0,
+            "a_drift": 0,
+            "a_vent": 0,
+            "a_temp": 1,
+            "previous_place": 50
+        }
+    },
+    "simonpriou": {
+        "infos": {
+            "nom": "Priou",
+            "prenom": "Simon",
+            "age": 30,
+            "cote": 610,
+            "nationality": "France",
+            "Team": "DataBird"
+        },
+        "Race": {
+            "template": "trail",
+            "course": "Sainté Lyon",
+            "profil_split": 96,
+            "objectif_heure": 12,
+            "objectif_minute": 30,
+            "objectif_seconde": 0,
+            "threshold": 8,
+            "a_gradient": 10,
+            "a_split": 0.5,
+            "a_drift": 1,
+            "a_vent": 0,
+            "a_temp": 0,
+            "previous_place": 11
+        }
+    },
+    "solangejesus": {
+        "infos": {
+            "nom": "Jesus",
+            "prenom": "Solange",
+            "age": 36,
+            "cote": 259,
+            "nationality": "Portugal",
+            "Team": "Puma",
+            "personalized_message":"Good luck for this race, I'm 100% that you will qualify for Olympics"
+        },
+        "Race1": {
+            "template": "marathon",
+            "course": "New-York Marathon",
+            "profil_split": 100,
+            "objectif_heure": 2,
+            "objectif_minute": 26,
+            "objectif_seconde": 32,
+            "threshold": 0.5,
+            "a_gradient": 1,
+            "a_split": 0,
+            "a_drift": 1,
+            "a_vent": 1,
+            "a_temp": 0,
+            "previous_place": 11
+        },
+        "Race": {
+            "template": "marathon",
+            "course": "Sevilla marathon",
+            "profil_split": 100,
+            "objectif_heure": 2,
+            "objectif_minute": 26,
+            "objectif_seconde": 49,
+            "threshold": 0.5,
+            "a_gradient": 1,
+            "a_split": 0,
+            "a_drift": 1,
+            "a_vent": 1,
+            "a_temp": 0,
+            "previous_place": 9
+        }
+    },
+    "josephmestrallet": {
+        "infos": {
+            "nom": "Mestrallet",
+            "prenom": "Joseph",
+            "age": 26,
+            "birthdate": "17/07/1997",
+            "cote": 714,
+            "nationality": "France",
+            "Team": "Enduraw",
+            "personalized_message": "C'est de la balle ton algo",
+            "best_nutrition_brand":"Maurten",
+            "energy_consumption": 90, 
+            "sexe":"M",
+            "poids":72,     
+            "taille":165 
+        },
+        "Race": {
+            "template": "trail",
+            "course": "UTMB",
+            "profil_split": 108,
+            "objectif_heure": 28,
+            "objectif_minute": 0,
+            "objectif_seconde": 0,
+            "threshold": 8,
+            "a_gradient": 10,
+            "a_split": 0,
+            "a_drift": 0,
+            "a_vent": 0,
+            "a_temp": 1,
+            "previous_place": 0
+        },
+        "Race1": {
+            "template": "trail",
+            "course": "Olympics Marathon",
+            "profil_split": 0,
+            "objectif_heure": 2,
+            "objectif_minute": 45,
+            "objectif_seconde": 0,
+            "threshold": 1,
+            "a_gradient": 10,
+            "a_split": 0.5,
+            "a_drift": 1,
+            "a_vent": 0,
+            "a_temp": 1,
+            "previous_place": 11
+        }
+    },
+    "guillaumeadam": {
+        "infos": {
+            "nom": "Adam",
+            "prenom": "Guillaume",
+            "age": 33,
+            "cote": 771,
+            "nationality": "France",
+            "Team": "RunMotion Coach"
+        },
+        "Race": {
+            "template": "marathon",
+            "course": "New-York Marathon",
+            "profil_split": 100,
+            "objectif_heure": 2,
+            "objectif_minute": 21,
+            "objectif_seconde": 40,
+            "threshold": 0.5,
+            "a_gradient": 1,
+            "a_split": 0,
+            "a_drift": 1,
+            "a_vent": 1,
+            "a_temp": 0,
+            "previous_place": 16
+        }
+    },
+    "lionelkahn": {
+        "infos": {
+            "nom": "Kahn",
+            "prenom": "Lionel",
+            "age": 37,
+            "cote": 0,
+            "nationality": "France",
+            "Team": "Goldman Sachs"
+        },
+        "Race": {
+            "template": "route",
+            "course": "semi de boulogne",
+            "profil_split": 5,
+            "objectif_heure": 1,
+            "objectif_minute": 14,
+            "objectif_seconde": 0,
+            "threshold": 0.2,
+            "a_gradient": 10,
+            "a_split": 1,
+            "a_drift": 1,
+            "a_vent": 0,
+            "a_temp": 0,
+            "previous_place": 149
+        }
+    },
+
+
+
+
+
+
+
+    "danielmateo": {
+        "infos": {
+            "nom": "Mateo Angulo",
+            "prenom": "Daniel",
+            "age": 34,
+            "cote": 0,
+            "nationality": "Spain",
+            "Team": "Puma"
+        },
+        "Race": {
+            "template": "marathon",
+            "course": "Marathon de Valence",
+            "profil_split": 100,
+            "objectif_heure": 2,
+            "objectif_minute": 8,
+            "objectif_seconde": 10,
+            "threshold": 0.5,
+            "a_gradient": 1,
+            "a_split": 0,
+            "a_drift": 1,
+            "a_vent": 1,
+            "a_temp": 0,
+            "previous_place": 21
+        }
+    },
+
+
+
+
+
+
+    "anaisquemener": {
+        "infos": {
+            "nom": "Quemener",
+            "prenom": "Anaïs",
+            "age": 32,
+            "cote": 382,
+            "nationality": "French",
+            "Team": "Salomon",
+            "personalized_message":"Bon courage Anaïs, donne tout. Et si c'est pas maintenant ce sera LA28"
+        },
+
+        "Race": {
+            "template": "marathon",
+            "course": "Sevilla marathon",
+            "profil_split": 100,
+            "objectif_heure": 2,
+            "objectif_minute": 26,
+            "objectif_seconde": 49,
+            "threshold": 0.5,
+            "a_gradient": 1,
+            "a_split": 0,
+            "a_drift": 1,
+            "a_vent": 1,
+            "a_temp": 0,
+            "previous_place": 9
+        }
+    },
+
+
+
+
+
+
+
+    "melinerollin": {
+        "infos": {
+            "nom": "Rollin",
+            "prenom": "Méline",
+            "birthdate": "17/06/1998",
+            "cote": 1190,
+            "nationality": "France",
+            "Team": "Kiprun",
+            "personalized_message":"Allez Méline ! fais toi plaisir et on croise les doigts pour ton dos",
+            "best_nutrition_brand":"Maurten",
+            "energy_consumption":73, 
+            "sexe":"F",
+            "poids":51,     
+            "taille":169 
+        },
+
+        "Race": {
+            "template": "route",
+            "course": "Olympics Marathon",
+            "profil_split": 108,
+            "objectif_heure": 2,
+            "objectif_minute": 29,
+            "objectif_seconde": 54,
+            "threshold": 0.5,
+            "a_gradient": 10,
+            "a_split": 0,
+            "a_drift": 1,
+            "a_vent": 1,
+            "a_temp": 1,
+            "previous_place": 10
+        }
+    },
+
+
+
+
+
+
+
+
+    "duncanperillat": {
+        "infos": {
+            "nom": "Perillat",
+            "prenom": "Duncan",
+            "age": 30,
+            "cote": 382,
+            "nationality": "French",
+            "Team": "Hoka",
+            "personalized_message":"Bon courage Duncan avec le magnifique stage que tu as fait ça va passer tout seul, éclate toi bien"
+        },
+
+        "Race": {
+            "template": "marathon",
+            "course": "Sevilla marathon",
+            "profil_split": 100,
+            "objectif_heure": 2,
+            "objectif_minute": 6,
+            "objectif_seconde": 45,
+            "threshold": 0.5,
+            "a_gradient": 1,
+            "a_split": 0,
+            "a_drift": 1,
+            "a_vent": 1,
+            "a_temp": 0,
+            "previous_place": 8
+        }
+    },
+
+
+
+    
+
+
+    
+        "nicolasurien": {
+            "infos": {
+                "nom": "Urien",
+                "prenom": "Nicolas",
+                "birthdate": "17/12/1995",
+                "cote": 730,
+                "nationality": "France",
+                "Team": "Satuc Toulouse Athle",
+                "personalized_message":"Good luck for this race, I'm 100% that you will feel strong",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":75, 
+                "sexe":"M",
+                "poids":65,     
+                "taille":182     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Championnat de France de Trail Long",
+                "profil_split": -8,
+                "objectif_heure": 6,
+                "objectif_minute": 10,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 15,
+                "a_split": 1,
+                "a_drift": 2,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 51
+            }
+
+        },
+
+
+
+        "margueritetalamon": {
+            "infos": {
+                "nom": "Talamon",
+                "prenom": "Marguerite",
+                "birthdate": "03/03/2000",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "PUC",
+                "personalized_message":"Good luck for this race, I'm 100% that you will feel strong",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":70, 
+                "sexe":"F",
+                "poids":61,     
+                "taille":158     
+            },
+            "Race": {
+                "template": "marathon",
+                "course": "Paris Marathon",
+                "profil_split": -8,
+                "objectif_heure": 3,
+                "objectif_minute": 30,
+                "objectif_seconde": 0,
+                "threshold": 2,
+                "a_gradient": 15,
+                "a_split": 1,
+                "a_drift": 2,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 10223
+            }
+
+        },
+
+
+
+
+        "amandinedurey": {
+            "infos": {
+                "nom": "Durey",
+                "prenom": "Amandine",
+                "birthdate": "07/02/1987",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Triathlon Vast",
+                "personalized_message":"Good luck for this race, I'm 100% that you will feel strong",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":65, 
+                "sexe":"F",
+                "poids":53,     
+                "taille":163     
+            },
+            "Race": {
+                "template": "marathon",
+                "course": "Paris Marathon",
+                "profil_split": -8,
+                "objectif_heure": 3,
+                "objectif_minute": 40,
+                "objectif_seconde": 0,
+                "threshold": 2,
+                "a_gradient": 15,
+                "a_split": 1,
+                "a_drift": 2,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 14319
+            }
+
+        },
+
+
+
+
+
+        "hellenobiri": {
+            "infos": {
+                "nom": "Obiri",
+                "prenom": "Hellen",
+                "birthdate": "13/12/1989",
+                "cote": 0,
+                "nationality": "Kenya",
+                "Team": "ON",
+                "personalized_message":"Good luck for this race, I'm 100% that you will finish strong and win the title",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":65,
+                "sexe":"F",
+                "poids":50,     
+                "taille":161     
+            },
+            "Race": {
+                "template": "route",
+                "course": "Olympics Marathon",
+                "profil_split": 108,
+                "objectif_heure": 2,
+                "objectif_minute": 26,
+                "objectif_seconde": 51,
+                "threshold": 0.5,
+                "a_gradient": 15,
+                "a_split": 0,
+                "a_drift": 1,
+                "a_vent": 1,
+                "a_temp": 1,
+                "previous_place": 1
+            }
+
+        },
+
+
+
+
+
+
+        "thomaslorblanchet": {
+            "infos": {
+                "nom": "Lorblanchet",
+                "prenom": "Thomas",
+                "birthdate": "26/05/1980",
+                "cote": 892,
+                "nationality": "France",
+                "Team": "Asics",
+                "personalized_message":"Good luck for this race, I'm 100% that you will feel strong",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":80, 
+                "sexe":"M",
+                "poids":67,     
+                "taille":179     
+            },
+            "Race": {
+                "template": "marathon",
+                "course": "Grand Raid des Templiers",
+                "profil_split": -8,
+                "objectif_heure": 7,
+                "objectif_minute": 16,
+                "objectif_seconde": 0,
+                "threshold": 2,
+                "a_gradient": 15,
+                "a_split": 1,
+                "a_drift": 2,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 3
+            }
+
+        },
+
+
+
+
+
+
+        "joshuarowe": {
+            "infos": {
+                "nom": "Rowe",
+                "prenom": "Joshua",
+                "birthdate": "01/01/1987",
+                "cote": 0,
+                "nationality": "Great Britain",
+                "Team": "Maurten",
+                "personalized_message":"Good luck for this race, I'm 100% that you will feel strong",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":85, 
+                "sexe":"M",
+                "poids":70,     
+                "taille":175     
+            },
+            "Race": {
+                "template": "marathon",
+                "course": "London Marathon",
+                "profil_split": -8,
+                "objectif_heure": 2,
+                "objectif_minute": 30,
+                "objectif_seconde": 0,
+                "threshold": 2,
+                "a_gradient": 15,
+                "a_split": 1,
+                "a_drift": 2,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 127
+            }
+
+        },
+
+
+        "petterengdahl": {
+            "infos": {
+                "nom": "Engdahl",
+                "prenom": "Petter",
+                "birthdate": "23/07/1994",
+                "cote": 925,
+                "nationality": "Sweden",
+                "Team": "Adidas Terrex",
+                "personalized_message":"Good luck for this race Petter, I'm sure the 100 miles format is for you",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":80, 
+                "sexe":"M",
+                "poids":59,     
+                "taille":170     
+            },
+            "Race1": {
+                "template": "trail",
+                "course": "Transvulcania",
+                "profil_split": 108,
+                "objectif_heure": 7,
+                "objectif_minute": 2,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 0,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Western States",
+                "profil_split": 108,
+                "objectif_heure": 14,
+                "objectif_minute": 37,
+                "objectif_seconde": 26,
+                "threshold": 8,
+                "a_gradient": 1,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            }
+        
+        },
+
+
+        "ruthcroft": {
+            "infos": {
+                "nom": "Croft",
+                "prenom": "Ruth",
+                "birthdate": "15/01/1989",
+                "cote": 925,
+                "nationality": "New Zealand",
+                "Team": "Adidas Terrex",
+                "personalized_message":"Good luck for this race Ruth, I'm sure you'll destroy it",
+                "best_nutrition_brand":"Energy Spring",
+                "energy_consumption":70, 
+                "sexe":"F",
+                "poids":49,     
+                "taille":170     
+            },
+            "Race2": {
+                "template": "trail",
+                "course": "Transvulcania",
+                "profil_split": 108,
+                "objectif_heure": 8,
+                "objectif_minute": 4,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 15,
+                "a_split": 1,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            },
+
+            "Race": {
+                "template": "trail",
+                "course": "UTMB",
+                "profil_split": 108,
+                "objectif_heure": 23,
+                "objectif_minute": 24,
+                "objectif_seconde": 37,
+                "threshold": 8,
+                "a_gradient": 1,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            }
+        
+        },
+
+
+
+        "adrienbono": {
+            "infos": {
+                "nom": "Bono",
+                "prenom": "Adrien",
+                "birthdate": "faaake 15/01/1989",
+                "cote": 925,
+                "nationality": "New Zealand",
+                "Team": "Adidas Terrex",
+                "personalized_message":"Good luck for this race Adri, I'm sure you'll destroy it",
+                "best_nutrition_brand":"Energy Spring",
+                "energy_consumption":70, 
+                "sexe":"F",
+                "poids":49,     
+                "taille":170     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Transvulcania",
+                "profil_split": 108,
+                "objectif_heure": 8,
+                "objectif_minute": 4,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 0,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            }
+        
+        }
+
+
+        ,
+
+
+
+        "alodieboissonnet": {
+            "infos": {
+                "nom": "Boissonnet",
+                "prenom": "Alodie",
+                "birthdate": "15/01/1998",
+                "cote": 650,
+                "nationality": "France",
+                "Team": "l'X",
+                "personalized_message":"Good luck for this race Alodie, et bonne semaine au ski",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":70, 
+                "sexe":"F",
+                "poids":49,     
+                "taille":162     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Paris Marathon",
+                "profil_split": 108,
+                "objectif_heure": 3,
+                "objectif_minute": 40,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 0,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 18000
+            }
+        
+        },
+
+
+
+
+
+
+        "felixbour": {
+            "infos": {
+                "nom": "Bour",
+                "prenom": "Felix",
+                "birthdate": "25/03/1994",
+                "cote": 1214,
+                "nationality": "France",
+                "Team": "Asics",
+                "personalized_message":"Bon courage Felix, avec ta spé vitesse tu vas nous faire un finish fou",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":78, 
+                "sexe":"M",
+                "poids":59,     
+                "taille":184     
+            },
+            "Race1": {
+                "template": "route",
+                "course": "European championship half marathon",
+                "profil_split": 108,
+                "objectif_heure": 1,
+                "objectif_minute": 2,
+                "objectif_seconde": 16,
+                "threshold": 8,
+                "a_gradient": 0,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            },
+            "Race": {
+                "template": "route",
+                "course": "Olympics Marathon",
+                "profil_split": 108,
+                "objectif_heure": 2,
+                "objectif_minute": 14,
+                "objectif_seconde": 13,
+                "threshold": 0.5,
+                "a_gradient": 10,
+                "a_split": 0,
+                "a_drift": 1,
+                "a_vent": 1,
+                "a_temp": 1,
+                "previous_place": 10
+            }
+        
+        },
+
+
+
+
+
+
+
+
+        "fredtranchand": {
+            "infos": {
+                "nom": "Tranchand",
+                "prenom": "Fred",
+                "birthdate": "25/05/1988",
+                "cote": 899,
+                "nationality": "France",
+                "Team": "Scott",
+                "personalized_message":"Bonne course, Fred, t'es un local maintenant",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":80, 
+                "sexe":"M",
+                "poids":59,     
+                "taille":178     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Marathon du Mont Blanc",
+                "profil_split": 108,
+                "objectif_heure": 3,
+                "objectif_minute": 40,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 1,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 3
+            }
+        
+        },
+
+
+
+
+
+        "aureliendunandpallaz": {
+            "infos": {
+                "nom": "Dunand-Pallaz",
+                "prenom": "Aurélien",
+                "birthdate": "29/12/1992",
+                "cote": 896,
+                "nationality": "France",
+                "Team": "Compressport",
+                "personalized_message":"Come on Auré, une belle classique à accrocher à ton palmarès",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":80, 
+                "sexe":"M",
+                "poids":71,     
+                "taille":180     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "90k du Mont Blanc",
+                "profil_split": 108,
+                "objectif_heure": 10,
+                "objectif_minute": 32,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 15,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            }
+        
+        },
+
+
+
+
+
+        "camillefitoussi": {
+            "infos": {
+                "nom": "Fitoussi",
+                "prenom": "Camille",
+                "birthdate": "04/04/1987",
+                "cote": 1000,
+                "nationality": "France",
+                "Team": "pineur",
+                "personalized_message":"Une belle rando en amoureux, enjoy",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":80, 
+                "sexe":"F",
+                "poids":65,     
+                "taille":180     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Duo étoilé",
+                "profil_split": 108,
+                "objectif_heure": 5,
+                "objectif_minute": 30,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 15,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 536
+            }
+
+        },
+
+
+
+        "isadauger": {
+            "infos": {
+                "nom": "Dauger",
+                "prenom": "Isa",
+                "birthdate": "22/04/1997",
+                "cote": 1000,
+                "nationality": "France",
+                "Team": "Math et Isa",
+                "personalized_message":"Profite du coucher de soleil sur le plan de l'Aiguille",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":60, 
+                "sexe":"F",
+                "poids":50,     
+                "taille":163     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Duo étoilé",
+                "profil_split": 108,
+                "objectif_heure": 3,
+                "objectif_minute": 33,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 15,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 15
+            }
+
+        },
+
+
+
+
+
+
+        "nicolasnavarro": {
+            "infos": {
+                "nom": "Navarro",
+                "prenom": "Nicolas",
+                "birthdate": "12/03/1991",
+                "cote": 1229,
+                "nationality": "France",
+                "Team": "ON",
+                "personalized_message":"Bon courage Nico, tu nous fait la même remontada qu'à Tokyo",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":78, 
+                "sexe":"M",
+                "poids":54,     
+                "taille":170     
+            },
+            "Race": {
+                "template": "route",
+                "course": "Olympics Marathon",
+                "profil_split": 108,
+                "objectif_heure": 2,
+                "objectif_minute": 14,
+                "objectif_seconde": 13,
+                "threshold": 0.5,
+                "a_gradient": 10,
+                "a_split": 0,
+                "a_drift": 1,
+                "a_vent": 1,
+                "a_temp": 1,
+                "previous_place": 10
+            }
+        
+        },
+
+
+        "anthonysaliou": {
+            "infos": {
+                "nom": "Saliou",
+                "prenom": "Anthony",
+                "birthdate": "23/10/1996",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "MA2M",
+                "personalized_message":"From 800m to UTMB",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":60, 
+                "sexe":"M",
+                "poids":61,     
+                "taille":177     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "UTMB",
+                "profil_split": 108,
+                "objectif_heure": 25,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 1,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 0
+            }
+        
+        },
+
+        "maximegerardin": {
+            "infos": {
+                "nom": "Gerardin",
+                "prenom": "Maxime",
+                "birthdate": "01/01/1997",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Salty Athletics",
+                "personalized_message":"Sub2h35 champion !",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":70, 
+                "sexe":"M",
+                "poids":70,     
+                "taille":182    
+            },
+            "Race": {
+                "template": "route",
+                "course": "Paris Marathon",
+                "profil_split": 108,
+                "objectif_heure": 2,
+                "objectif_minute": 35,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 15,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 0
+            }
+        
+        },
+        "maximegerardin": {
+            "infos": {
+                "nom": "Gerardin",
+                "prenom": "Maxime",
+                "birthdate": "01/01/1997",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Salty Athletics",
+                "personalized_message":"Sub2h35 champion !",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":70, 
+                "sexe":"M",
+                "poids":70,     
+                "taille":182    
+            },
+            "Race": {
+                "template": "route",
+                "course": "Paris Marathon",
+                "profil_split": 108,
+                "objectif_heure": 2,
+                "objectif_minute": 35,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 15,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 0
+            }
+        
+        }
+}
+
