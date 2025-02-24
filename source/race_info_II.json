@@ -130,5 +130,69 @@
         "zoom_de_la_carte": 12,
         "start_time": "2025-03-01",
         "start_hour": "08:00:00"
+    },
+
+    "Barcelona Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "3": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "4": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "5": {
+                "nom": "Half",
+                "dist": 21.1,
+                "ravito": "water"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Finish",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 120,
+        "deniiiv_negatiiif_off": 120,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2022,
+        "zoom_de_la_carte": 12,
+        "start_time": "2025-03-02",
+        "start_hour": "08:55:00"
     }
 }

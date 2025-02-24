@@ -1095,102 +1095,69 @@
             }
         
         },
-        "maximegerardin": {
+        
+        "pierrephilippebroizat": {
             "infos": {
-                "nom": "Gerardin",
-                "prenom": "Maxime",
-                "birthdate": "01/01/1997",
+                "nom": "Broizat",
+                "prenom": "Pierre-Philippe",
+                "birthdate": "07/05/1980",
                 "cote": 0,
                 "nationality": "France",
-                "Team": "Salty Athletics",
-                "personalized_message":"Sub2h35 champion !",
-                "best_nutrition_brand":"Maurten",
-                "energy_consumption":70, 
+                "Team": "Team Sebastien Chassagne",
+                "personalized_message":"Gogogo Pierre-Philippe !",
+                "best_nutrition_brand":"None",
+                "energy_consumption":80, 
                 "sexe":"M",
                 "poids":70,     
-                "taille":182    
+                "taille":186     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Ceven Trail Etoiles",
+                "profil_split": 108,
+                "objectif_heure": 5,
+                "objectif_minute": 40,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 1,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 0
+            }
+        
+        },
+
+        "lisaaidonidis": {
+            "infos": {
+                "nom": "Aïdonidis",
+                "prenom": "Lisa",
+                "birthdate": "24/05/1996",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Toto Coaching",
+                "personalized_message":"Et ça fait bim bam boum!",
+                "best_nutrition_brand":"TA Energy",
+                "energy_consumption":60, 
+                "sexe":"F",
+                "poids":48,     
+                "taille":152    
             },
             "Race": {
                 "template": "route",
-                "course": "Paris Marathon",
-                "profil_split": 108,
-                "objectif_heure": 2,
-                "objectif_minute": 35,
+                "course": "Barcelona Marathon",
+                "profil_split": 105,
+                "objectif_heure": 3,
+                "objectif_minute": 20,
                 "objectif_seconde": 0,
                 "threshold": 1,
-                "a_gradient": 15,
+                "a_gradient": 5,
                 "a_split": 0,
                 "a_drift": 0,
                 "a_vent": 0,
                 "a_temp": 1,
                 "previous_place": 0
             }
-        
-        },
-        "pierrephilippebroizat": {
-            "infos": {
-                "nom": "Broizat",
-                "prenom": "Pierre-Philippe",
-                "birthdate": "07/05/1980",
-                "cote": 0,
-                "nationality": "France",
-                "Team": "Team Sebastien Chassagne",
-                "personalized_message":"Gogogo Pierre-Philippe !",
-                "best_nutrition_brand":"None",
-                "energy_consumption":80, 
-                "sexe":"M",
-                "poids":70,     
-                "taille":186     
-            },
-            "Race": {
-                "template": "trail",
-                "course": "Ceven Trail Etoiles",
-                "profil_split": 108,
-                "objectif_heure": 5,
-                "objectif_minute": 40,
-                "objectif_seconde": 0,
-                "threshold": 8,
-                "a_gradient": 1,
-                "a_split": 0,
-                "a_drift": 0,
-                "a_vent": 0,
-                "a_temp": 1,
-                "previous_place": 0
-            }
-        
-        },
-        
-        "pierrephilippebroizat": {
-            "infos": {
-                "nom": "Broizat",
-                "prenom": "Pierre-Philippe",
-                "birthdate": "07/05/1980",
-                "cote": 0,
-                "nationality": "France",
-                "Team": "Team Sebastien Chassagne",
-                "personalized_message":"Gogogo Pierre-Philippe !",
-                "best_nutrition_brand":"None",
-                "energy_consumption":80, 
-                "sexe":"M",
-                "poids":70,     
-                "taille":186     
-            },
-            "Race": {
-                "template": "trail",
-                "course": "Ceven Trail Etoiles",
-                "profil_split": 108,
-                "objectif_heure": 5,
-                "objectif_minute": 40,
-                "objectif_seconde": 0,
-                "threshold": 8,
-                "a_gradient": 1,
-                "a_split": 0,
-                "a_drift": 0,
-                "a_vent": 0,
-                "a_temp": 1,
-                "previous_place": 0
-            }
-        
         }
 }
-
