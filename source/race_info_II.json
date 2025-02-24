@@ -71,52 +71,57 @@
 "Paris Marathon": {
         "ravitos": {
             "1": {
+                "nom": "Champs Elysées",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
                 "nom": "5k",
                 "dist": 5,
                 "ravito": "water"
             },
-            "2": {
+            "3": {
                 "nom": "10k",
                 "dist": 10,
                 "ravito": "226 gel Stawberries Banana"
             },
-            "3": {
+            "4": {
                 "nom": "15k",
                 "dist": 15,
                 "ravito": "water"
             },
-            "4": {
+            "5": {
                 "nom": "20k",
                 "dist": 20,
                 "ravito": "226 gel Stawberries Banana"
             },
-            "5": {
+            "6": {
                 "nom": "Half",
                 "dist": 21.1,
                 "ravito": "water"
             },
-            "6": {
+            "7": {
                 "nom": "25k",
                 "dist": 25,
                 "ravito": "226 gel cola"
             },
-            "7": {
+            "8": {
                 "nom": "30k",
                 "dist": 30,
                 "ravito": "water"
             },
-            "8": {
+            "9": {
                 "nom": "35k",
                 "dist": 35,
                 "ravito": "226 gel cola"
             },
-            "9": {
+            "10": {
                 "nom": "40k",
                 "dist": 40,
                 "ravito": "water"
             },
-            "10": {
-                "nom": "Finish",
+            "11": {
+                "nom": "Arc de Triomphe",
                 "dist": 42.195,
                 "ravito": "water"
             }
@@ -135,52 +140,57 @@
     "Barcelona Marathon": {
         "ravitos": {
             "1": {
+                "nom": "Plaça Catalunya",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
                 "nom": "5k",
                 "dist": 5,
                 "ravito": "water"
             },
-            "2": {
+            "3": {
                 "nom": "10k",
                 "dist": 10,
                 "ravito": "226 gel Stawberries Banana"
             },
-            "3": {
+            "4": {
                 "nom": "15k",
                 "dist": 15,
                 "ravito": "water"
             },
-            "4": {
+            "5": {
                 "nom": "20k",
                 "dist": 20,
                 "ravito": "226 gel Stawberries Banana"
             },
-            "5": {
+            "6": {
                 "nom": "Half",
                 "dist": 21.1,
                 "ravito": "water"
             },
-            "6": {
+            "7": {
                 "nom": "25k",
                 "dist": 25,
                 "ravito": "226 gel cola"
             },
-            "7": {
+            "8": {
                 "nom": "30k",
                 "dist": 30,
                 "ravito": "water"
             },
-            "8": {
+            "9": {
                 "nom": "35k",
                 "dist": 35,
                 "ravito": "226 gel cola"
             },
-            "9": {
+            "10": {
                 "nom": "40k",
                 "dist": 40,
                 "ravito": "water"
             },
-            "10": {
-                "nom": "Finish",
+            "11": {
+                "nom": "Arc de Triomf",
                 "dist": 42.195,
                 "ravito": "water"
             }

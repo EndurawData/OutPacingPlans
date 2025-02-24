@@ -15,23 +15,32 @@
     "index": 0,
     "race_type": "route",
     "aid_station": {
-      "5k (Start)": {
+      "Champs Elys\u00e9es (Start)": {
         "station_time": "00:00:00",
-        "station_distance": 5,
-        "gap_aid_station": 5,
+        "station_distance": 0,
+        "gap_aid_station": 0,
         "nutrition": 0,
-        "hydration": 220,
+        "hydration": 35,
         "nombre_de_bidon": 0,
         "nombre_gel": 0
+      },
+      "5k": {
+        "station_time": "00:18:21",
+        "station_distance": 5,
+        "gap_aid_station": 5,
+        "nutrition": 21,
+        "hydration": 148,
+        "nombre_de_bidon": 0,
+        "nombre_gel": 1
       },
       "10k": {
         "station_time": "00:36:49",
         "station_distance": 10,
         "gap_aid_station": 5,
-        "nutrition": 43,
-        "hydration": 148,
+        "nutrition": 22,
+        "hydration": 185,
         "nombre_de_bidon": 1,
-        "nombre_gel": 2
+        "nombre_gel": 1
       },
       "15k": {
         "station_time": "00:55:04",
@@ -96,7 +105,7 @@
         "nombre_de_bidon": 0,
         "nombre_gel": 1
       },
-      "Finish (Finish)": {
+      "Arc de Triomphe (Finish)": {
         "station_time": "02:35:00",
         "station_distance": 42.2,
         "gap_aid_station": 2.2,

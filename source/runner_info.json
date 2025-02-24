@@ -1159,5 +1159,67 @@
                 "a_temp": 1,
                 "previous_place": 0
             }
+        },
+        "romanallais": {
+            "infos": {
+                "nom": "Allais",
+                "prenom": "Roman",
+                "birthdate": "08/04/1997",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Toto Coaching",
+                "personalized_message":"MEILLEUR FILLOT!",
+                "best_nutrition_brand":"Overstims",
+                "energy_consumption":75, 
+                "sexe":"M",
+                "poids":88,     
+                "taille":188    
+            },
+            "Race": {
+                "template": "route",
+                "course": "Barcelona Marathon",
+                "profil_split": 98,
+                "objectif_heure": 3,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 5,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 0
+            }
+        },
+        "arthurhalbaut": {
+            "infos": {
+                "nom": "Halbaut",
+                "prenom": "Arthur",
+                "birthdate": "13/02/1997",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Toto Coaching",
+                "personalized_message":"Le marathon pour travailler la vitesse",
+                "best_nutrition_brand":"Overstims",
+                "energy_consumption":80, 
+                "sexe":"M",
+                "poids":64,     
+                "taille":175   
+            },
+            "Race": {
+                "template": "route",
+                "course": "Barcelona Marathon",
+                "profil_split": 105,
+                "objectif_heure": 3,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 5,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 0
+            }
         }
 }
