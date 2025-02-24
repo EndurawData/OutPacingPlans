@@ -1126,6 +1126,71 @@
                 "previous_place": 0
             }
         
+        },
+        "pierrephilippebroizat": {
+            "infos": {
+                "nom": "Broizat",
+                "prenom": "Pierre-Philippe",
+                "birthdate": "07/05/1980",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Team Sebastien Chassagne",
+                "personalized_message":"Gogogo Pierre-Philippe !",
+                "best_nutrition_brand":"None",
+                "energy_consumption":80, 
+                "sexe":"M",
+                "poids":70,     
+                "taille":186     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Ceven Trail Etoiles",
+                "profil_split": 108,
+                "objectif_heure": 5,
+                "objectif_minute": 40,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 1,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 0
+            }
+        
+        },
+        
+        "pierrephilippebroizat": {
+            "infos": {
+                "nom": "Broizat",
+                "prenom": "Pierre-Philippe",
+                "birthdate": "07/05/1980",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Team Sebastien Chassagne",
+                "personalized_message":"Gogogo Pierre-Philippe !",
+                "best_nutrition_brand":"None",
+                "energy_consumption":80, 
+                "sexe":"M",
+                "poids":70,     
+                "taille":186     
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Ceven Trail Etoiles",
+                "profil_split": 108,
+                "objectif_heure": 5,
+                "objectif_minute": 40,
+                "objectif_seconde": 0,
+                "threshold": 8,
+                "a_gradient": 1,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 0
+            }
+        
         }
 }
 
