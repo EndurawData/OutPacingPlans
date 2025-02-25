@@ -1221,5 +1221,36 @@
                 "a_temp": 1,
                 "previous_place": 0
             }
+        },
+    "antoinegenot": {
+            "infos": {
+                "nom": "Genot",
+                "prenom": "Antoine",
+                "birthdate": "07/01/1994",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Run In Crès",
+                "personalized_message":"On verra où ça va",
+                "best_nutrition_brand":"Nutriquoi?",
+                "energy_consumption":60, 
+                "sexe":"M",
+                "poids":64,     
+                "taille":170  
+            },
+            "Race": {
+                "template": "route",
+                "course": "Barcelona Marathon",
+                "profil_split": 108,
+                "objectif_heure": 2,
+                "objectif_minute": 52,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 5,
+                "a_split": 0,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 0
+            }
         }
 }
