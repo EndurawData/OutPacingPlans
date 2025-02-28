@@ -1120,10 +1120,10 @@
                 "objectif_seconde": 0,
                 "threshold": 8,
                 "a_gradient": 1,
-                "a_split": 0,
-                "a_drift": 0,
+                "a_split": 1,
+                "a_drift": 1,
                 "a_vent": 0,
-                "a_temp": 1,
+                "a_temp": 0,
                 "previous_place": 0
             }
         
@@ -1147,16 +1147,16 @@
             "Race": {
                 "template": "route",
                 "course": "Barcelona Marathon",
-                "profil_split": 108,
+                "profil_split": 0.05,
                 "objectif_heure": 3,
                 "objectif_minute": 20,
                 "objectif_seconde": 0,
                 "threshold": 1,
-                "a_gradient": 5,
-                "a_split": 0,
+                "a_gradient": 1,
+                "a_split": 1,
                 "a_drift": 1,
                 "a_vent": 0,
-                "a_temp": 1,
+                "a_temp": 0,
                 "previous_place": 0
             }
         },
@@ -1178,16 +1178,16 @@
             "Race": {
                 "template": "route",
                 "course": "Barcelona Marathon",
-                "profil_split": 108,
+                "profil_split": 0.05,
                 "objectif_heure": 3,
                 "objectif_minute": 0,
                 "objectif_seconde": 0,
                 "threshold": 1,
-                "a_gradient": 5,
-                "a_split": 0,
+                "a_gradient": 1,
+                "a_split": 1,
                 "a_drift": 1,
                 "a_vent": 0,
-                "a_temp": 1,
+                "a_temp": 0,
                 "previous_place": 0
             }
         },
@@ -1240,16 +1240,16 @@
             "Race": {
                 "template": "route",
                 "course": "Barcelona Marathon",
-                "profil_split": 108,
+                "profil_split": 0.05,
                 "objectif_heure": 2,
                 "objectif_minute": 52,
                 "objectif_seconde": 0,
                 "threshold": 1,
-                "a_gradient": 5,
-                "a_split": 0,
+                "a_gradient": 1,
+                "a_split": 1,
                 "a_drift": 1,
                 "a_vent": 0,
-                "a_temp": 1,
+                "a_temp": 0,
                 "previous_place": 0
             }
         }
