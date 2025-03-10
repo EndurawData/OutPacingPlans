@@ -993,9 +993,6 @@
 
 
 
-
-
-
         "nicolasnavarro": {
             "infos": {
                 "nom": "Navarro",
@@ -1012,6 +1009,21 @@
                 "taille":170     
             },
             "Race": {
+                "template": "route",
+                "course": "Barcelona Marathon",
+                "profil_split": 0.05,
+                "objectif_heure": 2,
+                "objectif_minute": 5,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+            "Race2": {
                 "template": "route",
                 "course": "Olympics Marathon",
                 "profil_split": 108,
@@ -1046,6 +1058,21 @@
                 "taille":177     
             },
             "Race": {
+                "template": "route",
+                "course": "Barcelona Marathon",
+                "profil_split": 0.05,
+                "objectif_heure": 2,
+                "objectif_minute": 50,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+            "Race2": {
                 "template": "trail",
                 "course": "UTMB",
                 "profil_split": 108,
@@ -1081,16 +1108,16 @@
             "Race": {
                 "template": "route",
                 "course": "Paris Marathon",
-                "profil_split": 108,
+                "profil_split": 0.028,
                 "objectif_heure": 2,
                 "objectif_minute": 35,
                 "objectif_seconde": 0,
                 "threshold": 1,
-                "a_gradient": 15,
-                "a_split": 0,
-                "a_drift": 0,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 1,
                 "a_vent": 0,
-                "a_temp": 1,
+                "a_temp": 0,
                 "previous_place": 0
             }
         
@@ -1114,7 +1141,7 @@
             "Race": {
                 "template": "trail",
                 "course": "Ceven Trail Etoiles",
-                "profil_split": 108,
+                "profil_split": 0.08,
                 "objectif_heure": 5,
                 "objectif_minute": 40,
                 "objectif_seconde": 0,
@@ -1180,7 +1207,7 @@
                 "course": "Barcelona Marathon",
                 "profil_split": 0.05,
                 "objectif_heure": 3,
-                "objectif_minute": 0,
+                "objectif_minute": 13,
                 "objectif_seconde": 0,
                 "threshold": 1,
                 "a_gradient": 1,
@@ -1214,7 +1241,7 @@
                 "objectif_minute": 0,
                 "objectif_seconde": 0,
                 "threshold": 1,
-                "a_gradient": 1,
+                "a_gradient": 10,
                 "a_split": 1,
                 "a_drift": 1,
                 "a_vent": 0,
@@ -1252,5 +1279,175 @@
                 "a_temp": 0,
                 "previous_place": 0
             }
-        }
+        },
+    "morganpouliquen": {
+            "infos": {
+                "nom": "Pouliquen",
+                "prenom": "Morgan",
+                "birthdate": "05/01/1991",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Team Trail Finistère",
+                "personalized_message":"Le Bretagne, ça vous gagne !",
+                "best_nutrition_brand":"Overstims",
+                "energy_consumption":20, 
+                "sexe":"M",
+                "poids":65,     
+                "taille":186  
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Ceven Trail Etoiles",
+                "profil_split": 0.05,
+                "objectif_heure": 6,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 0.5,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+            "Race2": {
+                "template": "trail",
+                "course": "UTMB",
+                "profil_split": 0.05,
+                "objectif_heure": 18,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 0.5,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            }
+        },
+    "antoinedoutte": {
+            "infos": {
+                "nom": "Doutté",
+                "prenom": "Antoine",
+                "birthdate": "01/11/1977",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "La Réunion lé là !",
+                "personalized_message":"",
+                "best_nutrition_brand":"None",
+                "energy_consumption":20, 
+                "sexe":"M",
+                "poids":70,     
+                "taille":180,
+                "perkm": "False",
+                "sleep": "True"
+            },
+            "Race2": {
+                "template": "trail",
+                "course": "Ceven Trail Etoiles",
+                "profil_split": 0.05,
+                "objectif_heure": 6,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 0.5,
+                "a_split": 0,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Tor des Glaciers",
+                "profil_split": 0.01,
+                "objectif_heure": 158,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 5,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            }
+        },
+        "pierrequirroulle": {
+            "infos": {
+                "nom": "Quirroulle",
+                "prenom": "Pierre",
+                "birthdate": "01/01/1992",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Palamousse Trail Club",
+                "personalized_message":"",
+                "best_nutrition_brand":"",
+                "energy_consumption":20, 
+                "sexe":"M",
+                "poids":61,     
+                "taille":177     
+            },
+            "Race2": {
+                "template": "trail",
+                "course": "Ceven Trail Etoiles",
+                "profil_split": 0.05,
+                "objectif_heure": 6,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+            "Race3": {
+                "template": "route",
+                "course": "Paris Marathon",
+                "profil_split": 0.05,
+                "objectif_heure": 2,
+                "objectif_minute": 55,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+            "Race4": {
+                "template": "route",
+                "course": "Boston Marathon",
+                "profil_split": 0.05,
+                "objectif_heure": 2,
+                "objectif_minute": 55,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+            "Race": {
+                "template": "route",
+                "course": "Annecy Marathon",
+                "profil_split": 0.05,
+                "objectif_heure": 4,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            }
+    }
 }

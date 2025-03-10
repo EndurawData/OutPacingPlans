@@ -1,39 +1,38 @@
-{"UTMB": {
-    "ravitos": {
-        "1": {"nom": "Chamonix", "dist": 0.0, "deniiiv": 1044, "lon": 6.86912, "lat": 45.9236}, 
-        "2": {"nom": "Les Houches", "dist": 7.847, "deniiiv": 1014, "lon": 6.79824, "lat": 45.89014}, 
-        "3": {"nom": "Saint-Gervais", "dist": 21.573, "deniiiv": 811, "lon": 6.71137, "lat": 45.89301}, 
-        "4": {"nom": "Les Contamines", "dist": 31.229, "deniiiv": 1163, "lon": 6.72624, "lat": 45.82233}, 
-        "5": {"nom": "Notre Dame de la Gorge", "dist": 35.651, "deniiiv": 1214, "lon": 6.71599, "lat": 45.79192}, 
-        "6": {"nom": "La Balme", "dist": 39.879, "deniiiv": 1709, "lon": 6.71094, "lat": 45.75766}, 
-        "7": {"nom": "Col du Bonhomme", "dist": 43.694, "deniiiv": 2330, "lon": 6.70676, "lat": 45.73517}, 
-        "8": {"nom": "Refuge de la Croix du Bonhomme", "dist": 45.749, "deniiiv": 2450, "lon": 6.71757, "lat": 45.72219}, 
-        "9": {"nom": "Les Chapieux", "dist": 50.999, "deniiiv": 1546, "lon": 6.73353, "lat": 45.69554}, 
-        "10": {"nom": "Col de la Seigne", "dist": 61.79, "deniiiv": 2513, "lon": 6.80716, "lat": 45.75138}, 
-        "11": {"nom": "Col des Pyramides Calcaires", "dist": 64.519, "deniiiv": 2572, "lon": 6.81734, "lat": 45.76261}, 
-        "12": {"nom": "Refuge Elisabetta", "dist": 67.179, "deniiiv": 2194, "lon": 6.83729, "lat": 45.76689}, 
-        "13": {"nom": "Lac Combal", "dist": 70.363, "deniiiv": 1962, "lon": 6.86991, "lat": 45.77538}, 
-        "14": {"nom": "Ar\u00eate du Mont Favre", "dist": 73.059, "deniiiv": 2437, "lon": 6.88973, "lat": 45.77218}, 
-        "15": {"nom": "Checrouit - Maison Vieille", "dist": 77.671, "deniiiv": 1954, "lon": 6.93108, "lat": 45.79064}, 
-        "16": {"nom": "Courmayeur Forum Sport Center", "dist": 82.696, "deniiiv": 1197, "lon": 6.9643, "lat": 45.7947}, 
-        "17": {"nom": "Refuge Bertone", "dist": 88.168, "deniiiv": 1977, "lon": 6.97875, "lat": 45.80894}, 
-        "18": {"nom": "Refuge Bonatti", "dist": 95.799, "deniiiv": 2024, "lon": 7.03319, "lat": 45.84678}, 
-        "19": {"nom": "Arnouvaz", "dist": 100.987, "deniiiv": 1787, "lon": 7.05363, "lat": 45.87074}, 
-        "20": {"nom": "Grand Col Ferret", "dist": 105.671, "deniiiv": 2535, "lon": 7.07784, "lat": 45.88893}, 
-        "21": {"nom": "La Peule", "dist": 109.281, "deniiiv": 2073, "lon": 7.11251, "lat": 45.89881}, 
-        "22": {"nom": "La Fouly", "dist": 115.635, "deniiiv": 1603, "lon": 7.09842, "lat": 45.93568}, 
-        "23": {"nom": "Praz de Fort", "dist": 123.713, "deniiiv": 1156, "lon": 7.12584, "lat": 45.98888}, 
-        "24": {"nom": "Champex-Lac", "dist": 129.469, "deniiiv": 1472, "lon": 7.12225, "lat": 46.02579}, 
-        "25": {"nom": "Plan de l'Au", "dist": 134.352, "deniiiv": 1337, "lon": 7.07964, "lat": 46.04985}, 
-        "26": {"nom": "La Gi\u00e8te", "dist": 141.012, "deniiiv": 1882, "lon": 7.03316, "lat": 46.0555}, 
-        "27": {"nom": "Trient", "dist": 145.936, "deniiiv": 1308, "lon": 6.99486, "lat": 46.05583}, 
-        "28": {"nom": "Les Tseppes", "dist": 149.951, "deniiiv": 1943, "lon": 6.97957, "lat": 46.04748}, 
-        "29": {"nom": "Vallorcine", "dist": 158.032, "deniiiv": 1266, "lon": 6.93236, "lat": 46.03244}, 
-        "30": {"nom": "Col des Montets", "dist": 162.678, "deniiiv": 1428, "lon": 6.9259, "lat": 45.99745}, 
-        "31": {"nom": "T\u00eate de B\u00e9char", "dist": 164.502, "deniiiv": 1708, "lon": 6.91737, "lat": 45.98632}, 
-        "32": {"nom": "La Fl\u00e9g\u00e8re", "dist": 169.37, "deniiiv": 1899, "lon": 6.8866, "lat": 45.9606}, 
-        "33": {"nom": "Chamonix", "dist": 176.413, "deniiiv": 1044, "lon": 6.86913, "lat": 45.92361}
-    }, 
+{"UTMB": {"ravitos": 
+
+        {"1": {"nom": "Chamonix", "dist": 0.0, "deniiiv": 1044, "deniiiv_cum": 0, "lon": 6.86912, "lat": 45.9236}, 
+        "2": {"nom": "Les Houches", "dist": 7.847, "deniiiv": 1014, "deniiiv_cum": 111, "lon": 6.79824, "lat": 45.89014},
+        "3": {"nom": "Saint-Gervais", "dist": 21.573, "deniiiv": 811, "deniiiv_cum": 931, "lon": 6.71137, "lat": 45.89301}, 
+        "4": {"nom": "Les Contamines", "dist": 31.229, "deniiiv": 1163, "deniiiv_cum": 1445, "lon": 6.72624, "lat": 45.82233}, 
+        "5": {"nom": "Notre Dame de la Gorge", "dist": 35.651, "deniiiv": 1214, "deniiiv_cum": 1516, "lon": 6.71599, "lat": 45.79192}, 
+        "6": {"nom": "La Balme", "dist": 39.879, "deniiiv": 1709, "deniiiv_cum": 2014, "lon": 6.71094, "lat": 45.75766}, 
+        "7": {"nom": "Col du Bonhomme", "dist": 43.694, "deniiiv": 2330, "deniiiv_cum": 2636, "lon": 6.70676, "lat": 45.73517}, 
+        "8": {"nom": "Refuge de la Croix du Bonhomme", "dist": 45.749, "deniiiv": 2450, "deniiiv_cum": 2822, "lon": 6.71757, "lat": 45.72219}, 
+        "9": {"nom": "Les Chapieux", "dist": 50.999, "deniiiv": 1546, "deniiiv_cum": 2822, "lon": 6.73353, "lat": 45.69554}, 
+        "10": {"nom": "Col de la Seigne", "dist": 61.79, "deniiiv": 2513, "deniiiv_cum": 3894, "lon": 6.80716, "lat": 45.75138}, 
+        "11": {"nom": "Col des Pyramides Calcaires", "dist": 64.519, "deniiiv": 2572, "deniiiv_cum": 4172, "lon": 6.81734, "lat": 45.76261}, 
+        "12": {"nom": "Refuge Elisabetta", "dist": 67.179, "deniiiv": 2194, "deniiiv_cum": 4177, "lon": 6.83729, "lat": 45.76689}, 
+        "13": {"nom": "Lac Combal", "dist": 70.363, "deniiiv": 1962, "deniiiv_cum": 4181, "lon": 6.86991, "lat": 45.77538}, 
+        "14": {"nom": "Ar\u00eate du Mont Favre", "dist": 73.059, "deniiiv": 2437, "deniiiv_cum": 4656, "lon": 6.88973, "lat": 45.77218}, 
+        "15": {"nom": "Checrouit - Maison Vieille", "dist": 77.671, "deniiiv": 1954, "deniiiv_cum": 4680, "lon": 6.93108, "lat": 45.79064}, 
+        "16": {"nom": "Courmayeur Forum Sport Center", "dist": 82.696, "deniiiv": 1197, "deniiiv_cum": 4690, "lon": 6.9643, "lat": 45.7947}, 
+        "17": {"nom": "Refuge Bertone", "dist": 88.168, "deniiiv": 1977, "deniiiv_cum": 5486, "lon": 6.97875, "lat": 45.80894}, 
+        "18": {"nom": "Refuge Bonatti", "dist": 95.799, "deniiiv": 2024, "deniiiv_cum": 5802, "lon": 7.03319, "lat": 45.84678}, 
+        "19": {"nom": "Arnouvaz", "dist": 100.987, "deniiiv": 1787, "deniiiv_cum": 5934, "lon": 7.05363, "lat": 45.87074}, 
+        "20": {"nom": "Grand Col Ferret", "dist": 105.671, "deniiiv": 2535, "deniiiv_cum": 6701, "lon": 7.07784, "lat": 45.88893}, 
+        "21": {"nom": "La Peule", "dist": 109.281, "deniiiv": 2073, "deniiiv_cum": 6710, "lon": 7.11251, "lat": 45.89881}, 
+        "22": {"nom": "La Fouly", "dist": 115.635, "deniiiv": 1603, "deniiiv_cum": 6784, "lon": 7.09842, "lat": 45.93568}, 
+        "23": {"nom": "Praz de Fort", "dist": 123.713, "deniiiv": 1156, "deniiiv_cum": 6849, "lon": 7.12584, "lat": 45.98888}, 
+        "24": {"nom": "Champex-Lac", "dist": 129.469, "deniiiv": 1472, "deniiiv_cum": 7321, "lon": 7.12225, "lat": 46.02579}, 
+        "25": {"nom": "Plan de l'Au", "dist": 134.352, "deniiiv": 1337, "deniiiv_cum": 7380, "lon": 7.07964, "lat": 46.04985}, 
+        "26": {"nom": "La Gi\u00e8te", "dist": 141.012, "deniiiv": 1882, "deniiiv_cum": 8129, "lon": 7.03316, "lat": 46.0555}, 
+        "27": {"nom": "Trient", "dist": 145.936, "deniiiv": 1308, "deniiiv_cum": 8162, "lon": 6.99486, "lat": 46.05583}, 
+        "28": {"nom": "Les Tseppes", "dist": 149.951, "deniiiv": 1943, "deniiiv_cum": 8816, "lon": 6.97957, "lat": 46.04748}, 
+        "29": {"nom": "Vallorcine", "dist": 158.032, "deniiiv": 1266, "deniiiv_cum": 8995, "lon": 6.93236, "lat": 46.03244}, 
+        "30": {"nom": "Col des Montets", "dist": 162.678, "deniiiv": 1428, "deniiiv_cum": 9205, "lon": 6.9259, "lat": 45.99745}, 
+        "31": {"nom": "T\u00eate de B\u00e9char", "dist": 164.502, "deniiiv": 1708, "deniiiv_cum": 9501, "lon": 6.91737, "lat": 45.98632}, 
+        "32": {"nom": "La Fl\u00e9g\u00e8re", "dist": 169.37, "deniiiv": 1899, "deniiiv_cum": 9957, "lon": 6.8866, "lat": 45.9606}, 
+        "33": {"nom": "Chamonix", "dist": 176.413, "deniiiv": 1044, "deniiiv_cum": 9961, "lon": 6.86913, "lat": 45.92361}},
         "longueur_off": 176.413, 
         "deniiiv_off": 9940, 
         "deniiiv_negatiiif_off": 9952, 
@@ -42,8 +41,8 @@
         "date_de_creation": 2003, 
         "zoom_de_la_carte": 9, 
         "start_time": "2025-08-29", 
-        "start_hour": "18"
-    },
+        "start_hour": "18:00:00"},
+
 
 "Ceven Trail Etoiles": {
     "ravitos": {
@@ -62,7 +61,7 @@
         "record_feminin": "non sp\u00e9cifi\u00e9", 
         "record_masculin": "non sp\u00e9cifi\u00e9", 
         "date_de_creation": 2003, 
-        "zoom_de_la_carte": 10, 
+        "zoom_de_la_carte": 9, 
         "start_time": "2025-03-01", 
         "start_hour": "11:00:00"
     },
@@ -194,5 +193,682 @@
         "zoom_de_la_carte": 12,
         "start_time": "2025-03-02",
         "start_hour": "08:55:00"
-    }
+    },
+
+    "Boston Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "Hopkinton",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Boston",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 248,
+        "deniiiv_negatiiif_off": 388,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2020,
+        "zoom_de_la_carte": 40,
+        "start_time": "2025-04-21",
+        "start_hour": "10:00:00"
+    },
+
+    "Rotterdam Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "Stadhuis",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Stadhuis",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 41,
+        "deniiiv_negatiiif_off": 41,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2020,
+        "zoom_de_la_carte": 40,
+        "start_time": "2025-04-13",
+        "start_hour": "08:00:00"
+    },
+
+    "London Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "Greenwich Park",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "St-James Park",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 127,
+        "deniiiv_negatiiif_off": 161,
+        "record_feminin": "12h54",
+        "record_masculin": "11h03",
+        "date_de_creation": 1980,
+        "zoom_de_la_carte": 12,
+        "start_time": "2024-04-27",
+        "start_hour": "10:00:00"
+    },
+
+    "Nantes Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "Nefs des Machines",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Cité des Congrés",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 213,
+        "deniiiv_negatiiif_off": 205,
+        "record_feminin": "12h54",
+        "record_masculin": "11h03",
+        "date_de_creation": 1980,
+        "zoom_de_la_carte": 12,
+        "start_time": "2024-04-27",
+        "start_hour": "09:15:00"
+    },
+    "Montpellier Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "Jardin des plantes",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Arc de Triomphe",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 237,
+        "deniiiv_negatiiif_off": 222,
+        "record_feminin": "12h54",
+        "record_masculin": "11h03",
+        "date_de_creation": 1980,
+        "zoom_de_la_carte": 12,
+        "start_time": "2024-04-13",
+        "start_hour": "08:00:00"
+    },
+    "Poitiers Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "Poitiers - Hotel de Ville",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Futuroscope - Palais des congrés",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 233,
+        "deniiiv_negatiiif_off": 266,
+        "record_feminin": "12h54",
+        "record_masculin": "11h03",
+        "date_de_creation": 1980,
+        "zoom_de_la_carte": 12,
+        "start_time": "2024-04-13",
+        "start_hour": "08:30:00"
+    },
+    "European Championships 2025": {
+        "ravitos": {
+            "1": {
+                "nom": "Parc de Bruxelles",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Park Philipssite",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 79,
+        "deniiiv_negatiiif_off": 81,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2020,
+        "zoom_de_la_carte": 12,
+        "start_time": "2025-04-13",
+        "start_hour": "08:00:00"
+    },
+    "Milan Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "Piazza Del Duommo",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Piazza Del Duommo",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 79,
+        "deniiiv_negatiiif_off": 81,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2020,
+        "zoom_de_la_carte": 12,
+        "start_time": "2025-04-06",
+        "start_hour": "08:30:00"
+    },
+    "Zurich Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "Quaibrücke",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Mythenquai",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 41,
+        "deniiiv_negatiiif_off": 43,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2020,
+        "zoom_de_la_carte": 12,
+        "start_time": "2025-04-13",
+        "start_hour": "08:30:00"
+    },
+
+    "Annecy Marathon": {
+        "ravitos": {
+            "1": {
+                "nom": "Avenue D'Albigny",
+                "dist": 0,
+                "ravito": "water"
+            },
+            "2": {
+                "nom": "5k",
+                "dist": 5,
+                "ravito": "water"
+            },
+            "3": {
+                "nom": "10k",
+                "dist": 10,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "4": {
+                "nom": "15k",
+                "dist": 15,
+                "ravito": "water"
+            },
+            "5": {
+                "nom": "20k",
+                "dist": 20,
+                "ravito": "226 gel Stawberries Banana"
+            },
+            "6": {
+                "nom": "25k",
+                "dist": 25,
+                "ravito": "226 gel cola"
+            },
+            "7": {
+                "nom": "30k",
+                "dist": 30,
+                "ravito": "water"
+            },
+            "8": {
+                "nom": "35k",
+                "dist": 35,
+                "ravito": "226 gel cola"
+            },
+            "9": {
+                "nom": "40k",
+                "dist": 40,
+                "ravito": "water"
+            },
+            "10": {
+                "nom": "Le Pâquier",
+                "dist": 42.195,
+                "ravito": "water"
+            }
+        },
+        "longueur_off": 42.195,
+        "deniiiv_off": 86,
+        "deniiiv_negatiiif_off": 86,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2020,
+        "zoom_de_la_carte": 12,
+        "start_time": "2025-04-27",
+        "start_hour": "08:30:00"
+    },
+
+    "Tor des Glaciers" : 
+        {"ravitos": {
+        "2": {"nom": "Rifugio Elisabetta", "dist": 15.8, "deniiiv": 2197.0, "deniiiv_cum": 1530.0, "lat": 45.76670307666063, "lon": 6.838870402425528}, 
+        "3": {"nom": "Rifugio Deffeyes", "dist": 42.3, "deniiiv": 2500.0, "deniiiv_cum": 3157.0, "lat": 45.67863391712308, "lon": 6.967055853456259}, 
+        "4": {"nom": "Rifugio degli Angeli", "dist": 67.0, "deniiiv": 2916.0, "deniiiv_cum": 5344.0, "lat": 45.63898256979883, "lon": 7.050894582644105}, 
+        "5": {"nom": "Rifugio Bezzi", "dist": 87.7, "deniiiv": 2284.0, "deniiiv_cum": 6269.0, "lat": 45.56878186762333, "lon": 7.029000381007791}, 
+        "6": {"nom": "Rifugio Benevolo", "dist": 98.0, "deniiiv": 2287.0, "deniiiv_cum": 7151.0, "lat": 45.509468922391534, "lon": 7.057833876460791}, 
+        "7": {"nom": "Rifugio Savoia - Colle Nivolet", "dist": 108.0, "deniiiv": 2600.0, "deniiiv_cum": 8050.000000000001, "lat": 45.5034230556339, "lon": 7.128450991585851}, 
+        "8": {"nom": "Rifugio Vittorio Emanuele II", "dist": 121.0, "deniiiv": 2710.0, "deniiiv_cum": 8847.0, "lat": 45.51466972567141, "lon": 7.208358775824308}, 
+        "9": {"nom": "Rifugio Chabod", "dist": 126.0, "deniiiv": 2710.0, "deniiiv_cum": 9154.0, "lat": 45.52258358336985, "lon": 7.219268744811416}, 
+        "10": {"nom": "Rifugio Sella", "dist": 142.0, "deniiiv": 2570.0, "deniiiv_cum": 10537.0, "lat": 45.58085826225579, "lon": 7.274686535820365}, 
+        "11": {"nom": "Cogne", "dist": 159.0, "deniiiv": 1545.0, "deniiiv_cum": 10844.0, "lat": 45.61815831810236, "lon": 7.363515682518482}, 
+        "12": {"nom": "Rifugio Grauson", "dist": 168.0, "deniiiv": 2500.0, "deniiiv_cum": 11884.0, "lat": 45.631352020427585, "lon": 7.435351274907589}, 
+        "13": {"nom": "Rifugio Miserin", "dist": 181.0, "deniiiv": 2588.0, "deniiiv_cum": 12644.0, "lat": 45.61291283927858, "lon": 7.550630019977689}, 
+        "14": {"nom": "Rifugio Dondena", "dist": 185.0, "deniiiv": 2188.0, "deniiiv_cum": 12640.0, "lat": 45.6201558932662, "lon": 7.5919118989259}, 
+        "15": {"nom": "Dortoir Retempio", "dist": 209.0, "deniiiv": 1466.0, "deniiiv_cum": 14463.0, "lat": 45.57171855121851, "lon": 7.704410366714001}, 
+        "16": {"nom": "Rifugio Bonze", "dist": 218.0, "deniiiv": 1859.0, "deniiiv_cum": 15644.0, "lat": 45.577341886237264, "lon": 7.755358424037695}, 
+        "17": {"nom": "Rifugio Coda", "dist": 247.0, "deniiiv": 2224.0, "deniiiv_cum": 18629.0, "lat": 45.63287333585322, "lon": 7.894837316125631}, 
+        "18": {"nom": "Rifugio della Barma", "dist": 256.0, "deniiiv": 2040.0, "deniiiv_cum": 19212.0, "lat": 45.662822630256414, "lon": 7.912888415157795}, 
+        "19": {"nom": "Niel - Dortoir la Gruba", "dist": 272.0, "deniiiv": 1573.0, "deniiiv_cum": 20405.0, "lat": 45.72342865169048, "lon": 7.934460500255227}, 
+        "20": {"nom": "Rifugio Sitten", "dist": 301.0, "deniiiv": 2280.0, "deniiiv_cum": 22479.0, "lat": 45.87295677512884, "lon": 7.783124567940831}, 
+        "21": {"nom": "Resy - Rifugio Guide di Frachey", "dist": 314.0, "deniiiv": 2078.0, "deniiiv_cum": 23438.0, "lat": 45.8807557169348, "lon": 7.724260725080967}, 
+        "22": {"nom": "Hotel Lo Stambecco", "dist": 332.0, "deniiiv": 2810.0, "deniiiv_cum": 24888.0, "lat": 45.95845679752529, "lon": 7.654231516644359}, 
+        "23": {"nom": "Rifugio Perucca Vuillermoz", "dist": 353.0, "deniiiv": 2909.0, "deniiiv_cum": 26331.0, "lat": 45.902431569993496, "lon": 7.5405237916857}, 
+        "24": {"nom": "Rifugio Prarayer", "dist": 359.0, "deniiiv": 2005.0, "deniiiv_cum": 26589.0, "lat": 45.90907841920853, "lon": 7.509888187050819}, 
+        "25": {"nom": "Rifugio Cr\u00eate S\u00e8che", "dist": 374.0, "deniiiv": 2389.0, "deniiiv_cum": 27713.0, "lat": 45.89558397419751, "lon": 7.374510644003749}, 
+        "26": {"nom": "Rifugio Champillion", "dist": 396.0, "deniiiv": 2435.0, "deniiiv_cum": 29236.0, "lat": 45.84382019005716, "lon": 7.251415941864252}, 
+        "27": {"nom": "Hotel Italia - Gran San Bernardo", "dist": 416.0, "deniiiv": 2469.0, "deniiiv_cum": 30585.0, "lat": 45.85805366747081, "lon": 7.14185499586165}, 
+        "28": {"nom": "Rifugio Prassati", "dist": 425.0, "deniiiv": 2551.0, "deniiiv_cum": 31358.0, "lat": 45.835638362914324, "lon": 7.072248151525855}, 
+        "29": {"nom": "Monte de la Saxe", "dist": 439.0, "deniiiv": 1977.0, "deniiiv_cum": 32283.0, "lat": 45.79908865503967, "lon": 6.978656239807606}, 
+        "1": {"nom": "Courmayeur", "dist": 0, "deniiiv": 0, "deniiiv_cum": 0, "lat": 45.79155206680298, "lon": 6.97258472442627}, 
+        "30": {"nom": "Courmayeur", "dist": 443, "deniiiv": 1224, "deniiiv_cum": 32317, "lat": 45.79155206680298, "lon": 6.97258472442627}}, 
+        "longueur_off" : 443.0,
+        "deniiiv_off" : 32317,
+        "deniiiv_negatiiif_off": 32301,
+        "record_feminin": "non spécifié",
+        "record_masculin": "non spécifié",
+        "date_de_creation": 2000,
+        "zoom_de_la_carte": 9,
+        "start_time": "2025-09-06",
+        "start_hour": "20:00:00"}
 }
