@@ -1368,7 +1368,7 @@
                 "threshold": 1,
                 "a_gradient": 1,
                 "a_split": 1,
-                "a_drift": 5,
+                "a_drift": 10,
                 "a_vent": 0,
                 "a_temp": 0,
                 "previous_place": 0
@@ -1384,12 +1384,12 @@
                 "Team": "Palamousse Trail Club",
                 "personalized_message":"",
                 "best_nutrition_brand":"",
-                "energy_consumption":20, 
+                "energy_consumption":60, 
                 "sexe":"M",
                 "poids":61,     
                 "taille":177     
             },
-            "Race2": {
+            "Race": {
                 "template": "trail",
                 "course": "Ceven Trail Etoiles",
                 "profil_split": 0.05,
@@ -1434,11 +1434,26 @@
                 "a_temp": 0,
                 "previous_place": 0
             },
-            "Race": {
+            "Race5": {
                 "template": "route",
-                "course": "Annecy Marathon",
-                "profil_split": 0.05,
-                "objectif_heure": 4,
+                "course": "European Championships 2025",
+                "profil_split": 0.1,
+                "objectif_heure": 3,
+                "objectif_minute": 10,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+            "Race6": {
+                "template": "trail",
+                "course": "Ecotrail Paris 80km",
+                "profil_split": 0.1,
+                "objectif_heure": 10,
                 "objectif_minute": 0,
                 "objectif_seconde": 0,
                 "threshold": 1,
@@ -1449,5 +1464,36 @@
                 "a_temp": 0,
                 "previous_place": 0
             }
-    }
+    },
+    "tomevans": {
+            "infos": {
+                "nom": "Evans",
+                "prenom": "Tom",
+                "birthdate": "03/02/1992",
+                "cote": 0,
+                "nationality": "Great Britain",
+                "Team": "ASICS Fuji Trail",
+                "personalized_message":"Let's go Tom !",
+                "best_nutrition_brand":"Maurten",
+                "energy_consumption":80, 
+                "sexe":"M",
+                "poids":70,     
+                "taille":180   
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Tenerife Bluetrail",
+                "profil_split": 0.05,
+                "objectif_heure": 13,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 4,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            }
+        }
 }
