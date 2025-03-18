@@ -1495,5 +1495,36 @@
                 "a_temp": 0,
                 "previous_place": 0
             }
+        },
+        "arnaudbonin": {
+            "infos": {
+                "nom": "Bonin",
+                "prenom": "Arnaud",
+                "birthdate": "08/05/1985",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Nutripure",
+                "personalized_message":"Gogogo Arnaud !",
+                "best_nutrition_brand":"Nutripure",
+                "energy_consumption":60, 
+                "sexe":"M",
+                "poids":64,     
+                "taille":172   
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Chianti Ultra",
+                "profil_split": 0.05,
+                "objectif_heure": 5,
+                "objectif_minute": 50,
+                "objectif_seconde": 0,
+                "threshold": 1,
+                "a_gradient": 4,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            }
         }
 }

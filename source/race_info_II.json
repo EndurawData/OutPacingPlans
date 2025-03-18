@@ -948,6 +948,75 @@
              "date_de_creation": 2003, 
              "zoom_de_la_carte": 9, 
              "start_time": "2025-03-28", 
-             "start_hour": "23:00:00"}
-
-        }
+             "start_hour": "23:00:00"},
+            
+            "Chianti Ultra": {
+                "ravitos": {
+                    "1": {
+                        "nom": "Radda in Chianti",
+                        "dist": 0.0,
+                        "deniiiv": 532,
+                        "deniiiv_cum": 0,
+                        "lon": 11.37443304,
+                        "lat": 43.48661184
+                    },
+                    "2": {
+                        "nom": "Arillo Terrabianca",
+                        "dist": 11.946,
+                        "deniiiv": 415,
+                        "deniiiv_cum": 373,
+                        "lon": 11.34933888,
+                        "lat": 43.43248637
+                    },
+                    "3": {
+                        "nom": "Poggio San Polo",
+                        "dist": 23.892,
+                        "deniiiv": 503,
+                        "deniiiv_cum": 862,
+                        "lon": 11.37835996,
+                        "lat": 43.44817
+                    },
+                    "4": {
+                        "nom": "Villa Vistarenni",
+                        "dist": 39.417,
+                        "deniiiv": 502,
+                        "deniiiv_cum": 1461,
+                        "lon": 11.40243002,
+                        "lat": 43.48008997
+                    },
+                    "5": {
+                        "nom": "Castello di Albola",
+                        "dist": 50.811,
+                        "deniiiv": 614,
+                        "deniiiv_cum": 1997,
+                        "lon": 11.40320024,
+                        "lat": 43.51930923
+                    },
+                    "6": {
+                        "nom": "Villa San Michele",
+                        "dist": 60.856,
+                        "deniiiv": 847,
+                        "deniiiv_cum": 2640,
+                        "lon": 11.38476357,
+                        "lat": 43.55385541
+                    },
+                    "7": {
+                        "nom": "Radda in Chianti",
+                        "dist": 75.995,
+                        "deniiiv": 532,
+                        "deniiiv_cum": 3064,
+                        "lon": 11.37443304,
+                        "lat": 43.48661184
+                    }
+                },
+                "longueur_off": 75.995,
+                "deniiiv_off": 3056,
+                "deniiiv_negatiiif_off": 3061,
+                "record_feminin": "non sp\u00e9cifi\u00e9",
+                "record_masculin": "non sp\u00e9cifi\u00e9",
+                "date_de_creation": 2003,
+                "zoom_de_la_carte": 9,
+                "start_time": "2025-03-22",
+                "start_hour": "07:00:00"
+            }
+}
