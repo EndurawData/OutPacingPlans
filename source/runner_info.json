@@ -1513,9 +1513,9 @@
             },
             "Race": {
                 "template": "trail",
-                "course": "Chianti Ultra",
+                "course": "Chianti Marathon",
                 "profil_split": 0.05,
-                "objectif_heure": 5,
+                "objectif_heure": 2,
                 "objectif_minute": 50,
                 "objectif_seconde": 0,
                 "threshold": 1,

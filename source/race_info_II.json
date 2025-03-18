@@ -1018,5 +1018,60 @@
                 "zoom_de_la_carte": 9,
                 "start_time": "2025-03-22",
                 "start_hour": "07:00:00"
+            },
+            
+        "Chianti Marathon": 
+        {
+        "ravitos": {
+            "1": {
+                "nom": "Radda in Chianti",
+                "dist": 0.0,
+                "deniiiv": 532,
+                "deniiiv_cum": 0,
+                "lon": 11.37443304,
+                "lat": 43.48661184
+            },
+            "2": {
+                "nom": "Arillo Terrabianca",
+                "dist": 11.947,
+                "deniiiv": 415,
+                "deniiiv_cum": 373,
+                "lon": 11.34933888,
+                "lat": 43.43248637
+            },
+            "3": {
+                "nom": "Poggio San Polo",
+                "dist": 23.871,
+                "deniiiv": 503,
+                "deniiiv_cum": 866,
+                "lon": 11.37835996,
+                "lat": 43.44817
+            },
+            "4": {
+                "nom": "Villa Vistarenni",
+                "dist": 39.362,
+                "deniiiv": 501,
+                "deniiiv_cum": 1451,
+                "lon": 11.40234,
+                "lat": 43.48007999
+            },
+            "5": {
+                "nom": "Radda in Chianti",
+                "dist": 46.4,
+                "deniiiv": 532,
+                "deniiiv_cum": 1709,
+                "lon": 11.37440798,
+                "lat": 43.48659801
             }
+        },
+        "longueur_off": 46.4,
+        "deniiiv_off": 1703,
+        "deniiiv_negatiiif_off": 1705,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2003,
+        "zoom_de_la_carte": 9,
+        "start_time": "2025-03-23",
+        "start_hour": "09:00:00"
+    }
 }
