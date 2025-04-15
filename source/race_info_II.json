@@ -940,9 +940,9 @@
              "11": {"nom": "TIGAIGA", "dist": 100.667, "deniiiv": 286, "deniiiv_cum": 6050, "lon": -16.59738078, "lat": 28.38479984}, 
              "12": {"nom": "MAR\u00cdTIM", "dist": 106.546, "deniiiv": 61, "deniiiv_cum": 6284, "lon": -16.57133147, "lat": 28.4052305}, 
              "13": {"nom": "PUERTO DE LA CRUZ", "dist": 110.225, "deniiiv": 7, "deniiiv_cum": 6308, "lon": -16.54322709, "lat": 28.41914567}}, 
-             "longueur_off": 110.225, 
-             "deniiiv_off": 6298, 
-             "deniiiv_negatiiif_off": 6294, 
+             "longueur_off": 108.600, 
+             "deniiiv_off": 6359, 
+             "deniiiv_negatiiif_off": 6359, 
              "record_feminin": "non sp\u00e9cifi\u00e9", 
              "record_masculin": "non sp\u00e9cifi\u00e9", 
              "date_de_creation": 2003, 
@@ -1073,5 +1073,76 @@
         "zoom_de_la_carte": 9,
         "start_time": "2025-03-23",
         "start_hour": "09:00:00"
+    },
+    
+    "Piste Volante": 
+    {
+    "ravitos": {
+        "1": {
+            "nom": "St-Jean",
+            "dist": 0,
+            "deniiiv":0,
+            "lat": 43.56736703775823,
+            "lon": 3.8268479984253645
+        },
+        "2": {
+            "nom": "5k",
+            "dist": 5,
+            "deniiiv": 43.745454268022016,
+            "lat": 43.54704771190882,
+            "lon": 3.80822466686368
+        },
+        "3": {
+            "nom": "10k",
+            "dist": 10,
+            "deniiiv": 102.54545523903586,
+            "lat": 43.541651610285044,
+            "lon": 3.7966524437069893
+        },
+        "4": {
+            "nom": "15k",
+            "dist": 15,
+            "deniiiv": 152.85454628684303,
+            "lat": 43.529531713575125,
+            "lon": 3.7958030216395855
+        },
+        "5": {
+            "nom": "20k",
+            "dist": 20,
+            "deniiiv": 184.36363913796166,
+            "lat": 43.52407802827656,
+            "lon": 3.7818457279354334
+        },
+        "6": {
+            "nom": "25k",
+            "dist": 25,
+            "deniiiv": 43.67272741144354,
+            "lat": 43.54525708593428,
+            "lon": 3.7877154909074306
+        },
+        "7": {
+            "nom": "30k",
+            "dist": 30,
+            "deniiiv": 61.436363220214844,
+            "lat": 43.56439967639744,
+            "lon": 3.8150871824473143
+        },
+        "8": {
+            "nom": "St-Jean",
+            "dist": 31.7,
+            "deniiiv": 54.654546,
+            "lat": 43.567303,
+            "lon": 3.8267
+        }
+        },
+        "longueur_off": 31.714,
+        "deniiiv_off": 1050,
+        "deniiiv_negatiiif_off": 1050,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2000,
+        "zoom_de_la_carte": 9,
+        "start_time": "2025-04-27",
+        "start_hour": "08:00:00"
     }
 }
