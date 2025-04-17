@@ -1144,5 +1144,61 @@
         "zoom_de_la_carte": 9,
         "start_time": "2025-04-27",
         "start_hour": "08:00:00"
+    },
+    "Skyrace Matheysins" :
+    {
+        "ravitos": {
+            "1": {
+                "nom": "Tors",
+                "dist": 0,
+                "deniiiv": 0,
+                "lat": 44.94108,
+                "lon": 5.80039
+            },
+            "2": {
+                "nom": "Saint Honoré",
+                "dist": 6.2,
+                "deniiiv": 1492.909090909091,
+                "lat": 44.97316,
+                "lon": 5.82599
+            },
+            "3": {
+                "nom": "Col de l'Ouillière",
+                "dist": 10.73,
+                "deniiiv": 2028.8181818181818,
+                "lat": 44.98748,
+                "lon": 5.85154
+            },
+            "4": {
+                "nom": "Tabor",
+                "dist": 12.5,
+                "deniiiv": 2313.818181818182,
+                "lat": 44.97678,
+                "lon": 5.85312
+            },
+            "5": {
+                "nom": "Cabane du Poyet",
+                "dist": 17.5,
+                "deniiiv": 1597.2727272727273,
+                "lat": 44.952,
+                "lon": 5.84712
+            },
+            "6": {
+                "nom": "Tors",
+                "dist": 24.8,
+                "deniiiv": 913,
+                "lat": 44.94108,
+                "lon": 5.80039
+            }
+        },
+        "longueur_off": 24.8,
+        "deniiiv_off": 1922,
+        "deniiiv_negatiiif_off": 1918,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2000,
+        "zoom_de_la_carte": 9,
+        "start_time": "2025-04-20",
+        "start_hour": "09:00:00"
     }
 }
