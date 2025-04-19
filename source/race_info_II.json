@@ -1146,42 +1146,42 @@
         "start_hour": "08:00:00"
     },
     "Skyrace Matheysins" :
-    {
+    {  
         "ravitos": {
             "1": {
                 "nom": "Tors",
                 "dist": 0,
                 "deniiiv": 0,
-                "lat": 44.94108,
-                "lon": 5.80039
+                "lat": 44.94107,
+                "lon": 5.80041
             },
             "2": {
                 "nom": "Saint Honoré",
                 "dist": 6.2,
-                "deniiiv": 1492.909090909091,
-                "lat": 44.97316,
-                "lon": 5.82599
+                "deniiiv": 1469.3636363636363,
+                "lat": 44.97176,
+                "lon": 5.82562
             },
             "3": {
                 "nom": "Col de l'Ouillière",
                 "dist": 10.73,
-                "deniiiv": 2028.8181818181818,
-                "lat": 44.98748,
-                "lon": 5.85154
+                "deniiiv": 2086.6363636363635,
+                "lat": 44.99057,
+                "lon": 5.84189
             },
             "4": {
                 "nom": "Tabor",
                 "dist": 12.5,
-                "deniiiv": 2313.818181818182,
-                "lat": 44.97678,
-                "lon": 5.85312
+                "deniiiv": 2100.0,
+                "lat": 44.98429,
+                "lon": 5.85341
             },
             "5": {
                 "nom": "Cabane du Poyet",
                 "dist": 17.5,
-                "deniiiv": 1597.2727272727273,
-                "lat": 44.952,
-                "lon": 5.84712
+                "deniiiv": 1791.1818181818182,
+                "lat": 44.95527,
+                "lon": 5.84524
             },
             "6": {
                 "nom": "Tors",
@@ -1191,7 +1191,7 @@
                 "lon": 5.80039
             }
         },
-        "longueur_off": 24.8,
+        "longueur_off": 24.38,
         "deniiiv_off": 1922,
         "deniiiv_negatiiif_off": 1918,
         "record_feminin": "non sp\u00e9cifi\u00e9",
@@ -1201,4 +1201,5 @@
         "start_time": "2025-04-20",
         "start_hour": "09:00:00"
     }
+
 }
