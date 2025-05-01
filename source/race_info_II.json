@@ -1200,6 +1200,55 @@
         "zoom_de_la_carte": 9,
         "start_time": "2025-04-20",
         "start_hour": "09:00:00"
+    },
+    "Napoleon Classic" : 
+    
+    { "ravitos": {
+            "1": {
+                "nom": "Place du Casone",
+                "dist": 0,
+                "deniiiv": 50,
+                "lat": 41.91661,
+                "lon": 8.72463
+            },
+            "2": {
+                "nom": "Arbitrone piste Salario",
+                "dist": 6.5,
+                "deniiiv": 289.72727272727275,
+                "lat": 41.9245,
+                "lon": 8.69999
+            },
+            "3": {
+                "nom": "Vignola",
+                "dist": 13.5,
+                "deniiiv": 35.72727272727273,
+                "lat": 41.91322,
+                "lon": 8.64981
+            },
+            "4": {
+                "nom": "La piste du Salario",
+                "dist": 22,
+                "deniiiv": 171.0,
+                "lat": 41.91427,
+                "lon": 8.70918
+            },
+            "5": {
+                "nom": "Place du Casone",
+                "dist": 25.28,
+                "deniiiv": 50,
+                "lat": 41.91663,
+                "lon": 8.72475
+            }
+        },
+        "longueur_off": 25.28,
+        "deniiiv_off": 1452,
+        "deniiiv_negatiiif_off": 1448,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2000,
+        "zoom_de_la_carte": 12,
+        "start_time": "2025-05-04",
+        "start_hour": "08:45:00"
     }
 
 }
