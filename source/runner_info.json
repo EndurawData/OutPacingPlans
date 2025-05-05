@@ -1008,7 +1008,7 @@
                 "poids":54,     
                 "taille":170     
             },
-            "Race": {
+            "Race3": {
                 "template": "route",
                 "course": "Barcelona Marathon",
                 "profil_split": 0.05,
@@ -1023,7 +1023,7 @@
                 "a_temp": 0,
                 "previous_place": 0
             },
-            "Race2": {
+            "Race": {
                 "template": "route",
                 "course": "Olympics Marathon",
                 "profil_split": 108,
