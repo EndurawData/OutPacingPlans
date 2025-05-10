@@ -672,23 +672,24 @@
                 "nom": "Croft",
                 "prenom": "Ruth",
                 "birthdate": "15/01/1989",
-                "cote": 925,
+                "cote": 801,
                 "nationality": "New Zealand",
                 "Team": "Adidas Terrex",
-                "personalized_message":"Good luck for this race Ruth, I'm sure you'll destroy it",
+                "personalized_message":"Good luck for this race Ruth, same as last year",
                 "best_nutrition_brand":"Energy Spring",
                 "energy_consumption":70, 
                 "sexe":"F",
                 "poids":49,     
                 "taille":170     
             },
-            "Race2": {
+            "Race": {
                 "template": "trail",
                 "course": "Transvulcania",
                 "profil_split": 108,
-                "objectif_heure": 8,
-                "objectif_minute": 4,
+                "objectif_heure": 7,
+                "objectif_minute": 59,
                 "objectif_seconde": 0,
+                "kbkpacing" : "no",
                 "threshold": 8,
                 "a_gradient": 15,
                 "a_split": 1,
@@ -698,7 +699,7 @@
                 "previous_place": 1
             },
 
-            "Race": {
+            "Race1": {
                 "template": "trail",
                 "course": "UTMB",
                 "profil_split": 108,
