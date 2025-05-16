@@ -1308,6 +1308,155 @@
         "zoom_de_la_carte": 12,
         "start_time": "2025-05-04",
         "start_hour": "08:45:00"
-    }
+    },
+
+
+
+    "Transvulcania": {
+        "ravitos": {
+            "1": {
+                "nom": "Start",
+                "dist": 0,
+                "deniiiv": 0,
+                "lat": 28.456129,
+                "lon": -17.844181
+            },
+            "2": {
+                "nom": "Canarios",
+                "dist": 7.8,
+                "deniiiv": 0,
+                "lat": 28.494058,
+                "lon": -17.845198
+            },
+            "3": {
+                "nom": "Deseadas",
+                "dist": 17.3,
+                "deniiiv": 0,
+                "lat": 28.562617,
+                "lon": -17.836878
+            },
+            "4": {
+                "nom": "Pillar",
+                "dist": 24.9,
+                "deniiiv": 0,
+                "lat": 28.613778,
+                "lon": -17.835808
+            },
+            "5": {
+                "nom": "Reventon",
+                "dist": 31.9,
+                "deniiiv": 0,
+                "lat": 28.668577,
+                "lon": -17.827085
+            },
+            "6": {
+                "nom": "Cruz",
+                "dist": 47.2,
+                "deniiiv": 0,
+                "lat": 28.756590,
+                "lon": -17.855962
+            },
+            "7": {
+                "nom": "Roque",
+                "dist": 51.6,
+                "deniiiv": 0,
+                "lat": 28.754432,
+                "lon": -17.885029
+            },
+            "8": {
+                "nom": "Time",
+                "dist": 61.7,
+                "deniiiv": 0,
+                "lat": 28.692885,
+                "lon": -17.924138
+            },
+            "9": {
+                "nom": "Tazacorte",
+                "dist": 69.1,
+                "deniiiv": 0,
+                "lat": 28.651222,
+                "lon": -17.946349
+            },
+            "10": {
+                "nom": "Finish",
+                "dist": 74.2,
+                "deniiiv": 0,
+                "lat": 28.658796,
+                "lon": -17.912814
+            }
+        },
+        "longueur_off": 74.2,
+        "deniiiv_off": 4405,
+        "deniiiv_negatiiif_off": 4111,
+        "record_feminin": "08h04:16",
+        "record_masculin": "06h52:39",
+        "date_de_creation": 2009,
+        "zoom_de_la_carte": 12,
+        "start_time": "2025-05-10",
+        "start_hour":"10:00:00"
+    },
+    "Grand Colombier 42k": {
+    "ravitos": {
+        "1": {
+            "nom": "Hauteville",
+            "dist": 0,
+            "deniiiv": 796.0,
+            "lat": 45.97786,
+            "lon": 5.59904
+        },
+        "2": {
+            "nom": "Col de La Rochette",
+            "dist": 5.4,
+            "deniiiv": 1107.7272727272727,
+            "lat": 45.98403,
+            "lon": 5.6397
+        },
+        "3": {
+            "nom": "Songieu",
+            "dist": 13.3,
+            "deniiiv": 720.7272727272727,
+            "lat": 45.97198,
+            "lon": 5.70162
+        },
+        "4": {
+            "nom": "Chalet d'Arvière",
+            "dist": 25.4,
+            "deniiiv": 1146.4545454545455,
+            "lat": 45.93114,
+            "lon": 5.7586
+        },
+        "5": {
+            "nom": "Col du Grand Colombier",
+            "dist": 31.1,
+            "deniiiv": 1509.1818181818182,
+            "lat": 45.90123,
+            "lon": 5.76108
+        },
+        "6": {
+            "nom": "Point de Faufriolet",
+            "dist": 36.4,
+            "deniiiv": 1193.0,
+            "lat": 45.8656,
+            "lon": 5.7747
+        },
+        "7": {
+            "nom": "Culoz",
+            "dist": 44.9,
+            "deniiiv": 236.0,
+            "lat": 45.85279,
+            "lon": 5.79427
+        }
+    },
+    "longueur_off": 44.9,
+    "deniiiv_off": 1956,
+    "deniiiv_negatiiif_off": 2516,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-05-24",
+    "start_hour": "09:30:00"
+}
+    
 
 }
