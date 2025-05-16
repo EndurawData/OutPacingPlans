@@ -1394,6 +1394,7 @@
         "zoom_de_la_carte": 12,
         "start_time": "2025-05-10",
         "start_hour":"10:00:00"
+<<<<<<< HEAD
     },
     "Grand Colombier 42k": {
     "ravitos": {
@@ -1458,5 +1459,8 @@
     "start_hour": "09:30:00"
 }
     
+=======
+    }
+>>>>>>> 145b81c1e6715b21cbce2ad293ab4a744307186e
 
 }
