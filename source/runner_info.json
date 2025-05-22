@@ -682,7 +682,23 @@
                 "poids":49,     
                 "taille":170     
             },
-            "Race": {
+                "Race": {
+                "template": "trail",
+                "course": "Shokz 60k",
+                "profil_split": 0.05,
+                "objectif_heure": 6,
+                "objectif_minute": 30,
+                "objectif_seconde": 0,
+                "kbkpacing" : "no",
+                "threshold": 8,
+                "a_gradient": 15,
+                "a_split": 1,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            },
+            "Race2": {
                 "template": "trail",
                 "course": "Transvulcania",
                 "profil_split": 108,

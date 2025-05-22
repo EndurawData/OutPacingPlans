@@ -1394,7 +1394,6 @@
         "zoom_de_la_carte": 12,
         "start_time": "2025-05-10",
         "start_hour":"10:00:00"
-<<<<<<< HEAD
     },
     "Grand Colombier 42k": {
     "ravitos": {
@@ -1457,10 +1456,98 @@
     "zoom_de_la_carte": 9,
     "start_time": "2025-05-24",
     "start_hour": "09:30:00"
+},
+
+"Shokz 60k" : {
+    "ravitos": {
+        "1": {
+            "nom": "Faverges",
+            "dist": 0,
+            "deniiiv": 508.78,
+            "lat": 45.74856,
+            "lon": 6.28577
+        },
+        "2": {
+            "nom": "Aid 1",
+            "dist": 14.23,
+            "deniiiv": 511.1209090909091,
+            "lat": 45.74916,
+            "lon": 6.28782
+        },
+        "3": {
+            "nom": "Montmin Curch",
+            "dist": 23.1,
+            "deniiiv": 1141.909090909091,
+            "lat": 45.80646,
+            "lon": 6.26934
+        },
+        "4": {
+            "nom": "Chalet de l'Aulp",
+            "dist": 27.44,
+            "deniiiv": 1355.7272727272727,
+            "lat": 45.83456,
+            "lon": 6.26586
+        },
+        "5": {
+            "nom": "Col des Nantets",
+            "dist": 28.94,
+            "deniiiv": 1470.2727272727273,
+            "lat": 45.84112,
+            "lon": 6.26327
+        },
+        "6": {
+            "nom": "Villard Dessus",
+            "dist": 36.09,
+            "deniiiv": 804.2727272727273,
+            "lat": 45.87525,
+            "lon": 6.22486
+        },
+        "7": {
+            "nom": "Aid Menthon Saint Bernard",
+            "dist": 41.74,
+            "deniiiv": 522.8181818181819,
+            "lat": 45.8581,
+            "lon": 6.20403
+        },
+        "8": {
+            "nom": "Contrebandiers Peak",
+            "dist": 49.31,
+            "deniiiv": 1241.8181818181818,
+            "lat": 45.89165,
+            "lon": 6.18933
+        },
+        "9": {
+            "nom": "Old cableway",
+            "dist": 50.35,
+            "deniiiv": 1098.2727272727273,
+            "lat": 45.90076,
+            "lon": 6.18904
+        },
+        "10": {
+            "nom": "Pré Vernet",
+            "dist": 53.13,
+            "deniiiv": 796.7272727272727,
+            "lat": 45.91429,
+            "lon": 6.18012
+        },
+        "11": {
+            "nom": "Annecy",
+            "dist": 57.6,
+            "deniiiv": 447.399091,
+            "lat": 45.90468,
+            "lon": 6.14977
+        }
+    },
+    "longueur_off": 57.6,
+    "deniiiv_off": 3509,
+    "deniiiv_negatiiif_off": 3570,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-06-01",
+    "start_hour": "04:30:00"
 }
     
-=======
-    }
->>>>>>> 145b81c1e6715b21cbce2ad293ab4a744307186e
 
 }
