@@ -1549,6 +1549,8 @@
             "Race": {
                 "template": "trail",
                 "course": "Grand Colombier 42k",
+                "kbkpacing" : "yes",
+                "no_time": "no",
                 "profil_split": 0.05,
                 "objectif_heure": 3,
                 "objectif_minute": 20,
