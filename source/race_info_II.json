@@ -1547,6 +1547,132 @@
     "zoom_de_la_carte": 9,
     "start_time": "2025-06-01",
     "start_hour": "04:30:00"
+},
+
+    "Maxi Race 100km" : {
+    "ravitos": {
+        "1": {
+            "nom": "Annecy",
+            "dist": 0.0,
+            "deniiiv": 450.6,
+            "lat": 45.90918,
+            "lon": 6.15566
+        },
+        "2": {
+            "nom": "Arrivée Piste Semnoz",
+            "dist": 9.5,
+            "deniiiv": 926.1,
+            "lat": 45.85167,
+            "lon": 6.12727
+        },
+        "3": {
+            "nom": "Rav 1 Semnoz",
+            "dist": 20.25,
+            "deniiiv": 1521.5,
+            "lat": 45.81042,
+            "lon": 6.10954
+        },
+        "4": {
+            "nom": "CR du Grand Chalet",
+            "dist": 28.91,
+            "deniiiv": 1624.4,
+            "lat": 45.79349,
+            "lon": 6.10403
+        },
+        "5": {
+            "nom": "St Eustache",
+            "dist": 38.75,
+            "deniiiv": 706.9,
+            "lat": 45.79637,
+            "lon": 6.1443
+        },
+        "6": {
+            "nom": "Les Maisons",
+            "dist": 47.35,
+            "deniiiv": 759.1,
+            "lat": 45.81267,
+            "lon": 6.19051
+        },
+        "7": {
+            "nom": "Rav 2 de Doussard",
+            "dist": 55.45,
+            "deniiiv": 466.6,
+            "lat": 45.77939,
+            "lon": 6.22232
+        },
+        "8": {
+            "nom": "Montmin Eglise",
+            "dist": 65.65,
+            "deniiiv": 1167.0,
+            "lat": 45.80894,
+            "lon": 6.2697
+        },
+        "9": {
+            "nom": "Chalet de l'Aulp",
+            "dist": 69.0,
+            "deniiiv": 1425.2,
+            "lat": 45.83131,
+            "lon": 6.26384
+        },
+        "10": {
+            "nom": "Col des Nantets",
+            "dist": 70.52,
+            "deniiiv": 1420.3,
+            "lat": 45.84036,
+            "lon": 6.26853
+        },
+        "11": {
+            "nom": "Villard Dessus",
+            "dist": 77.65,
+            "deniiiv": 770.3,
+            "lat": 45.8792,
+            "lon": 6.22814
+        },
+        "12": {
+            "nom": "Rav 3 Menthon St Bernard",
+            "dist": 83.6,
+            "deniiiv": 502.4,
+            "lat": 45.86031,
+            "lon": 6.20198
+        },
+        "13": {
+            "nom": "Col des Contrebandiers",
+            "dist": 91.0,
+            "deniiiv": 1068.0,
+            "lat": 45.89099,
+            "lon": 6.19348
+        },
+        "14": {
+            "nom": "Plateforme de l'ancien",
+            "dist": 92.2,
+            "deniiiv": 1239.0,
+            "lat": 45.89475,
+            "lon": 6.18797
+        },
+        "15": {
+            "nom": "Pré Vernet",
+            "dist": 95.0,
+            "deniiiv": 893.3,
+            "lat": 45.91035,
+            "lon": 6.17479
+        },
+        "16": {
+            "nom": "Annecy",
+            "dist": 100.5,
+            "deniiiv": 451.6,
+            "lat": 45.90748,
+            "lon": 6.15645
+        }
+    },
+    "longueur_off": 100.5,
+    "deniiiv_off": 5300,
+    "deniiiv_negatiiif_off": 5300,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-05-31",
+    "start_hour": "02:30:00"
 }
     
 

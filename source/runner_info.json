@@ -690,6 +690,7 @@
                 "objectif_minute": 30,
                 "objectif_seconde": 0,
                 "kbkpacing" : "no",
+                "no_time" : "yes",
                 "threshold": 8,
                 "a_gradient": 15,
                 "a_split": 1,
@@ -1436,7 +1437,7 @@
                 "a_temp": 0,
                 "previous_place": 0
             },
-            "Race": {
+            "Race4": {
                 "template": "route",
                 "course": "Nantes Marathon",
                 "profil_split": 0.04,
@@ -1451,7 +1452,7 @@
                 "a_temp": 0,
                 "previous_place": 0
             },
-            "Race4": {
+            "Race": {
                 "template": "route",
                 "course": "Boston Marathon",
                 "profil_split": 0.05,
@@ -1632,6 +1633,39 @@
                 "objectif_seconde": 0,
                 "threshold": 12,
                 "a_gradient": 10,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            }
+        },
+            "valentintemple": {
+            "infos": {
+                "nom": "Templé",
+                "prenom": "Vincent",
+                "birthdate": "01/06/2002",
+                "cote": 0,
+                "nationality": "France",
+                "Team": "Enduraw Team",
+                "personalized_message":"100km c'est de l'eau",
+                "best_nutrition_brand":"",
+                "energy_consumption":55, 
+                "sexe":"M",
+                "poids":70,     
+                "taille":184    
+            },
+            "Race": {
+                "template": "trail",
+                "course": "Maxi Race 100km",
+                "kbkpacing" : "yes",
+                "no_time": "no",
+                "profil_split": 0.05,
+                "objectif_heure": 15,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 12,
+                "a_gradient": 4,
                 "a_split": 1,
                 "a_drift": 1,
                 "a_vent": 0,
