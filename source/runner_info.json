@@ -672,10 +672,10 @@
                 "nom": "Croft",
                 "prenom": "Ruth",
                 "birthdate": "15/01/1989",
-                "cote": 801,
+                "cote": 800,
                 "nationality": "New Zealand",
                 "Team": "Adidas Terrex",
-                "personalized_message":"Good luck for this race Ruth, same as last year",
+                "personalized_message":"Last prep for UTMB",
                 "best_nutrition_brand":"Energy Spring",
                 "energy_consumption":70, 
                 "sexe":"F",
@@ -686,13 +686,13 @@
                 "template": "trail",
                 "course": "Shokz 60k",
                 "profil_split": 0.05,
-                "objectif_heure": 6,
-                "objectif_minute": 30,
-                "objectif_seconde": 0,
+                "objectif_heure": 5,
+                "objectif_minute": 38,
+                "objectif_seconde": 53,
                 "kbkpacing" : "no",
-                "no_time" : "yes",
+                "no_time" : "no",
                 "threshold": 8,
-                "a_gradient": 15,
+                "a_gradient": 6,
                 "a_split": 1,
                 "a_drift": 0,
                 "a_vent": 0,
@@ -1553,8 +1553,8 @@
                 "no_time": "no",
                 "profil_split": 0.05,
                 "objectif_heure": 3,
-                "objectif_minute": 20,
-                "objectif_seconde": 0,
+                "objectif_minute": 52,
+                "objectif_seconde": 34,
                 "threshold": 15,
                 "a_gradient": 4,
                 "a_split": 1,
@@ -1645,7 +1645,7 @@
             "valentintemple": {
             "infos": {
                 "nom": "Templé",
-                "prenom": "Vincent",
+                "prenom": "Valentin",
                 "birthdate": "01/06/2002",
                 "cote": 0,
                 "nationality": "France",
@@ -1674,5 +1674,39 @@
                 "a_temp": 0,
                 "previous_place": 0
             }
+        },
+
+        "hugotormento": {
+        "infos": {
+            "nom": "Tormento",
+            "prenom": "Hugo",
+            "birthdate": "08/03/1993",
+            "cote": 766,
+            "nationality": "France NCL",
+            "Team": "BON CHANCE",
+            "personalized_message":"allez vous allez tout fumer avec la dream team",
+            "best_nutrition_brand":"",
+            "energy_consumption":70, 
+            "sexe":"M",
+            "poids":70,     
+            "taille":190    
+        },
+        "Race": {
+            "template": "trail",
+            "course": "Maxi Race 100km",
+            "kbkpacing" : "yes",
+            "no_time": "no",
+            "profil_split": 0.05,
+            "objectif_heure": 9,
+            "objectif_minute": 40,
+            "objectif_seconde": 0,
+            "threshold": 12,
+            "a_gradient": 4,
+            "a_split": 1,
+            "a_drift": 1,
+            "a_vent": 0,
+            "a_temp": 0,
+            "previous_place": 0
         }
+    }
 }

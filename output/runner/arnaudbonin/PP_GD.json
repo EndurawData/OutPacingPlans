@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "athlete": {
     "username": "arnaudbonin",
     "firstname": "Arnaud",
@@ -1546,74 +1545,28 @@
     [
       3,
       4
-=======
-    "athlete": {
-        "username": "arnaudbonin",
-        "firstname": "Arnaud",
-        "name": "Bonin",
-        "age": 40,
-        "cote": 0,
-        "team": "Nutripure",
-        "country": "France",
-        "coef_drift": "0.05%",
-        "personalized_message": "Gogogo Arnaud, fais gaffe ils vont lancer des chiens \u00e0 tes trousses",
-        "perkm": true
-    },
-    "race": {
-        "name": "Grand Colombier 42k",
-        "index": 0,
-        "race_type": "trail",
-        "aid_station": {},
-        "total_distance_brut": 45153.15,
-        "total_distance": 44900.0,
-        "coef_corrected_distance": 0.99439358,
-        "total_uphill_brut": 2246,
-        "total_uphill": 1956.0,
-        "coef_corrected_elevation_positive": 0.87088157,
-        "total_downhill_brut": 2806,
-        "total_downhill": 2516.0,
-        "coef_corrected_elevation_negative": 0.89665004,
-        "longest_ascent": 373,
-        "longest_descent": 202,
-        "max_altitude": 1528.0,
-        "min_altitude": 235.0,
-        "average_altitude": 990.67
-    },
-    "weather": {
-        "wind": {},
-        "temp": {},
-        "rain": {
-            "risk_of_rain": "WIP"
-        }
-    },
-    "distance_above": 3,
-    "segments_above": [
-        [
-            3,
-            4
-        ],
-        [
-            13,
-            13
-        ],
-        [
-            22,
-            22
-        ],
-        [
-            27,
-            27
-        ],
-        [
-            29,
-            29
-        ],
-        [
-            29,
-            30
-        ]
->>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
     ],
-    "threshold": 15,
-    "map": "ok"
+    [
+      13,
+      13
+    ],
+    [
+      22,
+      22
+    ],
+    [
+      27,
+      27
+    ],
+    [
+      29,
+      29
+    ],
+    [
+      29,
+      30
+    ]
+  ],
+  "threshold": 15,
+  "map": "ok"
 }
