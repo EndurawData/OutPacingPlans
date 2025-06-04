@@ -5,6 +5,7 @@
     "name": "Croft",
     "age": 36,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "cote": 801,
     "team": "Adidas Terrex",
     "country": "New Zealand",
@@ -17,6 +18,13 @@
     "coef_drift": "0.05%",
     "personalized_message": "Last prep for UTMB",
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+    "cote": 800,
+    "team": "Adidas Terrex",
+    "country": "New Zealand",
+    "coef_drift": "0.05%",
+    "personalized_message": "Last prep for UTMB",
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
     "perkm": true
   },
   "race": {
@@ -37,6 +45,7 @@
         "sleep": false,
         "station_date": "2025-06-01T04:30:00",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "station_temperature": 15.0,
         "station_wind_speed": 5.4,
         "station_humidity": 91,
@@ -50,9 +59,25 @@
         "gap_pace_station": "7:29",
         "nutrition": 123,
         "hydration": 1050,
+=======
+        "station_temperature": 17.0,
+        "station_wind_speed": 6.5,
+        "station_humidity": 81,
+        "station_sky": 18
+      },
+      "Aid 1": {
+        "station_time": "01:21:33",
+        "station_distance": 14.2,
+        "gap_aid_station": 14.2,
+        "gap_time_station": 4893.0,
+        "gap_pace_station": "5:43",
+        "nutrition": 95,
+        "hydration": 816,
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "nombre_de_bidon": 2,
         "nombre_gel": 5,
         "sleep": false,
+<<<<<<< HEAD
         "station_date": "2025-06-01T06:16:40",
         "station_temperature": 21.4,
         "station_wind_speed": 5.8,
@@ -118,9 +143,77 @@
         "gap_pace_station": "7:25",
         "nutrition": 70,
         "hydration": 598,
+=======
+        "station_date": "2025-06-01T05:51:33",
+        "station_temperature": 20.2,
+        "station_wind_speed": 5.6,
+        "station_humidity": 78,
+        "station_sky": 48
+      },
+      "Montmin Curch": {
+        "station_time": "02:21:58",
+        "station_distance": 23.1,
+        "gap_aid_station": 8.9,
+        "gap_time_station": 3625.0,
+        "gap_pace_station": "6:48",
+        "nutrition": 70,
+        "hydration": 604,
         "nombre_de_bidon": 1,
         "nombre_gel": 3,
         "sleep": false,
+        "station_date": "2025-06-01T06:51:58",
+        "station_temperature": 19.6,
+        "station_wind_speed": 9.8,
+        "station_humidity": 63,
+        "station_sky": 35
+      },
+      "Chalet de l'Aulp": {
+        "station_time": "02:46:20",
+        "station_distance": 27.4,
+        "gap_aid_station": 4.3,
+        "gap_time_station": 1462.0,
+        "gap_pace_station": "5:36",
+        "nutrition": 28,
+        "hydration": 244,
+        "nombre_de_bidon": 0,
+        "nombre_gel": 1,
+        "sleep": false,
+        "station_date": "2025-06-01T07:16:20",
+        "station_temperature": 19.2,
+        "station_wind_speed": 9.8,
+        "station_humidity": 59,
+        "station_sky": 100
+      },
+      "Col des Nantets": {
+        "station_time": "02:52:33",
+        "station_distance": 28.9,
+        "gap_aid_station": 1.5,
+        "gap_time_station": 373.0,
+        "gap_pace_station": "4:08",
+        "nutrition": 7,
+        "hydration": 62,
+        "nombre_de_bidon": 0,
+        "nombre_gel": 0,
+        "sleep": false,
+        "station_date": "2025-06-01T07:22:33",
+        "station_temperature": 17.5,
+        "station_wind_speed": 7.7,
+        "station_humidity": 67,
+        "station_sky": 100
+      },
+      "Villard Dessus": {
+        "station_time": "03:38:14",
+        "station_distance": 36.1,
+        "gap_aid_station": 7.2,
+        "gap_time_station": 2741.0,
+        "gap_pace_station": "6:23",
+        "nutrition": 53,
+        "hydration": 457,
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
+        "nombre_de_bidon": 1,
+        "nombre_gel": 2,
+        "sleep": false,
+<<<<<<< HEAD
         "station_date": "2025-06-01T09:02:26",
         "station_temperature": 24.6,
         "station_wind_speed": 10.9,
@@ -152,9 +245,43 @@
         "gap_pace_station": "7:35",
         "nutrition": 70,
         "hydration": 602,
+=======
+        "station_date": "2025-06-01T08:08:14",
+        "station_temperature": 24.6,
+        "station_wind_speed": 6.8,
+        "station_humidity": 48,
+        "station_sky": 100
+      },
+      "Aid Menthon Saint Bernard": {
+        "station_time": "04:02:19",
+        "station_distance": 41.7,
+        "gap_aid_station": 5.6,
+        "gap_time_station": 1445.0,
+        "gap_pace_station": "4:15",
+        "nutrition": 28,
+        "hydration": 241,
         "nombre_de_bidon": 1,
-        "nombre_gel": 3,
+        "nombre_gel": 1,
         "sleep": false,
+        "station_date": "2025-06-01T08:32:19",
+        "station_temperature": 26.0,
+        "station_wind_speed": 9.4,
+        "station_humidity": 47,
+        "station_sky": 100
+      },
+      "Contrebandiers Peak": {
+        "station_time": "04:48:29",
+        "station_distance": 49.3,
+        "gap_aid_station": 7.6,
+        "gap_time_station": 2770.0,
+        "gap_pace_station": "6:05",
+        "nutrition": 54,
+        "hydration": 462,
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
+        "nombre_de_bidon": 1,
+        "nombre_gel": 2,
+        "sleep": false,
+<<<<<<< HEAD
         "station_date": "2025-06-01T10:40:26",
         "station_temperature": 22.3,
         "station_wind_speed": 6.6,
@@ -210,25 +337,83 @@
         "station_temperature": 28.2,
         "station_wind_speed": 7.3,
         "station_humidity": 42,
+=======
+        "station_date": "2025-06-01T09:18:29",
+        "station_temperature": 23.1,
+        "station_wind_speed": 8.0,
+        "station_humidity": 46,
+        "station_sky": 100
+      },
+      "Old cableway": {
+        "station_time": "04:54:47",
+        "station_distance": 50.4,
+        "gap_aid_station": 1.0,
+        "gap_time_station": 378.0,
+        "gap_pace_station": "6:03",
+        "nutrition": 7,
+        "hydration": 63,
+        "nombre_de_bidon": 0,
+        "nombre_gel": 1,
+        "sleep": false,
+        "station_date": "2025-06-01T09:24:47",
+        "station_temperature": 23.4,
+        "station_wind_speed": 8.0,
+        "station_humidity": 46,
+        "station_sky": 100
+      },
+      "Pr\u00e9 Vernet": {
+        "station_time": "05:11:46",
+        "station_distance": 53.1,
+        "gap_aid_station": 2.8,
+        "gap_time_station": 1019.0,
+        "gap_pace_station": "6:06",
+        "nutrition": 20,
+        "hydration": 170,
+        "nombre_de_bidon": 0,
+        "nombre_gel": 1,
+        "sleep": false,
+        "station_date": "2025-06-01T09:41:46",
+        "station_temperature": 26.2,
+        "station_wind_speed": 8.2,
+        "station_humidity": 45,
+        "station_sky": 100
+      },
+      "Annecy (Finish)": {
+        "station_time": "05:42:28",
+        "station_distance": 57.6,
+        "gap_aid_station": 4.5,
+        "gap_time_station": 1842.0,
+        "gap_pace_station": "6:52",
+        "nutrition": 27,
+        "hydration": 232,
+        "nombre_de_bidon": 1,
+        "nombre_gel": 1,
+        "sleep": false,
+        "station_date": "2025-06-01T10:12:28",
+        "station_temperature": 29.0,
+        "station_wind_speed": 10.9,
+        "station_humidity": 38,
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "station_sky": 100
       }
     },
-    "total_distance_brut": 57804.96,
+    "total_distance_brut": 59870.85,
     "total_distance": 57600.0,
-    "coef_corrected_distance": 0.9964542,
-    "total_uphill_brut": 3684,
+    "coef_corrected_distance": 0.96207084,
+    "total_uphill_brut": 5172,
     "total_uphill": 3509.0,
-    "coef_corrected_elevation_positive": 0.95249729,
-    "total_downhill_brut": 3746,
+    "coef_corrected_elevation_positive": 0.67846094,
+    "total_downhill_brut": 5231,
     "total_downhill": 3570.0,
-    "coef_corrected_elevation_negative": 0.95301655,
-    "longest_ascent": 619,
-    "longest_descent": 614,
-    "max_altitude": 1670.0,
-    "min_altitude": 446.88,
-    "average_altitude": 960.36,
+    "coef_corrected_elevation_negative": 0.68246989,
+    "longest_ascent": 134,
+    "longest_descent": 240,
+    "max_altitude": 1667.0,
+    "min_altitude": 448.0,
+    "average_altitude": 960.65,
     "analysis": {
       "1": {
+<<<<<<< HEAD
         "length": 1029.992542148937,
         "elev_gain": 15,
         "elev_loss": 1,
@@ -437,16 +622,27 @@
         "elev_loss": 2,
         "diff_elev": 6,
         "direction": 180,
+=======
+        "length": 1008.0746286328382,
+        "elev_gain": 8,
+        "elev_loss": 2,
+        "diff_elev": 6,
+        "direction": 180,
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "gradient": 0.89,
         "adjusted_time_brut0": 355.85,
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 353,
         "coef_vap": 1.026924992,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.0069497586805556,
         "coef_drift": 0.8,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.011502337343254,
         "coef_global_normalise": 0.9778010512164281,
@@ -483,6 +679,20 @@
         "mL_total": 50.58
       },
       "2": {
+=======
+        "coef_global": 1.0210624638350696,
+        "coef_global_normalise": 0.8596867859576155,
+        "temps_seconde_segment": 303.46943544303826,
+        "adjusted_time_final": "00:05:03",
+        "total_time_final": "00:05:03",
+        "total_time_brut": "00:05:53",
+        "gramme_per_km": 5.9,
+        "gramme_total": 5.9,
+        "mL_per_km": 50.58,
+        "mL_total": 50.58
+      },
+      "2": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 995.5853059078656,
         "elev_gain": 77,
         "elev_loss": 5,
@@ -493,11 +703,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 706,
         "coef_vap": 1.4801872,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.0066995347222223,
         "coef_drift": 0.8,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0771878002301587,
         "coef_global_normalise": 1.0412980025226886,
@@ -1005,6 +1219,23 @@
         "length": 1006.9223783773551,
         "elev_gain": 94,
         "elev_loss": 6,
+=======
+        "coef_global": 1.360977841840278,
+        "coef_global_normalise": 1.145879618585402,
+        "temps_seconde_segment": 404.4955053606469,
+        "adjusted_time_final": "00:06:44",
+        "total_time_final": "00:11:47",
+        "total_time_brut": "00:11:46",
+        "gramme_per_km": 7.87,
+        "gramme_total": 13.77,
+        "mL_per_km": 67.42,
+        "mL_total": 117.99
+      },
+      "3": {
+        "length": 1006.9223783773551,
+        "elev_gain": 94,
+        "elev_loss": 6,
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "diff_elev": 87,
         "direction": -159,
         "gradient": 12.81,
@@ -1480,11 +1711,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 7413,
         "coef_vap": 0.897600832,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.001948578125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9875638575178571,
         "coef_global_normalise": 0.9546601548747788,
@@ -1521,6 +1756,20 @@
         "mL_total": 1317.79
       },
       "22": {
+=======
+        "coef_global": 0.9234441962656249,
+        "coef_global_normalise": 0.7774967753853709,
+        "temps_seconde_segment": 274.4563617110359,
+        "adjusted_time_final": "00:04:34",
+        "total_time_final": "02:11:46",
+        "total_time_brut": "02:03:33",
+        "gramme_per_km": 5.34,
+        "gramme_total": 153.74,
+        "mL_per_km": 45.74,
+        "mL_total": 1317.79
+      },
+      "22": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 986.121431396543,
         "elev_gain": 61,
         "elev_loss": 32,
@@ -1531,11 +1780,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 7766,
         "coef_vap": 1.1548985920000001,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.001698701388889,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0114999021349207,
         "coef_global_normalise": 0.9777986971444895,
@@ -1572,6 +1825,20 @@
         "mL_total": 1373.09
       },
       "23": {
+=======
+        "coef_global": 1.1163862816736112,
+        "coef_global_normalise": 0.9399449772880746,
+        "temps_seconde_segment": 331.8005769826903,
+        "adjusted_time_final": "00:05:31",
+        "total_time_final": "02:17:18",
+        "total_time_brut": "02:09:26",
+        "gramme_per_km": 6.45,
+        "gramme_total": 160.19,
+        "mL_per_km": 55.3,
+        "mL_total": 1373.09
+      },
+      "23": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 994.4457559349225,
         "elev_gain": 40,
         "elev_loss": 63,
@@ -1582,11 +1849,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 8119,
         "coef_vap": 0.920806048,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.001448842013889,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0183145397242064,
         "coef_global_normalise": 0.9843862842932886,
@@ -1623,6 +1894,20 @@
         "mL_total": 1419.69
       },
       "24": {
+=======
+        "coef_global": 0.940785641251736,
+        "coef_global_normalise": 0.7920974600956638,
+        "temps_seconde_segment": 279.61040341376935,
+        "adjusted_time_final": "00:04:39",
+        "total_time_final": "02:21:58",
+        "total_time_brut": "02:15:19",
+        "gramme_per_km": 5.44,
+        "gramme_total": 165.63,
+        "mL_per_km": 46.6,
+        "mL_total": 1419.69
+      },
+      "24": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1005.038525978751,
         "elev_gain": 87,
         "elev_loss": 21,
@@ -1633,11 +1918,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 8472,
         "coef_vap": 1.4204312000000001,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.001199,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0675392925714284,
         "coef_global_normalise": 1.0319709643310064,
@@ -1674,6 +1963,20 @@
         "mL_total": 1484.86
       },
       "25": {
+=======
+        "coef_global": 1.315473275,
+        "coef_global_normalise": 1.1075669039387583,
+        "temps_seconde_segment": 390.9711170903817,
+        "adjusted_time_final": "00:06:30",
+        "total_time_final": "02:28:29",
+        "total_time_brut": "02:21:12",
+        "gramme_per_km": 7.6,
+        "gramme_total": 173.23,
+        "mL_per_km": 65.16,
+        "mL_total": 1484.86
+      },
+      "25": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 998.1245891066043,
         "elev_gain": 85,
         "elev_loss": 39,
@@ -1684,11 +1987,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 8825,
         "coef_vap": 1.2722761120000001,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.0009491753472222,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0195020966765873,
         "coef_global_normalise": 0.9855342741629585,
@@ -1725,6 +2032,20 @@
         "mL_total": 1544.51
       },
       "26": {
+=======
+        "coef_global": 1.2043257309184028,
+        "coef_global_normalise": 1.0139858760164302,
+        "temps_seconde_segment": 357.93701423379986,
+        "adjusted_time_final": "00:05:57",
+        "total_time_final": "02:34:27",
+        "total_time_brut": "02:27:05",
+        "gramme_per_km": 6.96,
+        "gramme_total": 180.19,
+        "mL_per_km": 59.66,
+        "mL_total": 1544.51
+      },
+      "26": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 997.9633607341202,
         "elev_gain": 70,
         "elev_loss": 62,
@@ -1735,11 +2056,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 9178,
         "coef_vap": 1.0368688000000001,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.0006993680555556,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0111952446111112,
         "coef_global_normalise": 0.977504190215495,
@@ -1776,6 +2101,20 @@
         "mL_total": 1595.42
       },
       "27": {
+=======
+        "coef_global": 1.0277390210069446,
+        "coef_global_normalise": 0.8653081344839272,
+        "temps_seconde_segment": 305.4537714728263,
+        "adjusted_time_final": "00:05:05",
+        "total_time_final": "02:39:32",
+        "total_time_brut": "02:32:58",
+        "gramme_per_km": 5.94,
+        "gramme_total": 186.13,
+        "mL_per_km": 50.91,
+        "mL_total": 1595.42
+      },
+      "27": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 999.1897797188049,
         "elev_gain": 88,
         "elev_loss": 14,
@@ -1786,11 +2125,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 9531,
         "coef_vap": 1.496221712,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.000449578125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.1285779432321428,
         "coef_global_normalise": 1.0909759261362753,
@@ -1827,6 +2170,20 @@
         "mL_total": 1663.39
       },
       "28": {
+=======
+        "coef_global": 1.372222481265625,
+        "coef_global_normalise": 1.1553470784805788,
+        "temps_seconde_segment": 407.8375187036443,
+        "adjusted_time_final": "00:06:47",
+        "total_time_final": "02:46:20",
+        "total_time_brut": "02:38:51",
+        "gramme_per_km": 7.93,
+        "gramme_total": 194.06,
+        "mL_per_km": 67.97,
+        "mL_total": 1663.39
+      },
+      "28": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 999.8540290498752,
         "elev_gain": 78,
         "elev_loss": 23,
@@ -1837,11 +2194,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 9884,
         "coef_vap": 1.3391848,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 1.0001998055555557,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9807284256825398,
         "coef_global_normalise": 0.9480524663036911,
@@ -1878,6 +2239,20 @@
         "mL_total": 1725.53
       },
       "29": {
+=======
+        "coef_global": 1.2544135756944443,
+        "coef_global_normalise": 1.0561574960849303,
+        "temps_seconde_segment": 372.8235961179804,
+        "adjusted_time_final": "00:06:12",
+        "total_time_final": "02:52:33",
+        "total_time_brut": "02:44:44",
+        "gramme_per_km": 7.25,
+        "gramme_total": 201.31,
+        "mL_per_km": 62.14,
+        "mL_total": 1725.53
+      },
+      "29": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 998.3309890018684,
         "elev_gain": 109,
         "elev_loss": 156,
@@ -1888,11 +2263,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 10237,
         "coef_vap": 0.872878112,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9999500503472222,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0786390371051586,
         "coef_global_normalise": 1.0427008870139554,
@@ -1929,6 +2308,20 @@
         "mL_total": 1770.34
       },
       "30": {
+=======
+        "coef_global": 0.9046523402934028,
+        "coef_global_normalise": 0.7616749125364909,
+        "temps_seconde_segment": 268.8712441253813,
+        "adjusted_time_final": "00:04:28",
+        "total_time_final": "02:57:02",
+        "total_time_brut": "02:50:37",
+        "gramme_per_km": 5.23,
+        "gramme_total": 206.54,
+        "mL_per_km": 44.81,
+        "mL_total": 1770.34
+      },
+      "30": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1011.1488480374784,
         "elev_gain": 96,
         "elev_loss": 14,
@@ -1939,11 +2332,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 10590,
         "coef_vap": 1.557206288,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9997003125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.2097528449285715,
         "coef_global_normalise": 1.1694462383449786,
@@ -1980,6 +2377,20 @@
         "mL_total": 1840.58
       },
       "31": {
+=======
+        "coef_global": 1.4178672550625,
+        "coef_global_normalise": 1.1937778408198516,
+        "temps_seconde_segment": 421.40357780940764,
+        "adjusted_time_final": "00:07:01",
+        "total_time_final": "03:04:03",
+        "total_time_brut": "02:56:30",
+        "gramme_per_km": 8.19,
+        "gramme_total": 214.73,
+        "mL_per_km": 70.23,
+        "mL_total": 1840.58
+      },
+      "31": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 989.7345811349412,
         "elev_gain": 208,
         "elev_loss": 70,
@@ -1990,11 +2401,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 10943,
         "coef_vap": 2.232142352,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9994505920138889,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9804007497242063,
         "coef_global_normalise": 0.9477357078695402,
@@ -2031,6 +2446,20 @@
         "mL_total": 1935.88
       },
       "32": {
+=======
+        "coef_global": 1.9240380880017358,
+        "coef_global_normalise": 1.6199499820232615,
+        "temps_seconde_segment": 571.8423436542113,
+        "adjusted_time_final": "00:09:31",
+        "total_time_final": "03:13:35",
+        "total_time_brut": "03:02:23",
+        "gramme_per_km": 11.12,
+        "gramme_total": 225.85,
+        "mL_per_km": 95.31,
+        "mL_total": 1935.88
+      },
+      "32": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1001.1063131826884,
         "elev_gain": 15,
         "elev_loss": 65,
@@ -2041,11 +2470,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 11296,
         "coef_vap": 0.870098032,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9992008888888889,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9861683103492064,
         "coef_global_normalise": 0.9533111046174034,
@@ -2082,6 +2515,20 @@
         "mL_total": 1980.59
       },
       "33": {
+=======
+        "coef_global": 0.9024736351111111,
+        "coef_global_normalise": 0.7598405447851991,
+        "temps_seconde_segment": 268.2237123091753,
+        "adjusted_time_final": "00:04:28",
+        "total_time_final": "03:18:03",
+        "total_time_brut": "03:08:16",
+        "gramme_per_km": 5.22,
+        "gramme_total": 231.07,
+        "mL_per_km": 44.7,
+        "mL_total": 1980.59
+      },
+      "33": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1001.123973162918,
         "elev_gain": 10,
         "elev_loss": 116,
@@ -2092,11 +2539,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 11649,
         "coef_vap": 0.9168662080000001,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.998951203125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.015333563375,
         "coef_global_normalise": 0.9815046282651264,
@@ -2133,6 +2584,20 @@
         "mL_total": 2027.03
       },
       "34": {
+=======
+        "coef_global": 0.9375185563906251,
+        "coef_global_normalise": 0.7893467276153511,
+        "temps_seconde_segment": 278.63939484821896,
+        "adjusted_time_final": "00:04:38",
+        "total_time_final": "03:22:42",
+        "total_time_brut": "03:14:09",
+        "gramme_per_km": 5.42,
+        "gramme_total": 236.49,
+        "mL_per_km": 46.44,
+        "mL_total": 2027.03
+      },
+      "34": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1002.2932950075696,
         "elev_gain": 7,
         "elev_loss": 149,
@@ -2143,11 +2608,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 12002,
         "coef_vap": 1.05478,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9987015347222222,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0202241293730159,
         "coef_global_normalise": 0.9862322501374231,
@@ -2184,6 +2653,20 @@
         "mL_total": 2078.59
       },
       "35": {
+=======
+        "coef_global": 1.0409226918402779,
+        "coef_global_normalise": 0.8764081680345309,
+        "temps_seconde_segment": 309.3720833161894,
+        "adjusted_time_final": "00:05:09",
+        "total_time_final": "03:27:51",
+        "total_time_brut": "03:20:02",
+        "gramme_per_km": 6.02,
+        "gramme_total": 242.5,
+        "mL_per_km": 51.56,
+        "mL_total": 2078.59
+      },
+      "35": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 999.1587473171903,
         "elev_gain": 17,
         "elev_loss": 166,
@@ -2194,11 +2677,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 12355,
         "coef_vap": 1.093092848,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9984518836805556,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9999689180575396,
         "coef_global_normalise": 0.9666519029788554,
@@ -2235,6 +2722,20 @@
         "mL_total": 2131.57
       },
       "36": {
+=======
+        "coef_global": 1.0696261214600695,
+        "coef_global_normalise": 0.9005751118110336,
+        "temps_seconde_segment": 317.9030144692949,
+        "adjusted_time_final": "00:05:17",
+        "total_time_final": "03:33:09",
+        "total_time_brut": "03:25:55",
+        "gramme_per_km": 6.18,
+        "gramme_total": 248.68,
+        "mL_per_km": 52.98,
+        "mL_total": 2131.57
+      },
+      "36": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1004.5995253791286,
         "elev_gain": 40,
         "elev_loss": 178,
@@ -2245,11 +2746,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 12708,
         "coef_vap": 1.0335273919999999,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.99820225,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9912297168571429,
         "coef_global_normalise": 0.958203874926855,
@@ -2286,6 +2791,20 @@
         "mL_total": 2182.34
       },
       "37": {
+=======
+        "coef_global": 1.02492082525,
+        "coef_global_normalise": 0.8629353456112588,
+        "temps_seconde_segment": 304.61617700077437,
+        "adjusted_time_final": "00:05:04",
+        "total_time_final": "03:38:14",
+        "total_time_brut": "03:31:48",
+        "gramme_per_km": 5.92,
+        "gramme_total": 254.61,
+        "mL_per_km": 50.77,
+        "mL_total": 2182.34
+      },
+      "37": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 999.1227195744779,
         "elev_gain": 28,
         "elev_loss": 59,
@@ -2296,11 +2815,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 13061,
         "coef_vap": 0.8992232,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9979526336805555,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0010490400575398,
         "coef_global_normalise": 0.9676960374193315,
@@ -2337,6 +2860,20 @@
         "mL_total": 2228.12
       },
       "38": {
+=======
+        "coef_global": 0.9241614792100695,
+        "coef_global_normalise": 0.7781006940396868,
+        "temps_seconde_segment": 274.66954499600945,
+        "adjusted_time_final": "00:04:34",
+        "total_time_final": "03:42:48",
+        "total_time_brut": "03:37:41",
+        "gramme_per_km": 5.34,
+        "gramme_total": 259.95,
+        "mL_per_km": 45.78,
+        "mL_total": 2228.12
+      },
+      "38": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1001.6169540067212,
         "elev_gain": 52,
         "elev_loss": 25,
@@ -2347,11 +2884,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 13414,
         "coef_vap": 1.139509552,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9977030347222222,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9846214248015873,
         "coef_global_normalise": 0.9518157582808381,
@@ -2388,6 +2929,20 @@
         "mL_total": 2282.83
       },
       "39": {
+=======
+        "coef_global": 1.104345043340278,
+        "coef_global_normalise": 0.9298068184110434,
+        "temps_seconde_segment": 328.22180689909834,
+        "adjusted_time_final": "00:05:28",
+        "total_time_final": "03:48:16",
+        "total_time_brut": "03:43:34",
+        "gramme_per_km": 6.38,
+        "gramme_total": 266.33,
+        "mL_per_km": 54.7,
+        "mL_total": 2282.83
+      },
+      "39": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 997.5506499524485,
         "elev_gain": 41,
         "elev_loss": 74,
@@ -2398,11 +2953,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 13767,
         "coef_vap": 0.894745312,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.997453453125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.020309408232143,
         "coef_global_normalise": 0.9863146876712008,
@@ -2439,6 +2998,20 @@
         "mL_total": 2328.43
       },
       "40": {
+=======
+        "coef_global": 0.920740665640625,
+        "coef_global_normalise": 0.7752205291849038,
+        "temps_seconde_segment": 273.65284680227103,
+        "adjusted_time_final": "00:04:33",
+        "total_time_final": "03:52:50",
+        "total_time_brut": "03:49:27",
+        "gramme_per_km": 5.32,
+        "gramme_total": 271.65,
+        "mL_per_km": 45.61,
+        "mL_total": 2328.43
+      },
+      "40": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 999.7412726022469,
         "elev_gain": 49,
         "elev_loss": 45,
@@ -2449,11 +3022,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 14120,
         "coef_vap": 1.0178871999999999,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9972038888888889,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9801340920634921,
         "coef_global_normalise": 0.9474779347222768,
@@ -2490,6 +3067,20 @@
         "mL_total": 2378.62
       },
       "41": {
+=======
+        "coef_global": 1.013065886111111,
+        "coef_global_normalise": 0.852954041932975,
+        "temps_seconde_segment": 301.09277680234015,
+        "adjusted_time_final": "00:05:01",
+        "total_time_final": "03:57:51",
+        "total_time_brut": "03:55:20",
+        "gramme_per_km": 5.85,
+        "gramme_total": 277.51,
+        "mL_per_km": 50.18,
+        "mL_total": 2378.62
+      },
+      "41": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 996.8465919531053,
         "elev_gain": 30,
         "elev_loss": 84,
@@ -2500,11 +3091,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 14473,
         "coef_vap": 0.866456128,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9969543420138889,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9820734740099206,
         "coef_global_normalise": 0.9493527002427489,
@@ -2541,6 +3136,20 @@
         "mL_total": 2423.17
       },
       "42": {
+=======
+        "coef_global": 0.8994613887517361,
+        "coef_global_normalise": 0.7573043743911987,
+        "temps_seconde_segment": 267.3284441600931,
+        "adjusted_time_final": "00:04:27",
+        "total_time_final": "04:02:19",
+        "total_time_brut": "04:01:13",
+        "gramme_per_km": 5.2,
+        "gramme_total": 282.7,
+        "mL_per_km": 44.55,
+        "mL_total": 2423.17
+      },
+      "42": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1001.1214193619826,
         "elev_gain": 3,
         "elev_loss": 104,
@@ -2551,11 +3160,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 14826,
         "coef_vap": 0.904899568,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9967048125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9948244706428572,
         "coef_global_normalise": 0.9616788585237964,
@@ -2592,6 +3205,20 @@
         "mL_total": 2469.15
       },
       "43": {
+=======
+        "coef_global": 0.9282627775625,
+        "coef_global_normalise": 0.7815537952198157,
+        "temps_seconde_segment": 275.88848971259495,
+        "adjusted_time_final": "00:04:35",
+        "total_time_final": "04:06:54",
+        "total_time_brut": "04:07:06",
+        "gramme_per_km": 5.36,
+        "gramme_total": 288.07,
+        "mL_per_km": 45.98,
+        "mL_total": 2469.15
+      },
+      "43": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1002.5859286975458,
         "elev_gain": 5,
         "elev_loss": 29,
@@ -2602,11 +3229,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 15179,
         "coef_vap": 0.9176527520000001,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9964553003472222,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0445459299623017,
         "coef_global_normalise": 1.009743695742328,
@@ -2643,6 +3274,20 @@
         "mL_total": 2515.61
       },
       "44": {
+=======
+        "coef_global": 0.9377964765434028,
+        "coef_global_normalise": 0.7895807233711023,
+        "temps_seconde_segment": 278.72199534999913,
+        "adjusted_time_final": "00:04:38",
+        "total_time_final": "04:11:33",
+        "total_time_brut": "04:12:59",
+        "gramme_per_km": 5.42,
+        "gramme_total": 293.49,
+        "mL_per_km": 46.45,
+        "mL_total": 2515.61
+      },
+      "44": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1001.3685721430128,
         "elev_gain": 37,
         "elev_loss": 8,
@@ -2653,11 +3298,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 15532,
         "coef_vap": 1.1561645919999999,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9962058055555556,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.009808277111111,
         "coef_global_normalise": 0.9761634337689351,
@@ -2694,6 +3343,20 @@
         "mL_total": 2570.92
       },
       "45": {
+=======
+        "coef_global": 1.1166491696944445,
+        "coef_global_normalise": 0.9401663166925691,
+        "temps_seconde_segment": 331.8787097924769,
+        "adjusted_time_final": "00:05:31",
+        "total_time_final": "04:17:05",
+        "total_time_brut": "04:18:52",
+        "gramme_per_km": 6.45,
+        "gramme_total": 299.94,
+        "mL_per_km": 55.31,
+        "mL_total": 2570.92
+      },
+      "45": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 993.6480919353788,
         "elev_gain": 53,
         "elev_loss": 30,
@@ -2704,11 +3367,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 15885,
         "coef_vap": 1.116616528,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.995956328125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.037370691517857,
         "coef_global_normalise": 1.0028075222559334,
@@ -2745,6 +3412,20 @@
         "mL_total": 2624.76
       },
       "46": {
+=======
+        "coef_global": 1.086956937015625,
+        "coef_global_normalise": 0.9151668470384939,
+        "temps_seconde_segment": 323.05389700458835,
+        "adjusted_time_final": "00:05:23",
+        "total_time_final": "04:22:28",
+        "total_time_brut": "04:24:45",
+        "gramme_per_km": 6.28,
+        "gramme_total": 306.22,
+        "mL_per_km": 53.84,
+        "mL_total": 2624.76
+      },
+      "46": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1005.0411357960551,
         "elev_gain": 45,
         "elev_loss": 1,
@@ -2755,11 +3436,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 16238,
         "coef_vap": 1.255483648,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9957068680555555,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.132068487468254,
         "coef_global_normalise": 1.0943501722426674,
@@ -2796,6 +3481,20 @@
         "mL_total": 2683.76
       },
       "47": {
+=======
+        "coef_global": 1.1910760945069443,
+        "coef_global_normalise": 1.0028303025377114,
+        "temps_seconde_segment": 353.99909679581214,
+        "adjusted_time_final": "00:05:53",
+        "total_time_final": "04:28:22",
+        "total_time_brut": "04:30:38",
+        "gramme_per_km": 6.88,
+        "gramme_total": 313.11,
+        "mL_per_km": 59.0,
+        "mL_total": 2683.76
+      },
+      "47": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1001.810672674851,
         "elev_gain": 92,
         "elev_loss": 12,
@@ -2806,11 +3505,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 16591,
         "coef_vap": 1.557856288,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9954574253472223,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0430741792480158,
         "coef_global_normalise": 1.0083209808929119,
@@ -2847,6 +3550,20 @@
         "mL_total": 2753.99
       },
       "48": {
+=======
+        "coef_global": 1.4178243941684028,
+        "coef_global_normalise": 1.1937417539538715,
+        "temps_seconde_segment": 421.39083914571665,
+        "adjusted_time_final": "00:07:01",
+        "total_time_final": "04:35:23",
+        "total_time_brut": "04:36:31",
+        "gramme_per_km": 8.19,
+        "gramme_total": 321.3,
+        "mL_per_km": 70.23,
+        "mL_total": 2753.99
+      },
+      "48": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 992.2304407212876,
         "elev_gain": 120,
         "elev_loss": 54,
@@ -2857,11 +3574,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 16944,
         "coef_vap": 1.433905888,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.995208,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.0887121211428572,
         "coef_global_normalise": 1.0524383555272987,
@@ -2898,6 +3619,20 @@
         "mL_total": 2819.62
       },
       "49": {
+=======
+        "coef_global": 1.324830416,
+        "coef_global_normalise": 1.1154451785369925,
+        "temps_seconde_segment": 393.7521480235584,
+        "adjusted_time_final": "00:06:33",
+        "total_time_final": "04:41:57",
+        "total_time_brut": "04:42:24",
+        "gramme_per_km": 7.66,
+        "gramme_total": 328.96,
+        "mL_per_km": 65.63,
+        "mL_total": 2819.62
+      },
+      "49": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1005.8022344688912,
         "elev_gain": 116,
         "elev_loss": 50,
@@ -2908,11 +3643,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 17297,
         "coef_vap": 1.4256847520000002,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9949585920138889,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9893385942956349,
         "coef_global_normalise": 0.9563757608826715,
@@ -2949,6 +3688,20 @@
         "mL_total": 2884.94
       },
       "50": {
+=======
+        "coef_global": 1.3186333880017362,
+        "coef_global_normalise": 1.1102275711221563,
+        "temps_seconde_segment": 391.9103326061212,
+        "adjusted_time_final": "00:06:31",
+        "total_time_final": "04:48:29",
+        "total_time_brut": "04:48:17",
+        "gramme_per_km": 7.62,
+        "gramme_total": 336.58,
+        "mL_per_km": 65.32,
+        "mL_total": 2884.94
+      },
+      "50": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 995.9609212929183,
         "elev_gain": 102,
         "elev_loss": 44,
@@ -2959,11 +3712,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 17650,
         "coef_vap": 1.362611888,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9947092013888889,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 1.1574118867063492,
         "coef_global_normalise": 1.118849178820838,
@@ -3000,6 +3757,20 @@
         "mL_total": 2947.91
       },
       "51": {
+=======
+        "coef_global": 1.271297566173611,
+        "coef_global_normalise": 1.0703730255194923,
+        "temps_seconde_segment": 377.84167800838077,
+        "adjusted_time_final": "00:06:17",
+        "total_time_final": "04:54:47",
+        "total_time_brut": "04:54:10",
+        "gramme_per_km": 7.35,
+        "gramme_total": 343.92,
+        "mL_per_km": 62.97,
+        "mL_total": 2947.91
+      },
+      "51": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1001.7642774661792,
         "elev_gain": 59,
         "elev_loss": 38,
@@ -3010,11 +3781,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 18003,
         "coef_vap": 1.107658672,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.994459828125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9822751343749999,
         "coef_global_normalise": 0.9495476416775666,
@@ -3051,6 +3826,20 @@
         "mL_total": 3001.41
       },
       "52": {
+=======
+        "coef_global": 1.0800514825156249,
+        "coef_global_normalise": 0.9093527776794224,
+        "temps_seconde_segment": 321.00153052083607,
+        "adjusted_time_final": "00:05:21",
+        "total_time_final": "05:00:08",
+        "total_time_brut": "05:00:03",
+        "gramme_per_km": 6.24,
+        "gramme_total": 350.16,
+        "mL_per_km": 53.5,
+        "mL_total": 3001.41
+      },
+      "52": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 996.0578359208065,
         "elev_gain": 127,
         "elev_loss": 43,
@@ -3061,11 +3850,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 18356,
         "coef_vap": 1.5954088,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9942104722222223,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9872067944444444,
         "coef_global_normalise": 0.9543149884469379,
@@ -3102,6 +3895,20 @@
         "mL_total": 3073.03
       },
       "53": {
+=======
+        "coef_global": 1.445832909027778,
+        "coef_global_normalise": 1.2173236120396778,
+        "temps_seconde_segment": 429.71523505000624,
+        "adjusted_time_final": "00:07:09",
+        "total_time_final": "05:07:18",
+        "total_time_brut": "05:05:56",
+        "gramme_per_km": 8.36,
+        "gramme_total": 358.52,
+        "mL_per_km": 71.62,
+        "mL_total": 3073.03
+      },
+      "53": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1003.7426564567791,
         "elev_gain": 11,
         "elev_loss": 94,
@@ -3112,11 +3919,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 18709,
         "coef_vap": 0.8732512,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9939611336805556,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9961301080575397,
         "coef_global_normalise": 0.9629409946449419,
@@ -3153,6 +3964,20 @@
         "mL_total": 3117.82
       },
       "54": {
+=======
+        "coef_global": 0.9041835417100694,
+        "coef_global_normalise": 0.7612802060795972,
+        "temps_seconde_segment": 268.7319127460978,
+        "adjusted_time_final": "00:04:28",
+        "total_time_final": "05:11:46",
+        "total_time_brut": "05:11:49",
+        "gramme_per_km": 5.23,
+        "gramme_total": 363.75,
+        "mL_per_km": 44.79,
+        "mL_total": 3117.82
+      },
+      "54": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 998.9200066376584,
         "elev_gain": 45,
         "elev_loss": 67,
@@ -3163,11 +3988,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 19062,
         "coef_vap": 0.9250172,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9937118125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9765517449285713,
         "coef_global_normalise": 0.9440149444107092,
@@ -3204,6 +4033,20 @@
         "mL_total": 3164.53
       },
       "55": {
+=======
+        "coef_global": 0.9429768765625,
+        "coef_global_normalise": 0.7939423776284386,
+        "temps_seconde_segment": 280.26165930283884,
+        "adjusted_time_final": "00:04:40",
+        "total_time_final": "05:16:27",
+        "total_time_brut": "05:17:42",
+        "gramme_per_km": 5.45,
+        "gramme_total": 369.2,
+        "mL_per_km": 46.71,
+        "mL_total": 3164.53
+      },
+      "55": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 996.4466757515572,
         "elev_gain": 1,
         "elev_loss": 143,
@@ -3214,11 +4057,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 19415,
         "coef_vap": 1.0623731680000001,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9934625086805555,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.976146027343254,
         "coef_global_normalise": 0.9436227445444565,
@@ -3255,6 +4102,20 @@
         "mL_total": 3216.34
       },
       "56": {
+=======
+        "coef_global": 1.0459626895850695,
+        "coef_global_normalise": 0.8806516101508729,
+        "temps_seconde_segment": 310.8700183832581,
+        "adjusted_time_final": "00:05:10",
+        "total_time_final": "05:21:38",
+        "total_time_brut": "05:23:35",
+        "gramme_per_km": 6.04,
+        "gramme_total": 375.24,
+        "mL_per_km": 51.81,
+        "mL_total": 3216.34
+      },
+      "56": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1008.1611965214381,
         "elev_gain": 0,
         "elev_loss": 64,
@@ -3265,11 +4126,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 19768,
         "coef_vap": 0.8626828480000001,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9932132222222222,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9761025141587301,
         "coef_global_normalise": 0.9435806811344193,
@@ -3306,6 +4171,20 @@
         "mL_total": 3260.73
       },
       "57": {
+=======
+        "coef_global": 0.8961637887777778,
+        "coef_global_normalise": 0.7545279496146592,
+        "temps_seconde_segment": 266.3483662139747,
+        "adjusted_time_final": "00:04:26",
+        "total_time_final": "05:26:04",
+        "total_time_brut": "05:29:28",
+        "gramme_per_km": 5.18,
+        "gramme_total": 380.42,
+        "mL_per_km": 44.39,
+        "mL_total": 3260.73
+      },
+      "57": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 1015.2096428583432,
         "elev_gain": 1,
         "elev_loss": 55,
@@ -3316,11 +4195,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 20121,
         "coef_vap": 0.867161168,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.992963953125,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9787609905178571,
         "coef_global_normalise": 0.9461505822435122,
@@ -3357,6 +4240,20 @@
         "mL_total": 3305.29
       },
       "58": {
+=======
+        "coef_global": 0.899491370140625,
+        "coef_global_normalise": 0.7573296173168427,
+        "temps_seconde_segment": 267.33735491284546,
+        "adjusted_time_final": "00:04:27",
+        "total_time_final": "05:30:31",
+        "total_time_brut": "05:35:21",
+        "gramme_per_km": 5.2,
+        "gramme_total": 385.62,
+        "mL_per_km": 44.56,
+        "mL_total": 3305.29
+      },
+      "58": {
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "length": 996.8752135280862,
         "elev_gain": 17,
         "elev_loss": 75,
@@ -3367,11 +4264,15 @@
         "adjusted_time_brut": 353.0,
         "adjusted_time_brut2": 20474,
         "coef_vap": 0.864079568,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         "coef_split": 0.9927147013888888,
         "coef_drift": 1.1,
         "coef_vent": 1,
         "coef_temp": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "coef_global": 0.9947962152777777,
         "coef_global_normalise": 0.9616515445724023,
@@ -3459,11 +4360,82 @@
       "total_time_second": 20333,
       "secondes_perdues": 1.1437428846359254
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+        "coef_global": 0.897149013673611,
+        "coef_global_normalise": 0.7553574628463601,
+        "temps_seconde_segment": 266.6411843847651,
+        "adjusted_time_final": "00:04:26",
+        "total_time_final": "05:34:58",
+        "total_time_brut": "05:41:14",
+        "gramme_per_km": 5.18,
+        "gramme_total": 390.8,
+        "mL_per_km": 44.44,
+        "mL_total": 3349.73
+      },
+      "59": {
+        "length": 982.1963742505133,
+        "elev_gain": 24,
+        "elev_loss": 114,
+        "diff_elev": -90,
+        "direction": -90,
+        "gradient": -13.44,
+        "adjusted_time_brut0": 346.72,
+        "adjusted_time_brut": 353.0,
+        "adjusted_time_brut2": 20827,
+        "coef_vap": 0.886147072,
+        "coef_split": 0.9924654670138889,
+        "coef_drift": 1.1,
+        "coef_vent": 1,
+        "coef_temp": 1,
+        "coef_global": 0.9136684873767361,
+        "coef_global_normalise": 0.769266086223044,
+        "temps_seconde_segment": 271.5509284367345,
+        "adjusted_time_final": "00:04:31",
+        "total_time_final": "05:39:29",
+        "total_time_brut": "05:47:07",
+        "gramme_per_km": 5.28,
+        "gramme_total": 396.08,
+        "mL_per_km": 45.26,
+        "mL_total": 3394.99
+      },
+      "60": {
+        "length": 59811.85130602318,
+        "elev_gain": 4,
+        "elev_loss": 4,
+        "diff_elev": 0,
+        "direction": 0,
+        "gradient": 0.0,
+        "adjusted_time_brut0": 21113.79,
+        "adjusted_time_brut": 212,
+        "adjusted_time_brut2": 20333,
+        "coef_vap": 1.0,
+        "coef_split": 0.99221625,
+        "coef_drift": 1.1,
+        "coef_vent": 1,
+        "coef_temp": 1,
+        "coef_global": 0.99902703125,
+        "coef_global_normalise": 0.841133983472748,
+        "temps_seconde_segment": 178.32040449622258,
+        "adjusted_time_final": "00:02:58",
+        "total_time_final": "05:42:28",
+        "total_time_brut": "05:50:39",
+        "gramme_per_km": 3.47,
+        "gramme_total": 399.55,
+        "mL_per_km": 29.72,
+        "mL_total": 3424.71
+      }
+    },
+    "total_hour": "05:42:28",
+    "impact": {
+      "total_time_second": 20333,
+      "secondes_perdues": 1.1437428846359254
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
     }
   },
   "weather": {
     "wind": {
       "wind_speed": [
+<<<<<<< HEAD
 <<<<<<< HEAD
         4.680000305175781,
         6.7637858390808105,
@@ -3775,10 +4747,167 @@
       "temp_max": 27,
       "temp_min": 9,
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+        1.2979984283447266,
+        1.9386591911315918,
+        3.396233081817627,
+        6.92473840713501,
+        11.212135314941406,
+        10.948972702026367,
+        11.486200332641602,
+        15.34968376159668,
+        14.277982711791992,
+        12.904882431030273,
+        16.793140411376953,
+        15.124283790588379,
+        9.931041717529297,
+        5.495161056518555,
+        2.9024126529693604,
+        3.7064266204833984,
+        2.9024126529693604,
+        3.054701328277588,
+        2.3051247596740723,
+        1.2979984283447266,
+        0.8049845099449158,
+        1.6099690198898315,
+        1.6099690198898315,
+        3.8939952850341797,
+        1.1384198665618896,
+        0.5091168880462646,
+        0.35999998450279236,
+        1.7999999523162842,
+        3.8773183822631836,
+        7.235910415649414,
+        8.825508117675781,
+        11.17740535736084,
+        10.93120288848877,
+        10.829957962036133,
+        9.904906272888184,
+        9.511088371276855,
+        7.127635955810547,
+        3.096837043762207,
+        0.7199999690055847,
+        3.9600000381469727,
+        3.8773183822631836,
+        5.315336227416992,
+        5.191993713378906,
+        5.495161056518555,
+        5.495161056518555,
+        6.119999885559082,
+        5.692099094390869,
+        5.399999618530273
+      ],
+      "wind_directions": [
+        123.69009399414062,
+        158.1985321044922,
+        212.00534057617188,
+        242.1028289794922,
+        222.3973846435547,
+        223.6678466796875,
+        237.80429077148438,
+        230.71060180664062,
+        236.30990600585938,
+        239.8586883544922,
+        239.0363006591797,
+        231.76612854003906,
+        226.46873474121094,
+        211.60745239257812,
+        97.12492370605469,
+        29.054508209228516,
+        60.25520706176758,
+        44.99989700317383,
+        38.659828186035156,
+        56.309913635253906,
+        116.56498718261719,
+        26.564985275268555,
+        63.43501281738281,
+        33.690101623535156,
+        341.56494140625,
+        135.00010681152344,
+        270.0,
+        233.13002014160156,
+        248.1985321044922,
+        264.28948974609375,
+        258.2317199707031,
+        255.0685272216797,
+        252.75845336914062,
+        248.5522003173828,
+        250.90640258789062,
+        240.52420043945312,
+        224.99989318847656,
+        215.5377655029297,
+        360.0,
+        360.0,
+        21.801475524902344,
+        28.3006591796875,
+        33.690101623535156,
+        31.607454299926758,
+        31.607454299926758,
+        28.07239532470703,
+        34.695220947265625,
+        36.86997985839844
+      ],
+      "wind_departure": 341.6
+    },
+    "temp": {
+      "temperatures": [
+        8.887499809265137,
+        12.537500381469727,
+        15.987500190734863,
+        16.987499237060547,
+        17.787498474121094,
+        18.737499237060547,
+        19.737499237060547,
+        20.487499237060547,
+        21.1875,
+        21.4375,
+        22.337499618530273,
+        21.987499237060547,
+        21.537498474121094,
+        20.6875,
+        17.837499618530273,
+        13.537500381469727,
+        12.287500381469727,
+        12.237500190734863,
+        12.037500381469727,
+        11.737500190734863,
+        11.487500190734863,
+        11.1875,
+        10.33750057220459,
+        10.137499809265137,
+        10.737500190734863,
+        12.33750057220459,
+        15.83750057220459,
+        19.6875,
+        21.9375,
+        23.38749885559082,
+        24.737499237060547,
+        25.63749885559082,
+        26.487499237060547,
+        27.1875,
+        27.237499237060547,
+        26.9375,
+        26.237499237060547,
+        24.4375,
+        21.537498474121094,
+        18.38749885559082,
+        17.237499237060547,
+        15.33750057220459,
+        13.987500190734863,
+        13.787500381469727,
+        13.737500190734863,
+        14.08750057220459,
+        13.9375,
+        13.037500381469727
+      ],
+      "temp_max": 27,
+      "temp_min": 9,
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
       "temp_avg": 18
     },
     "rain": {
       "risk_of_rain": [
+<<<<<<< HEAD
 <<<<<<< HEAD
         75.0,
         100.0,
@@ -3833,6 +4962,8 @@
   },
   "distance_above": 15,
 =======
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
         0.0,
         0.0,
         3.0,
@@ -3885,7 +5016,10 @@
     }
   },
   "distance_above": 14,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
   "segments_above": [
     [
       1,
@@ -3902,12 +5036,18 @@
     [
       16,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
       16
     ],
     [
       16,
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
       18
     ],
     [
@@ -3924,6 +5064,7 @@
     ],
     [
 <<<<<<< HEAD
+<<<<<<< HEAD
       24,
       25
     ],
@@ -3934,11 +5075,14 @@
     [
 =======
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
       26,
       27
     ],
     [
       28,
+<<<<<<< HEAD
 <<<<<<< HEAD
       29
     ],
@@ -3946,6 +5090,8 @@
       29,
 =======
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
       30
     ],
     [
@@ -3959,16 +5105,20 @@
     [
       42,
 <<<<<<< HEAD
+<<<<<<< HEAD
       42
     ],
     [
       43,
 =======
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
       43
     ],
     [
       44,
+<<<<<<< HEAD
 <<<<<<< HEAD
       44
     ],
@@ -3984,6 +5134,8 @@
       49,
       49
 =======
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
       45
     ],
     [
@@ -4001,7 +5153,10 @@
     [
       51,
       51
+<<<<<<< HEAD
 >>>>>>> cb0358e2bee8d16dc0ad94ad8a03a815d1c80cf9
+=======
+>>>>>>> cba94b9810608c077d4fcd8ccf23accd2028590a
     ]
   ],
   "threshold": 8,
