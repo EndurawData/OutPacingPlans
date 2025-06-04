@@ -688,7 +688,7 @@
                 "profil_split": 0.05,
                 "objectif_heure": 5,
                 "objectif_minute": 38,
-                "objectif_seconde": 53,
+                "objectif_seconde": 50,
                 "kbkpacing" : "no",
                 "no_time" : "no",
                 "threshold": 8,
