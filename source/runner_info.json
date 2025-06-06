@@ -1118,12 +1118,28 @@
                 "Team": "Salty Athletics",
                 "personalized_message":"Sub2h35 champion !",
                 "best_nutrition_brand":"Maurten",
-                "energy_consumption":70, 
+                "energy_consumption":85, 
                 "sexe":"M",
                 "poids":70,     
                 "taille":182    
             },
             "Race": {
+                "template": "trail",
+                "course": "Comblorane 42km",
+                "profil_split": 0.05,
+                "objectif_heure": 6,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "threshold": 15,
+                "a_gradient": 5,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+
+            "Race2": {
                 "template": "route",
                 "course": "Paris Marathon",
                 "profil_split": 0.028,

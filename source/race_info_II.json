@@ -1673,6 +1673,62 @@
     "zoom_de_la_carte": 9,
     "start_time": "2025-05-31",
     "start_hour": "02:15:00"
+},
+
+"Comblorane 42km": {
+    "ravitos": {
+        "1": {
+            "nom": "Plan d'eau biotope",
+            "dist": 0.0,
+            "deniiiv": 931,
+            "lat": 45.89721,
+            "lon": 6.64594
+        },
+        "2": {
+            "nom": "Cabane du Petit Pâtre",
+            "dist": 12.1,
+            "deniiiv": 1896.7,
+            "lat": 45.90762,
+            "lon": 6.55523
+        },
+        "3": {
+            "nom": "Plan de la Giettaz",
+            "dist": 23.2,
+            "deniiiv": 1233.6,
+            "lat": 45.87706,
+            "lon": 6.52152
+        },
+        "4": {
+            "nom": "Les Plaines",
+            "dist": 31.6,
+            "deniiiv": 1491.9,
+            "lat": 45.89512,
+            "lon": 6.57982
+        },
+        "5": {
+            "nom": "Sommet des Salles",
+            "dist": 35.6,
+            "deniiiv": 1707.7,
+            "lat": 45.87912,
+            "lon": 6.58669
+        },
+        "6": {
+            "nom": "Plan d'eau biotope",
+            "dist": 42.8,
+            "deniiiv": 946.2,
+            "lat": 45.89728,
+            "lon": 6.64586
+        }
+    },
+    "longueur_off": 42.8,
+    "deniiiv_off": 2832,
+    "deniiiv_negatiiif_off": 2821,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-06-08",
+    "start_hour": "07:00:00"
 }
     
 
