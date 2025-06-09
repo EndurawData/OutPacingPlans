@@ -1724,5 +1724,38 @@
             "a_temp": 0,
             "previous_place": 0
         }
+    },
+    "xaviercelle": {
+        "infos": {
+            "nom": "Celle",
+            "prenom": "Xavier",
+            "birthdate": "11/05/1996",
+            "cote": 0,
+            "nationality": "France",
+            "Team": "",
+            "personalized_message":"Bonne course Xavier ! Tu vas assurer !",
+            "best_nutrition_brand":"",
+            "energy_consumption": 0, 
+            "sexe":"M",
+            "poids":67,     
+            "taille":187    
+        },
+        "Race": {
+            "template": "trail",
+            "course": "GRP 120km",
+            "kbkpacing" : "yes",
+            "no_time": "no",
+            "profil_split": 0.05,
+            "objectif_heure": 24,
+            "objectif_minute": 0,
+            "objectif_seconde": 0,
+            "threshold": 12,
+            "a_gradient": 25,
+            "a_split": 0,
+            "a_drift": 10,
+            "a_vent": 0,
+            "a_temp": 0,
+            "previous_place": 0
+        }
     }
 }

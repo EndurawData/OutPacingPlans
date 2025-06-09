@@ -1729,6 +1729,104 @@
     "zoom_de_la_carte": 9,
     "start_time": "2025-06-08",
     "start_hour": "07:00:00"
+},
+
+"GRP 120km": {
+    "ravitos": {
+        "1": {
+            "nom": "Piau",
+            "dist": 0.0,
+            "deniiiv": 1862.0,
+            "lat": 42.783829999999995,
+            "lon": 0.15839999999999999
+        },
+        "2": {
+            "nom": "Piau",
+            "dist": 7.1,
+            "deniiiv": 1860.7,
+            "lat": 42.783783,
+            "lon": 0.158331
+        },
+        "3": {
+            "nom": "Gèdre Aller",
+            "dist": 24.6,
+            "deniiiv": 1005.0,
+            "lat": 42.788599999999995,
+            "lon": 0.01971
+        },
+        "4": {
+            "nom": "Gavarnie",
+            "dist": 34.6,
+            "deniiiv": 1372.4,
+            "lat": 42.73249,
+            "lon": -0.00957
+        },
+        "5": {
+            "nom": "Chalet de Pailla",
+            "dist": 40.5,
+            "deniiiv": 1728.5,
+            "lat": 42.719712,
+            "lon": -0.0005409999999999999
+        },
+        "6": {
+            "nom": "Gèdre Retour",
+            "dist": 58.7,
+            "deniiiv": 1061.3,
+            "lat": 42.78628,
+            "lon": 0.02192
+        },
+        "7": {
+            "nom": "Luz St-Sauveur",
+            "dist": 72.9,
+            "deniiiv": 699.5,
+            "lat": 42.870388999999996,
+            "lon": -0.007607
+        },
+        "8": {
+            "nom": "Refuge de la Glère",
+            "dist": 86.0,
+            "deniiiv": 2149.9,
+            "lat": 42.86045,
+            "lon": 0.09018
+        },
+        "9": {
+            "nom": "Tournaboup",
+            "dist": 94.4,
+            "deniiiv": 1450.4,
+            "lat": 42.90313,
+            "lon": 0.10167999999999999
+        },
+        "10": {
+            "nom": "Refuge d'Aygues cluses",
+            "dist": 100.9,
+            "deniiiv": 2136.6,
+            "lat": 42.875569999999996,
+            "lon": 0.15026
+        },
+        "11": {
+            "nom": "Restaurant Merlans",
+            "dist": 111.2,
+            "deniiiv": 2029.8,
+            "lat": 42.827929999999995,
+            "lon": 0.21991999999999998
+        },
+        "12": {
+            "nom": "Vielle Aure",
+            "dist": 124.7,
+            "deniiiv": 794.7,
+            "lat": 42.82978,
+            "lon": 0.32723
+        }
+    },
+    "longueur_off": 124.7,
+    "deniiiv_off": 7005,
+    "deniiiv_negatiiif_off": 8073,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-08-22",
+    "start_hour": "07:00:00"
 }
     
 
