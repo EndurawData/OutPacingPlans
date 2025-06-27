@@ -28,10 +28,10 @@
         "nombre_gel": 0,
         "sleep": false,
         "station_date": "2025-06-28T09:00:00",
-        "station_temperature": 20.0,
-        "station_wind_speed": 27.8,
-        "station_humidity": 79,
-        "station_sky": 95
+        "station_temperature": 21.0,
+        "station_wind_speed": 29.4,
+        "station_humidity": 74,
+        "station_sky": 53
       },
       "Mam Thor outbound": {
         "station_time": "00:32:56",
@@ -40,15 +40,15 @@
         "gap_time_station": 1976.0,
         "gap_pace_station": "5:21",
         "nutrition": 50,
-        "hydration": 297,
+        "hydration": 324,
         "nombre_de_bidon": 1,
         "nombre_gel": 2,
         "sleep": false,
         "station_date": "2025-06-28T09:32:56",
-        "station_temperature": 18.8,
-        "station_wind_speed": 37.9,
-        "station_humidity": 77,
-        "station_sky": 94
+        "station_temperature": 19.2,
+        "station_wind_speed": 40.3,
+        "station_humidity": 74,
+        "station_sky": 91
       },
       "Grindslow Knoll outbound": {
         "station_time": "01:00:32",
@@ -57,15 +57,15 @@
         "gap_time_station": 1656.0,
         "gap_pace_station": "5:14",
         "nutrition": 40,
-        "hydration": 242,
+        "hydration": 263,
         "nombre_de_bidon": 0,
         "nombre_gel": 2,
         "sleep": false,
         "station_date": "2025-06-28T10:00:32",
-        "station_temperature": 19.3,
-        "station_wind_speed": 38.9,
-        "station_humidity": 70,
-        "station_sky": 65
+        "station_temperature": 19.2,
+        "station_wind_speed": 40.4,
+        "station_humidity": 69,
+        "station_sky": 80
       },
       "Kinder Low outbound": {
         "station_time": "01:31:45",
@@ -74,15 +74,15 @@
         "gap_time_station": 1873.0,
         "gap_pace_station": "5:28",
         "nutrition": 50,
-        "hydration": 299,
+        "hydration": 326,
         "nombre_de_bidon": 1,
         "nombre_gel": 2,
         "sleep": false,
         "station_date": "2025-06-28T10:31:45",
-        "station_temperature": 18.7,
-        "station_wind_speed": 38.8,
-        "station_humidity": 72,
-        "station_sky": 81
+        "station_temperature": 18.5,
+        "station_wind_speed": 39.3,
+        "station_humidity": 73,
+        "station_sky": 89
       },
       "Hayfield Campsite": {
         "station_time": "01:48:23",
@@ -91,15 +91,15 @@
         "gap_time_station": 998.0,
         "gap_pace_station": "4:22",
         "nutrition": 20,
-        "hydration": 120,
+        "hydration": 131,
         "nombre_de_bidon": 0,
         "nombre_gel": 0,
         "sleep": false,
         "station_date": "2025-06-28T10:48:23",
-        "station_temperature": 22.1,
-        "station_wind_speed": 32.4,
-        "station_humidity": 65,
-        "station_sky": 64
+        "station_temperature": 21.9,
+        "station_wind_speed": 31.8,
+        "station_humidity": 66,
+        "station_sky": 66
       },
       "Kinder Low return": {
         "station_time": "02:11:22",
@@ -108,15 +108,15 @@
         "gap_time_station": 1379.0,
         "gap_pace_station": "6:07",
         "nutrition": 37,
-        "hydration": 220,
-        "nombre_de_bidon": 0,
+        "hydration": 240,
+        "nombre_de_bidon": 1,
         "nombre_gel": 2,
         "sleep": false,
         "station_date": "2025-06-28T11:11:22",
-        "station_temperature": 19.4,
-        "station_wind_speed": 39.1,
-        "station_humidity": 68,
-        "station_sky": 70
+        "station_temperature": 19.5,
+        "station_wind_speed": 40.4,
+        "station_humidity": 66,
+        "station_sky": 92
       },
       "Upper Booth return": {
         "station_time": "02:27:12",
@@ -125,15 +125,15 @@
         "gap_time_station": 950.0,
         "gap_pace_station": "4:20",
         "nutrition": 26,
-        "hydration": 157,
-        "nombre_de_bidon": 1,
+        "hydration": 171,
+        "nombre_de_bidon": 0,
         "nombre_gel": 1,
         "sleep": false,
         "station_date": "2025-06-28T11:27:12",
-        "station_temperature": 22.2,
-        "station_wind_speed": 37.6,
-        "station_humidity": 63,
-        "station_sky": 62
+        "station_temperature": 22.4,
+        "station_wind_speed": 38.6,
+        "station_humidity": 60,
+        "station_sky": 82
       },
       "Edale School return": {
         "station_time": "02:48:25",
@@ -142,15 +142,15 @@
         "gap_time_station": 1273.0,
         "gap_pace_station": "5:18",
         "nutrition": 33,
-        "hydration": 198,
+        "hydration": 216,
         "nombre_de_bidon": 0,
         "nombre_gel": 1,
         "sleep": false,
         "station_date": "2025-06-28T11:48:25",
-        "station_temperature": 22.7,
-        "station_wind_speed": 36.7,
-        "station_humidity": 60,
-        "station_sky": 61
+        "station_temperature": 22.9,
+        "station_wind_speed": 37.4,
+        "station_humidity": 58,
+        "station_sky": 66
       },
       "Mam Tor return": {
         "station_time": "03:05:41",
@@ -159,15 +159,15 @@
         "gap_time_station": 1036.0,
         "gap_pace_station": "5:23",
         "nutrition": 25,
-        "hydration": 149,
-        "nombre_de_bidon": 0,
+        "hydration": 163,
+        "nombre_de_bidon": 1,
         "nombre_gel": 1,
         "sleep": false,
         "station_date": "2025-06-28T12:05:41",
-        "station_temperature": 21.1,
-        "station_wind_speed": 39.5,
-        "station_humidity": 62,
-        "station_sky": 52
+        "station_temperature": 21.5,
+        "station_wind_speed": 39.1,
+        "station_humidity": 59,
+        "station_sky": 73
       },
       "Home (Finish)": {
         "station_time": "03:32:42",
@@ -176,15 +176,15 @@
         "gap_time_station": 1621.0,
         "gap_pace_station": "4:25",
         "nutrition": 45,
-        "hydration": 269,
-        "nombre_de_bidon": 1,
+        "hydration": 293,
+        "nombre_de_bidon": 0,
         "nombre_gel": 2,
         "sleep": false,
         "station_date": "2025-06-28T12:32:42",
-        "station_temperature": 24.2,
-        "station_wind_speed": 33.0,
-        "station_humidity": 54,
-        "station_sky": 82
+        "station_temperature": 24.7,
+        "station_wind_speed": 32.4,
+        "station_humidity": 52,
+        "station_sky": 50
       }
     },
     "total_distance_brut": 42206.14,
@@ -226,8 +226,8 @@
         "total_time_brut": "00:05:06",
         "gramme_per_km": 6.76,
         "gramme_total": 6.76,
-        "mL_per_km": 40.39,
-        "mL_total": 40.39
+        "mL_per_km": 44.06,
+        "mL_total": 44.06
       },
       "2": {
         "length": 993.236760433753,
@@ -253,8 +253,8 @@
         "total_time_brut": "00:10:13",
         "gramme_per_km": 10.64,
         "gramme_total": 17.4,
-        "mL_per_km": 63.62,
-        "mL_total": 104.01
+        "mL_per_km": 69.4,
+        "mL_total": 113.46
       },
       "3": {
         "length": 984.2133632624939,
@@ -280,8 +280,8 @@
         "total_time_brut": "00:15:20",
         "gramme_per_km": 9.49,
         "gramme_total": 26.88,
-        "mL_per_km": 56.72,
-        "mL_total": 160.72
+        "mL_per_km": 61.87,
+        "mL_total": 175.33
       },
       "4": {
         "length": 1000.098291149386,
@@ -307,8 +307,8 @@
         "total_time_brut": "00:20:27",
         "gramme_per_km": 6.46,
         "gramme_total": 33.34,
-        "mL_per_km": 38.62,
-        "mL_total": 199.34
+        "mL_per_km": 42.13,
+        "mL_total": 217.46
       },
       "5": {
         "length": 1015.8591538850822,
@@ -334,8 +334,8 @@
         "total_time_brut": "00:25:34",
         "gramme_per_km": 6.99,
         "gramme_total": 40.34,
-        "mL_per_km": 41.8,
-        "mL_total": 241.14
+        "mL_per_km": 45.6,
+        "mL_total": 263.07
       },
       "6": {
         "length": 1003.6298260745922,
@@ -361,8 +361,8 @@
         "total_time_brut": "00:30:40",
         "gramme_per_km": 9.28,
         "gramme_total": 49.62,
-        "mL_per_km": 55.48,
-        "mL_total": 296.63
+        "mL_per_km": 60.53,
+        "mL_total": 323.6
       },
       "7": {
         "length": 999.1013115557855,
@@ -388,8 +388,8 @@
         "total_time_brut": "00:35:47",
         "gramme_per_km": 6.38,
         "gramme_total": 56.0,
-        "mL_per_km": 38.13,
-        "mL_total": 334.76
+        "mL_per_km": 41.59,
+        "mL_total": 365.19
       },
       "8": {
         "length": 995.1417913138512,
@@ -415,8 +415,8 @@
         "total_time_brut": "00:40:54",
         "gramme_per_km": 6.44,
         "gramme_total": 62.44,
-        "mL_per_km": 38.5,
-        "mL_total": 373.25
+        "mL_per_km": 42.0,
+        "mL_total": 407.19
       },
       "9": {
         "length": 983.2190105256884,
@@ -442,8 +442,8 @@
         "total_time_brut": "00:46:01",
         "gramme_per_km": 6.78,
         "gramme_total": 69.21,
-        "mL_per_km": 40.51,
-        "mL_total": 413.77
+        "mL_per_km": 44.2,
+        "mL_total": 451.38
       },
       "10": {
         "length": 1031.4551740487418,
@@ -469,8 +469,8 @@
         "total_time_brut": "00:51:08",
         "gramme_per_km": 8.39,
         "gramme_total": 77.6,
-        "mL_per_km": 50.14,
-        "mL_total": 463.91
+        "mL_per_km": 54.69,
+        "mL_total": 506.08
       },
       "11": {
         "length": 979.1474919602837,
@@ -496,8 +496,8 @@
         "total_time_brut": "00:56:14",
         "gramme_per_km": 12.42,
         "gramme_total": 90.02,
-        "mL_per_km": 74.23,
-        "mL_total": 538.14
+        "mL_per_km": 80.98,
+        "mL_total": 587.06
       },
       "12": {
         "length": 987.56340669389,
@@ -523,8 +523,8 @@
         "total_time_brut": "01:01:21",
         "gramme_per_km": 7.04,
         "gramme_total": 97.06,
-        "mL_per_km": 42.1,
-        "mL_total": 580.24
+        "mL_per_km": 45.92,
+        "mL_total": 632.98
       },
       "13": {
         "length": 1002.0757367120764,
@@ -550,8 +550,8 @@
         "total_time_brut": "01:06:28",
         "gramme_per_km": 7.45,
         "gramme_total": 104.51,
-        "mL_per_km": 44.56,
-        "mL_total": 624.8
+        "mL_per_km": 48.61,
+        "mL_total": 681.59
       },
       "14": {
         "length": 1012.5676178548222,
@@ -577,8 +577,8 @@
         "total_time_brut": "01:11:35",
         "gramme_per_km": 6.86,
         "gramme_total": 111.37,
-        "mL_per_km": 40.99,
-        "mL_total": 665.79
+        "mL_per_km": 44.72,
+        "mL_total": 726.32
       },
       "15": {
         "length": 1062.2039051118475,
@@ -604,8 +604,8 @@
         "total_time_brut": "01:16:42",
         "gramme_per_km": 7.99,
         "gramme_total": 119.36,
-        "mL_per_km": 47.75,
-        "mL_total": 713.54
+        "mL_per_km": 52.09,
+        "mL_total": 778.41
       },
       "16": {
         "length": 932.4455035492452,
@@ -631,8 +631,8 @@
         "total_time_brut": "01:21:48",
         "gramme_per_km": 11.37,
         "gramme_total": 130.73,
-        "mL_per_km": 68.0,
-        "mL_total": 781.54
+        "mL_per_km": 74.18,
+        "mL_total": 852.59
       },
       "17": {
         "length": 1004.0671709336436,
@@ -658,8 +658,8 @@
         "total_time_brut": "01:26:55",
         "gramme_per_km": 9.34,
         "gramme_total": 140.07,
-        "mL_per_km": 55.81,
-        "mL_total": 837.35
+        "mL_per_km": 60.88,
+        "mL_total": 913.47
       },
       "18": {
         "length": 1025.4252808958863,
@@ -685,8 +685,8 @@
         "total_time_brut": "01:32:02",
         "gramme_per_km": 6.49,
         "gramme_total": 146.55,
-        "mL_per_km": 38.79,
-        "mL_total": 876.14
+        "mL_per_km": 42.32,
+        "mL_total": 955.79
       },
       "19": {
         "length": 1005.8650370507232,
@@ -712,8 +712,8 @@
         "total_time_brut": "01:37:09",
         "gramme_per_km": 7.01,
         "gramme_total": 153.56,
-        "mL_per_km": 41.91,
-        "mL_total": 918.04
+        "mL_per_km": 45.72,
+        "mL_total": 1001.5
       },
       "20": {
         "length": 1023.2692598722011,
@@ -739,8 +739,8 @@
         "total_time_brut": "01:42:16",
         "gramme_per_km": 6.57,
         "gramme_total": 160.13,
-        "mL_per_km": 39.27,
-        "mL_total": 957.31
+        "mL_per_km": 42.84,
+        "mL_total": 1044.34
       },
       "21": {
         "length": 948.8751841935095,
@@ -766,8 +766,8 @@
         "total_time_brut": "01:47:22",
         "gramme_per_km": 6.75,
         "gramme_total": 166.88,
-        "mL_per_km": 40.36,
-        "mL_total": 997.67
+        "mL_per_km": 44.02,
+        "mL_total": 1088.37
       },
       "22": {
         "length": 1003.8591038338832,
@@ -793,8 +793,8 @@
         "total_time_brut": "01:52:29",
         "gramme_per_km": 7.98,
         "gramme_total": 174.86,
-        "mL_per_km": 47.69,
-        "mL_total": 1045.36
+        "mL_per_km": 52.02,
+        "mL_total": 1140.39
       },
       "23": {
         "length": 994.7356551932784,
@@ -820,8 +820,8 @@
         "total_time_brut": "01:57:36",
         "gramme_per_km": 10.76,
         "gramme_total": 185.62,
-        "mL_per_km": 64.34,
-        "mL_total": 1109.7
+        "mL_per_km": 70.19,
+        "mL_total": 1210.58
       },
       "24": {
         "length": 1006.7214319802965,
@@ -847,8 +847,8 @@
         "total_time_brut": "02:02:43",
         "gramme_per_km": 11.37,
         "gramme_total": 196.99,
-        "mL_per_km": 67.95,
-        "mL_total": 1177.65
+        "mL_per_km": 74.13,
+        "mL_total": 1284.71
       },
       "25": {
         "length": 979.923478844706,
@@ -874,8 +874,8 @@
         "total_time_brut": "02:07:50",
         "gramme_per_km": 6.86,
         "gramme_total": 203.85,
-        "mL_per_km": 40.99,
-        "mL_total": 1218.64
+        "mL_per_km": 44.72,
+        "mL_total": 1329.43
       },
       "26": {
         "length": 1040.0004701923312,
@@ -901,8 +901,8 @@
         "total_time_brut": "02:12:56",
         "gramme_per_km": 6.4,
         "gramme_total": 210.25,
-        "mL_per_km": 38.27,
-        "mL_total": 1256.91
+        "mL_per_km": 41.75,
+        "mL_total": 1371.17
       },
       "27": {
         "length": 1028.4947275174634,
@@ -928,8 +928,8 @@
         "total_time_brut": "02:18:03",
         "gramme_per_km": 6.43,
         "gramme_total": 216.68,
-        "mL_per_km": 38.44,
-        "mL_total": 1295.35
+        "mL_per_km": 41.93,
+        "mL_total": 1413.11
       },
       "28": {
         "length": 949.9010477609023,
@@ -955,8 +955,8 @@
         "total_time_brut": "02:23:10",
         "gramme_per_km": 6.52,
         "gramme_total": 223.2,
-        "mL_per_km": 38.98,
-        "mL_total": 1334.33
+        "mL_per_km": 42.52,
+        "mL_total": 1455.63
       },
       "29": {
         "length": 985.4942116656836,
@@ -982,8 +982,8 @@
         "total_time_brut": "02:28:17",
         "gramme_per_km": 8.49,
         "gramme_total": 231.69,
-        "mL_per_km": 50.78,
-        "mL_total": 1385.11
+        "mL_per_km": 55.4,
+        "mL_total": 1511.03
       },
       "30": {
         "length": 1066.1439851529924,
@@ -1009,8 +1009,8 @@
         "total_time_brut": "02:33:24",
         "gramme_per_km": 11.0,
         "gramme_total": 242.69,
-        "mL_per_km": 65.76,
-        "mL_total": 1450.87
+        "mL_per_km": 71.74,
+        "mL_total": 1582.77
       },
       "31": {
         "length": 941.9388564858051,
@@ -1036,8 +1036,8 @@
         "total_time_brut": "02:38:30",
         "gramme_per_km": 6.41,
         "gramme_total": 249.1,
-        "mL_per_km": 38.33,
-        "mL_total": 1489.2
+        "mL_per_km": 41.81,
+        "mL_total": 1624.58
       },
       "32": {
         "length": 988.5847792802663,
@@ -1063,8 +1063,8 @@
         "total_time_brut": "02:43:37",
         "gramme_per_km": 7.19,
         "gramme_total": 256.29,
-        "mL_per_km": 42.98,
-        "mL_total": 1532.18
+        "mL_per_km": 46.88,
+        "mL_total": 1671.47
       },
       "33": {
         "length": 1007.5293112073767,
@@ -1090,8 +1090,8 @@
         "total_time_brut": "02:48:44",
         "gramme_per_km": 6.59,
         "gramme_total": 262.88,
-        "mL_per_km": 39.38,
-        "mL_total": 1571.56
+        "mL_per_km": 42.96,
+        "mL_total": 1714.43
       },
       "34": {
         "length": 1014.7410478168573,
@@ -1117,8 +1117,8 @@
         "total_time_brut": "02:53:51",
         "gramme_per_km": 8.09,
         "gramme_total": 270.97,
-        "mL_per_km": 48.37,
-        "mL_total": 1619.94
+        "mL_per_km": 52.77,
+        "mL_total": 1767.2
       },
       "35": {
         "length": 1024.1052224720565,
@@ -1144,8 +1144,8 @@
         "total_time_brut": "02:58:57",
         "gramme_per_km": 10.27,
         "gramme_total": 281.24,
-        "mL_per_km": 61.39,
-        "mL_total": 1681.32
+        "mL_per_km": 66.97,
+        "mL_total": 1834.17
       },
       "36": {
         "length": 960.1943710716614,
@@ -1171,8 +1171,8 @@
         "total_time_brut": "03:04:04",
         "gramme_per_km": 7.0,
         "gramme_total": 288.24,
-        "mL_per_km": 41.84,
-        "mL_total": 1723.17
+        "mL_per_km": 45.65,
+        "mL_total": 1879.82
       },
       "37": {
         "length": 1010.0469630558568,
@@ -1198,8 +1198,8 @@
         "total_time_brut": "03:09:11",
         "gramme_per_km": 6.61,
         "gramme_total": 294.85,
-        "mL_per_km": 39.51,
-        "mL_total": 1762.67
+        "mL_per_km": 43.1,
+        "mL_total": 1922.92
       },
       "38": {
         "length": 991.056634544226,
@@ -1225,8 +1225,8 @@
         "total_time_brut": "03:14:18",
         "gramme_per_km": 7.22,
         "gramme_total": 302.07,
-        "mL_per_km": 43.17,
-        "mL_total": 1805.85
+        "mL_per_km": 47.1,
+        "mL_total": 1970.02
       },
       "39": {
         "length": 991.8942842285735,
@@ -1252,8 +1252,8 @@
         "total_time_brut": "03:19:25",
         "gramme_per_km": 6.81,
         "gramme_total": 308.88,
-        "mL_per_km": 40.71,
-        "mL_total": 1846.55
+        "mL_per_km": 44.41,
+        "mL_total": 2014.42
       },
       "40": {
         "length": 1012.5317206875784,
@@ -1279,8 +1279,8 @@
         "total_time_brut": "03:24:31",
         "gramme_per_km": 6.71,
         "gramme_total": 315.59,
-        "mL_per_km": 40.1,
-        "mL_total": 1886.65
+        "mL_per_km": 43.74,
+        "mL_total": 2058.17
       },
       "41": {
         "length": 1007.5073176480712,
@@ -1306,8 +1306,8 @@
         "total_time_brut": "03:29:38",
         "gramme_per_km": 6.39,
         "gramme_total": 321.97,
-        "mL_per_km": 38.17,
-        "mL_total": 1924.83
+        "mL_per_km": 41.64,
+        "mL_total": 2099.81
       },
       "42": {
         "length": 41558.99978193505,
@@ -1333,14 +1333,14 @@
         "total_time_brut": "03:32:42",
         "gramme_per_km": 4.19,
         "gramme_total": 326.16,
-        "mL_per_km": 25.05,
-        "mL_total": 1949.87
+        "mL_per_km": 27.32,
+        "mL_total": 2127.13
       }
     },
     "total_hour": "03:32:42",
     "impact": {
       "total_time_second": 12763,
-      "secondes_perdues": 133.45632235336302
+      "secondes_perdues": 153.5580327472687
     }
   },
   "weather": {
@@ -1373,28 +1373,28 @@
         18.67147445678711,
         15.484185218811035,
         22.608457565307617,
-        27.38130760192871,
-        26.98799705505371,
-        26.758922576904297,
-        26.49365234375,
-        27.059932708740234,
-        27.295976638793945,
-        23.47740936279297,
-        23.686248779296875,
-        20.421871185302734,
-        21.38896942138672,
-        21.1298828125,
-        23.424907684326172,
-        24.063512802124023,
-        24.066205978393555,
-        23.893260955810547,
-        21.749483108520508,
-        20.456745147705078,
-        22.380884170532227,
-        24.944129943847656,
-        24.363250732421875,
-        25.40743064880371,
-        27.778379440307617
+        28.394392013549805,
+        29.53316879272461,
+        28.528722763061523,
+        25.98491859436035,
+        27.841293334960938,
+        28.85619354248047,
+        24.1226863861084,
+        22.65713119506836,
+        23.740901947021484,
+        24.850431442260742,
+        23.675302505493164,
+        23.7081241607666,
+        24.627788543701172,
+        24.661970138549805,
+        26.121713638305664,
+        23.023117065429688,
+        21.734580993652344,
+        23.54080581665039,
+        25.07109832763672,
+        25.872453689575195,
+        25.952478408813477,
+        29.37476348876953
       ],
       "wind_directions": [
         233.9725341796875,
@@ -1424,28 +1424,28 @@
         199.1337432861328,
         197.59251403808594,
         217.2349090576172,
-        219.13040161132812,
-        223.91915893554688,
-        227.7263641357422,
-        222.79737854003906,
-        220.6838836669922,
-        221.2569122314453,
-        215.639892578125,
-        223.15240478515625,
-        220.71075439453125,
-        223.63613891601562,
-        224.30979919433594,
-        226.2452850341797,
-        231.07244873046875,
-        235.35899353027344,
-        239.1843719482422,
-        241.31394958496094,
-        241.63104248046875,
-        244.25933837890625,
-        249.73422241210938,
-        251.0294952392578,
-        249.25384521484375,
-        251.09532165527344
+        219.3404998779297,
+        225.9876708984375,
+        227.04541015625,
+        222.75424194335938,
+        220.27978515625,
+        220.44615173339844,
+        217.7250518798828,
+        225.64366149902344,
+        229.3045654296875,
+        231.46978759765625,
+        225.61598205566406,
+        228.07754516601562,
+        232.1249542236328,
+        236.30990600585938,
+        240.25521850585938,
+        243.03436279296875,
+        243.4350128173828,
+        246.5712890625,
+        248.96241760253906,
+        248.7906951904297,
+        246.2795867919922,
+        250.6767120361328
       ],
       "wind_departure": 199.1
     },
@@ -1478,30 +1478,30 @@
         14.821000099182129,
         15.571000099182129,
         17.97100067138672,
-        19.671001434326172,
-        20.921001434326172,
-        21.72100067138672,
-        20.921001434326172,
-        21.421001434326172,
-        20.671001434326172,
+        20.321001052856445,
+        21.321001052856445,
+        21.321001052856445,
+        20.371000289916992,
+        20.97100067138672,
         20.270999908447266,
-        19.72100067138672,
-        19.371000289916992,
-        19.121000289916992,
-        18.821001052856445,
-        18.571001052856445,
-        18.421001434326172,
-        18.371000289916992,
-        18.520999908447266,
+        20.121000289916992,
+        19.921001434326172,
+        19.621000289916992,
+        19.270999908447266,
+        18.921001434326172,
+        18.621000289916992,
+        18.47100067138672,
+        18.47100067138672,
+        18.47100067138672,
         18.421001434326172,
         18.321001052856445,
-        18.520999908447266,
+        18.571001052856445,
         18.770999908447266,
-        19.22100067138672,
-        19.72100067138672,
-        19.97100067138672
+        19.421001434326172,
+        19.871000289916992,
+        21.020999908447266
       ],
-      "temp_max": 22,
+      "temp_max": 21,
       "temp_min": 13,
       "temp_avg": 17
     },
@@ -1534,66 +1534,58 @@
         100.0,
         92.0,
         98.0,
-        94.0,
+        99.0,
         100.0,
         100.0,
         99.0,
         95.0,
         96.0,
-        94.0,
-        98.0,
-        100.0,
-        98.0,
-        98.0,
+        90.0,
         92.0,
+        99.0,
+        99.0,
+        90.0,
+        94.0,
         93.0,
         93.0,
         87.0,
-        81.0,
-        77.0,
-        88.0,
-        91.0,
+        80.0,
+        80.0,
+        90.0,
         93.0,
-        91.0,
-        95.0
+        82.0,
+        94.0,
+        53.0
       ]
     }
   },
-  "distance_above": 19,
+  "distance_above": 8,
   "segments_above": [
     [
-      0,
+      1,
       3
     ],
     [
-      5,
-      6
-    ],
-    [
-      9,
+      10,
       11
     ],
     [
-      14,
-      17
+      15,
+      16
     ],
     [
-      21,
-      25
+      22,
+      24
     ],
     [
-      28,
+      29,
       30
     ],
     [
-      33,
-      36
-    ],
-    [
-      38,
-      39
+      34,
+      35
     ]
   ],
-  "threshold": 1,
+  "threshold": 12,
   "map": "ok"
 }

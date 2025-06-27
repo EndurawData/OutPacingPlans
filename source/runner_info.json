@@ -1540,7 +1540,7 @@
                 "break_minutes":0, 
                 "kbkpacing" : "yes",
                 "aidstation_nutrition" : "yes",
-                "threshold": 1,
+                "threshold": 12,
                 "a_gradient": 4,
                 "a_split": 1,
                 "a_drift": 1,

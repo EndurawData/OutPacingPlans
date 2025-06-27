@@ -1542,7 +1542,7 @@
       ]
     }
   },
-  "distance_above": 19,
+  "distance_above": 8,
   "segments_above": [
     [
       0,
@@ -1577,6 +1577,6 @@
       39
     ]
   ],
-  "threshold": 1,
+  "threshold": 12,
   "map": "ok"
 }
