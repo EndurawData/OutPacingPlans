@@ -2141,6 +2141,172 @@
         "zoom_de_la_carte": 9,
         "start_time": "2025-07-04",
         "start_hour": "16:00:00"
-    }    
+    },
+
+    "VDA ALTER": {
+        "ravitos": {
+            "1": {
+                "nom": "VIELHA",
+                "dist": 0.0,
+                "deniiiv": 971,
+                "deniiiv_cum": 0,
+                "lon": 0.79855003,
+                "lat": 42.70126004
+            },
+            "2": {
+                "nom": "BASSA D'OLES",
+                "dist": 5.322,
+                "deniiiv": 1603,
+                "deniiiv_cum": 707,
+                "lon": 0.77417999,
+                "lat": 42.71466999
+            },
+            "3": {
+                "nom": "ES BORDES",
+                "dist": 11.648,
+                "deniiiv": 868,
+                "deniiiv_cum": 794,
+                "lon": 0.72001001,
+                "lat": 42.73695001
+            },
+            "4": {
+                "nom": "VILAM\u00d3S 1",
+                "dist": 22.148,
+                "deniiiv": 1251,
+                "deniiiv_cum": 1341,
+                "lon": 0.7283894,
+                "lat": 42.74722841
+            },
+            "5": {
+                "nom": "BOSS\u00d2ST 1",
+                "dist": 31.127,
+                "deniiiv": 714,
+                "deniiiv_cum": 1671,
+                "lon": 0.69382997,
+                "lat": 42.78564996
+            },
+            "6": {
+                "nom": "CANEJAN",
+                "dist": 41.251,
+                "deniiiv": 894,
+                "deniiiv_cum": 2243,
+                "lon": 0.73845003,
+                "lat": 42.83811003
+            },
+            "7": {
+                "nom": "LES",
+                "dist": 57.111,
+                "deniiiv": 640,
+                "deniiiv_cum": 2946,
+                "lon": 0.71066,
+                "lat": 42.81022998
+            },
+            "8": {
+                "nom": "BOSS\u00d2ST 2",
+                "dist": 60.651,
+                "deniiiv": 714,
+                "deniiiv_cum": 3034,
+                "lon": 0.69334441,
+                "lat": 42.78501436
+            },
+            "9": {
+                "nom": "ARRES DE SUS",
+                "dist": 67.143,
+                "deniiiv": 1306,
+                "deniiiv_cum": 3667,
+                "lon": 0.71174,
+                "lat": 42.75717001
+            },
+            "10": {
+                "nom": "VILAM\u00d2S 2",
+                "dist": 76.566,
+                "deniiiv": 1253,
+                "deniiiv_cum": 4118,
+                "lon": 0.72798656,
+                "lat": 42.74737903
+            },
+            "11": {
+                "nom": "VILAC",
+                "dist": 85.166,
+                "deniiiv": 1046,
+                "deniiiv_cum": 4419,
+                "lon": 0.79796003,
+                "lat": 42.72153997
+            },
+            "12": {
+                "nom": "CASARILH",
+                "dist": 91.041,
+                "deniiiv": 1043,
+                "deniiiv_cum": 4852,
+                "lon": 0.82972996,
+                "lat": 42.69950998
+            },
+            "13": {
+                "nom": "SALARD\u00da",
+                "dist": 99.46,
+                "deniiiv": 1267,
+                "deniiiv_cum": 5352,
+                "lon": 0.90367997,
+                "lat": 42.70767999
+            },
+            "14": {
+                "nom": "BANHS DE TRED\u00d2S",
+                "dist": 108.317,
+                "deniiiv": 1758,
+                "deniiiv_cum": 5881,
+                "lon": 0.92802999,
+                "lat": 42.65522
+            },
+            "15": {
+                "nom": "COLOM\u00c8RS",
+                "dist": 114.898,
+                "deniiiv": 1980,
+                "deniiiv_cum": 6353,
+                "lon": 0.92119002,
+                "lat": 42.63174003
+            },
+            "16": {
+                "nom": "MONT-ROMIES",
+                "dist": 125.141,
+                "deniiiv": 1766,
+                "deniiiv_cum": 6516,
+                "lon": 0.89490999,
+                "lat": 42.69372999
+            },
+            "17": {
+                "nom": "ARTIES",
+                "dist": 129.698,
+                "deniiiv": 1141,
+                "deniiiv_cum": 6521,
+                "lon": 0.87170997,
+                "lat": 42.69903003
+            },
+            "18": {
+                "nom": "STET ESCUNHAU",
+                "dist": 134.521,
+                "deniiiv": 1691,
+                "deniiiv_cum": 7109,
+                "lon": 0.83886003,
+                "lat": 42.67938998
+            },
+            "19": {
+                "nom": "VIELHA",
+                "dist": 141.741,
+                "deniiiv": 971,
+                "deniiiv_cum": 7242,
+                "lon": 0.79856001,
+                "lat": 42.70126004
+            }
+        },
+        "longueur_off": 141.741,
+        "deniiiv_off": 7215,
+        "deniiiv_negatiiif_off": 7226,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2003,
+        "zoom_de_la_carte": 9,
+        "start_time": "2025-07-04",
+        "start_hour": "16:00:00"
+    }
 
 }

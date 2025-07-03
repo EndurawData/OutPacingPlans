@@ -1796,11 +1796,11 @@
         },
         "Race": {
             "template": "trail",
-            "course": "VDA",
+            "course": "VDA ALTER",
             "kbkpacing" : "yes",
             "no_time": "no",
             "profil_split": 0.00,
-            "objectif_heure": 27,
+            "objectif_heure": 24,
             "objectif_minute": 0,
             "objectif_seconde": 0,
             "break_heure":0,
