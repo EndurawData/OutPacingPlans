@@ -1912,8 +1912,235 @@
     "zoom_de_la_carte": 9,
     "start_time": "2025-06-28",
     "start_hour": "09:00:00"
-}
-
-    
+},
+"VDA": {
+        "ravitos": {
+            "1": {
+                "nom": "VIELHA",
+                "dist": 0.0,
+                "deniiiv": 978,
+                "deniiiv_cum": 0,
+                "lon": 0.79856152,
+                "lat": 42.70124336
+            },
+            "2": {
+                "nom": "Tuc Montcorbison",
+                "dist": 8.185,
+                "deniiiv": 2158,
+                "deniiiv_cum": 1252,
+                "lon": 0.75829997,
+                "lat": 42.70757002
+            },
+            "3": {
+                "nom": "BASSA D'OLES",
+                "dist": 10.502,
+                "deniiiv": 1600,
+                "deniiiv_cum": 1257,
+                "lon": 0.77414503,
+                "lat": 42.71472297
+            },
+            "4": {
+                "nom": "Uelhs deth Joeu",
+                "dist": 22.942,
+                "deniiiv": 1380,
+                "deniiiv_cum": 1902,
+                "lon": 0.70793998,
+                "lat": 42.68245004
+            },
+            "5": {
+                "nom": "ARTIGA DE LIN",
+                "dist": 24.622,
+                "deniiiv": 1466,
+                "deniiiv_cum": 2018,
+                "lon": 0.70500003,
+                "lat": 42.67848004
+            },
+            "6": {
+                "nom": "Tuc dera Escaleta",
+                "dist": 29.211,
+                "deniiiv": 2454,
+                "deniiiv_cum": 3008,
+                "lon": 0.67585004,
+                "lat": 42.69073002
+            },
+            "7": {
+                "nom": "POILANER",
+                "dist": 32.79,
+                "deniiiv": 2000,
+                "deniiiv_cum": 3047,
+                "lon": 0.68521178,
+                "lat": 42.71352779
+            },
+            "8": {
+                "nom": "C\u00f2th de Baretja",
+                "dist": 39.525,
+                "deniiiv": 1759,
+                "deniiiv_cum": 3616,
+                "lon": 0.64912291,
+                "lat": 42.75203006
+            },
+            "9": {
+                "nom": "PORTILHON",
+                "dist": 42.649,
+                "deniiiv": 1292,
+                "deniiiv_cum": 3642,
+                "lon": 0.65992643,
+                "lat": 42.76903451
+            },
+            "10": {
+                "nom": "BOSS\u00d2ST",
+                "dist": 49.189,
+                "deniiiv": 710,
+                "deniiiv_cum": 3788,
+                "lon": 0.69348481,
+                "lat": 42.78522567
+            },
+            "11": {
+                "nom": "Les",
+                "dist": 52.959,
+                "deniiiv": 640,
+                "deniiiv_cum": 3814,
+                "lon": 0.71241416,
+                "lat": 42.81205371
+            },
+            "12": {
+                "nom": "CANEJAN",
+                "dist": 58.203,
+                "deniiiv": 891,
+                "deniiiv_cum": 4254,
+                "lon": 0.73858816,
+                "lat": 42.83823073
+            },
+            "13": {
+                "nom": "REFUGI HONERIA",
+                "dist": 65.752,
+                "deniiiv": 1017,
+                "deniiiv_cum": 4907,
+                "lon": 0.80630003,
+                "lat": 42.81849001
+            },
+            "14": {
+                "nom": "Mines de Liat",
+                "dist": 75.677,
+                "deniiiv": 2322,
+                "deniiiv_cum": 6303,
+                "lon": 0.86812997,
+                "lat": 42.79413002
+            },
+            "15": {
+                "nom": "C\u00d2TH DE VARRAD\u00d2S",
+                "dist": 81.801,
+                "deniiiv": 2048,
+                "deniiiv_cum": 6430,
+                "lon": 0.887176,
+                "lat": 42.75886802
+            },
+            "16": {
+                "nom": "P\u00f2rt d'Urets",
+                "dist": 90.295,
+                "deniiiv": 2520,
+                "deniiiv_cum": 7116,
+                "lon": 0.92628999,
+                "lat": 42.78928
+            },
+            "17": {
+                "nom": "MONTGARRI",
+                "dist": 99.686,
+                "deniiiv": 1659,
+                "deniiiv_cum": 7208,
+                "lon": 0.9944787,
+                "lat": 42.75906902
+            },
+            "18": {
+                "nom": "BERET",
+                "dist": 104.778,
+                "deniiiv": 1850,
+                "deniiiv_cum": 7402,
+                "lon": 0.96603186,
+                "lat": 42.72625571
+            },
+            "19": {
+                "nom": "SALARD\u00da",
+                "dist": 113.708,
+                "deniiiv": 1260,
+                "deniiiv_cum": 7460,
+                "lon": 0.90384065,
+                "lat": 42.70785643
+            },
+            "20": {
+                "nom": "BANHS DE TRED\u00d2S",
+                "dist": 122.614,
+                "deniiiv": 1759,
+                "deniiiv_cum": 8005,
+                "lon": 0.92796,
+                "lat": 42.65562996
+            },
+            "21": {
+                "nom": "Estanh Obago",
+                "dist": 129.317,
+                "deniiiv": 2239,
+                "deniiiv_cum": 8518,
+                "lon": 0.94019003,
+                "lat": 42.61348802
+            },
+            "22": {
+                "nom": "COLOM\u00c8RS",
+                "dist": 134.077,
+                "deniiiv": 1980,
+                "deniiiv_cum": 8653,
+                "lon": 0.92087427,
+                "lat": 42.63173919
+            },
+            "23": {
+                "nom": "MONT-ROMIES",
+                "dist": 144.405,
+                "deniiiv": 1765,
+                "deniiiv_cum": 8907,
+                "lon": 0.89605344,
+                "lat": 42.69379294
+            },
+            "24": {
+                "nom": "ARTIES",
+                "dist": 148.869,
+                "deniiiv": 1139,
+                "deniiiv_cum": 8917,
+                "lon": 0.8716803,
+                "lat": 42.69882686
+            },
+            "25": {
+                "nom": "STET ESCUNHAU",
+                "dist": 154.754,
+                "deniiiv": 1780,
+                "deniiiv_cum": 9594,
+                "lon": 0.83563509,
+                "lat": 42.67033509
+            },
+            "26": {
+                "nom": "Tuc de Meddia",
+                "dist": 156.648,
+                "deniiiv": 2215,
+                "deniiiv_cum": 10029,
+                "lon": 0.82239663,
+                "lat": 42.6706883
+            },
+            "27": {
+                "nom": "VIELHA",
+                "dist": 162.915,
+                "deniiiv": 982,
+                "deniiiv_cum": 10034,
+                "lon": 0.79561067,
+                "lat": 42.70028539
+            }
+        },
+        "longueur_off": 162.915,
+        "deniiiv_off": 10042,
+        "deniiiv_negatiiif_off": 10034,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2003,
+        "zoom_de_la_carte": 9,
+        "start_time": "2025-07-04",
+        "start_hour": "16:00:00"
+    }    
 
 }

@@ -1778,5 +1778,40 @@
             "a_temp": 0,
             "previous_place": 0
         }
-    }
+    },
+        "alexischabassiere": {
+        "infos": {
+            "nom": "Chabassiere",
+            "prenom": "Alexis",
+            "birthdate": "18/07/1992",
+            "cote": 0,
+            "nationality": "France",
+            "Team": "",
+            "personalized_message":"Celle-là c'est pour la qualif ! Bonne course Alexis !",
+            "best_nutrition_brand":"",
+            "energy_consumption": 0, 
+            "sexe":"M",
+            "poids":67,     
+            "taille":170 
+        },
+        "Race": {
+            "template": "trail",
+            "course": "VDA",
+            "kbkpacing" : "yes",
+            "no_time": "no",
+            "profil_split": 0.00,
+            "objectif_heure": 27,
+            "objectif_minute": 0,
+            "objectif_seconde": 0,
+            "break_heure":0,
+            "break_minutes":0, 
+            "threshold": 12,
+            "a_gradient": 8,
+            "a_split": 1,
+            "a_drift": 1,
+            "a_vent": 0,
+            "a_temp": 0,
+            "previous_place": 0
+        }
+        }
 }
