@@ -681,8 +681,47 @@
                 "sexe":"F",
                 "poids":49,     
                 "taille":170     
+            },               
+            "Race0": {
+                "template": "trail",
+                "course": "Cham Conta",
+                "profil_split": 0.00,
+                "objectif_heure": 3,
+                "objectif_minute": 8,
+                "objectif_seconde": 57,
+                "break_heure":0,
+                "break_minutes":0,
+                "kbkpacing" : "yes",
+                "no_time" : "no",
+                "threshold": 12,
+                "a_gradient": 6,
+                "a_split": 1,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
             },
-                "Race": {
+            "Race": {
+                "template": "trail",
+                "course": "Conta Cour",
+                "profil_split": 0.00,
+                "objectif_heure": 7,
+                "objectif_minute": 10,
+                "objectif_seconde": 19,
+                "break_heure":0,
+                "break_minutes":0,
+                "kbkpacing" : "yes",
+                "no_time" : "no",
+                "threshold": 12,
+                "a_gradient": 6,
+                "a_split": 1,
+                "a_drift": 0,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            },
+
+            "Race1": {
                 "template": "trail",
                 "course": "Shokz 60k",
                 "profil_split": 0.05,

@@ -2307,6 +2307,161 @@
         "zoom_de_la_carte": 9,
         "start_time": "2025-07-04",
         "start_hour": "16:00:00"
-    }
+    },
+
+    "Conta Cour" : 
+    {
+    "ravitos": {
+        "1": {
+            "nom": "Les Contamines Montjoie",
+            "dist": 0,
+            "deniiiv": 1164.0,
+            "lat": 45.810997,
+            "lon": 6.725727
+        },
+        "2": {
+            "nom": "Refuge De Nant Borrant",
+            "dist": 4.53,
+            "deniiiv": 1460.5,
+            "lat": 45.77811009,
+            "lon": 6.71443074
+        },
+        "3": {
+            "nom": "Refuge de la Croix du Bonhomme",
+            "dist": 12.77,
+            "deniiiv": 2450.5,
+            "lat": 45.72239583,
+            "lon": 6.717397179
+        },
+        "4": {
+            "nom": "Gîtes des Chapieux",
+            "dist": 17.87,
+            "deniiiv": 1558.0,
+            "lat": 45.69693479,
+            "lon": 6.733901146
+        },
+        "5": {
+            "nom": "Chap. Notre Dames des Neiges",
+            "dist": 22.73,
+            "deniiiv": 1788.4,
+            "lat": 45.7270653,
+            "lon": 6.769207734
+        },
+        "6": {
+            "nom": "Col de la Seigne",
+            "dist": 28.38,
+            "deniiiv": 2509.2,
+            "lat": 45.75138841,
+            "lon": 6.807151855
+        },
+        "7": {
+            "nom": "Rifugio Elisabetta Soldini",
+            "dist": 33.6,
+            "deniiiv": 2198.9,
+            "lat": 45.7668697,
+            "lon": 6.83690208
+        },
+        "8": {
+            "nom": "Lac des Vesses",
+            "dist": 40.74,
+            "deniiiv": 2331.8,
+            "lat": 45.77286545,
+            "lon": 6.902341442
+        },
+        "9": {
+            "nom": "Rifugio Maison Vieille",
+            "dist": 43.99,
+            "deniiiv": 1961.7,
+            "lat": 45.79045068,
+            "lon": 6.930868495
+        },
+        "10": {
+            "nom": "Courmayeur",
+            "dist": 50.68,
+            "deniiiv": 1224.0,
+            "lat": 45.784229,
+            "lon": 6.972653
+        }
+    },
+    "longueur_off": 50.86,
+    "deniiiv_off": 3154,
+    "deniiiv_negatiiif_off": 3096,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-07-05",
+    "start_hour": "22:00:00"
+},
+"Cham Conta" :
+    {
+    "ravitos": {
+        "1": {
+            "nom": "Chamonix",
+            "dist": 0.0,
+            "deniiiv": 1075.6,
+            "lat": 45.932781,
+            "lon": 6.872699
+        },
+        "2": {
+            "nom": "Camping les Marmottes",
+            "dist": 4.91,
+            "deniiiv": 1020.7,
+            "lat": 45.906595,
+            "lon": 6.833844
+        },
+        "3": {
+            "nom": "Barrage des Houches",
+            "dist": 8.5,
+            "deniiiv": 988.9,
+            "lat": 45.893895,
+            "lon": 6.798223
+        },
+        "4": {
+            "nom": "Col de Voza Info",
+            "dist": 14.41,
+            "deniiiv": 1669.2400000000002,
+            "lat": 45.877572,
+            "lon": 6.760176
+        },
+        "5": {
+            "nom": "Montivon",
+            "dist": 19.0,
+            "deniiiv": 1314.9,
+            "lat": 45.877317,
+            "lon": 6.729248
+        },
+        "6": {
+            "nom": "Passerelle des Crouets",
+            "dist": 23.91,
+            "deniiiv": 831.5,
+            "lat": 45.879886,
+            "lon": 6.711815
+        },
+        "7": {
+            "nom": "Les Hoches",
+            "dist": 29.67,
+            "deniiiv": 1075.6,
+            "lat": 45.838656,
+            "lon": 6.724848
+        },
+        "8": {
+            "nom": "Les Contamines Montjoie",
+            "dist": 32.25,
+            "deniiiv": 1167.08,
+            "lat": 45.821365,
+            "lon": 6.727218
+        }
+    },
+    "longueur_off": 32.25,
+    "deniiiv_off": 1434,
+    "deniiiv_negatiiif_off": 1340,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-07-05",
+    "start_hour": "08:00:00"
+}
 
 }
