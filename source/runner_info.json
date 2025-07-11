@@ -939,10 +939,6 @@
         
         },
 
-
-
-
-
         "aureliendunandpallaz": {
             "infos": {
                 "nom": "Dunand-Pallaz",
@@ -1664,13 +1660,13 @@
                 "kbkpacing" : "yes",
                 "no_time": "no",
                 "profil_split": 0.05,
-                "objectif_heure": 2,
-                "objectif_minute": 45,
+                "objectif_heure": 3,
+                "objectif_minute": 20,
                 "objectif_seconde": 0,
                 "break_heure":0,
                 "break_minutes":0, 
                 "threshold": 10,
-                "a_gradient": 0.05,
+                "a_gradient": 10,
                 "a_split": 1,
                 "a_drift": 1,
                 "a_vent": 0,
