@@ -2462,6 +2462,235 @@
     "zoom_de_la_carte": 9,
     "start_time": "2025-07-05",
     "start_hour": "08:00:00"
+},
+"Sierre Zinal" : 
+{
+    "ravitos": {
+        "1": {
+            "nom": "",
+            "dist": 0.0,
+            "deniiiv": 560,
+            "lat": 46.289926,
+            "lon": 7.56386
+        },
+        "2": {
+            "nom": "Beauregard",
+            "dist": 4.0,
+            "deniiiv": 1214.6,
+            "lat": 46.2789,
+            "lon": 7.563044
+        },
+        "3": {
+            "nom": "Ponchette",
+            "dist": 7.5,
+            "deniiiv": 1902.61,
+            "lat": 46.275246,
+            "lon": 7.589808
+        },
+        "4": {
+            "nom": "Chandolin",
+            "dist": 12.0,
+            "deniiiv": 1944.9600000000003,
+            "lat": 46.250202,
+            "lon": 7.600614
+        },
+        "5": {
+            "nom": "Tignousa",
+            "dist": 16.0,
+            "deniiiv": 2148.75,
+            "lat": 46.226243,
+            "lon": 7.617346
+        },
+        "6": {
+            "nom": "Hotel Weisshorn",
+            "dist": 20.0,
+            "deniiiv": 2328.6400000000003,
+            "lat": 46.208913,
+            "lon": 7.619555
+        },
+        "7": {
+            "nom": "Barneuza",
+            "dist": 27,
+            "deniiiv": 2205.46,
+            "lat": 46.164849,
+            "lon": 7.634707
+        },
+       "8": {
+            "nom": "Zinal",
+            "dist": 31.1,
+            "deniiiv": 1675,
+            "lat": 46.137734,
+            "lon": 7.62528
+        }
+    },
+    "longueur_off": 31.1,
+    "deniiiv_off": 2133,
+    "deniiiv_negatiiif_off": 1086,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-08-09",
+    "start_hour": "11:00:00"
+},
+    "X Traversee": 
+    {
+        "ravitos": {
+            "1": {
+                "nom": "La Fouly",
+                "dist": 0.0,
+                "deniiiv": 1599,
+                "deniiiv_cum": 0,
+                "lon": 7.09862446,
+                "lat": 45.932113
+            },
+            "2": {
+                "nom": "Col Fen\u00eatre",
+                "dist": 9.357,
+                "deniiiv": 2693,
+                "deniiiv_cum": 1099,
+                "lon": 7.14520619,
+                "lat": 45.87619645
+            },
+            "3": {
+                "nom": "Gd St Bernard",
+                "dist": 12.435,
+                "deniiiv": 2469,
+                "deniiiv_cum": 1236,
+                "lon": 7.17134989,
+                "lat": 45.86870045
+            },
+            "4": {
+                "nom": "Bourg St Pierre",
+                "dist": 26.65,
+                "deniiiv": 1620,
+                "deniiiv_cum": 1666,
+                "lon": 7.20783786,
+                "lat": 45.9515345
+            },
+            "5": {
+                "nom": "Cabane de Mille",
+                "dist": 38.38,
+                "deniiiv": 2475,
+                "deniiiv_cum": 2760,
+                "lon": 7.20674406,
+                "lat": 46.0137018
+            },
+            "6": {
+                "nom": "Cabane Brunet",
+                "dist": 46.083,
+                "deniiiv": 2101,
+                "deniiiv_cum": 3022,
+                "lon": 7.27416802,
+                "lat": 46.03024859
+            },
+            "7": {
+                "nom": "Cabane Panossi\u00e8re",
+                "dist": 53.2,
+                "deniiiv": 2637,
+                "deniiiv_cum": 3972,
+                "lon": 7.30004096,
+                "lat": 45.99853425
+            },
+            "8": {
+                "nom": "Lourtier",
+                "dist": 64.393,
+                "deniiiv": 1082,
+                "deniiiv_cum": 3996,
+                "lon": 7.26444529,
+                "lat": 46.05092243
+            },
+            "9": {
+                "nom": "La Chaux",
+                "dist": 70.371,
+                "deniiiv": 2262,
+                "deniiiv_cum": 5205,
+                "lon": 7.26876426,
+                "lat": 46.08030146
+            },
+            "10": {
+                "nom": "Verbier",
+                "dist": 76.87,
+                "deniiiv": 1486,
+                "deniiiv_cum": 5281,
+                "lon": 7.22749087,
+                "lat": 46.09599587
+            }
+        },
+        "longueur_off": 76.87,
+        "deniiiv_off": 5273,
+        "deniiiv_negatiiif_off": 5389,
+        "record_feminin": "non sp\u00e9cifi\u00e9",
+        "record_masculin": "non sp\u00e9cifi\u00e9",
+        "date_de_creation": 2003,
+        "zoom_de_la_carte": 9,
+        "start_time": "2025-07-12",
+        "start_hour": "09:00:00"
+    },
+    
+    "France Trail Court 2025" :
+    {
+    "ravitos": {
+        "1": {
+            "nom": "Parc des Sports",
+            "dist": 0.0,
+            "deniiiv": 1832,
+            "lat": 45.44743,
+            "lon": 6.97747
+        },
+        "2": {
+            "nom": "Passage de Picheru",
+            "dist": 6.9,
+            "deniiiv": 2769.9,
+            "lat": 45.47264,
+            "lon": 6.99223
+        },
+        "3": {
+            "nom": "Col de la Baillettaz",
+            "dist": 11.45,
+            "deniiiv": 2848.8,
+            "lat": 45.46951,
+            "lon": 7.02417
+        },
+        "4": {
+            "nom": "Le Fornet",
+            "dist": 16.7,
+            "deniiiv": 1936.7,
+            "lat": 45.4487,
+            "lon": 7.01121
+        },
+        "5": {
+            "nom": "Col de l'Iseran",
+            "dist": 23.0,
+            "deniiiv": 2832.0,
+            "lat": 45.41758,
+            "lon": 7.02504
+        },
+        "6": {
+            "nom": "Lac de l'Ouillette",
+            "dist": 27.2,
+            "deniiiv": 2520.9,
+            "lat": 45.42849,
+            "lon": 6.98958
+        },
+        "7": {
+            "nom": "Parc des Sports",
+            "dist": 32.93,
+            "deniiiv": 1832,
+            "lat": 45.44743,
+            "lon": 6.97747
+        }
+    },
+    "longueur_off": 32.93,
+    "deniiiv_off": 2461,
+    "deniiiv_negatiiif_off": 2461,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-07-13",
+    "start_hour": "07:30:00"
 }
+
 
 }

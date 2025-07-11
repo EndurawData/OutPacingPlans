@@ -960,6 +960,25 @@
             },
             "Race": {
                 "template": "trail",
+                "course": "X Traversee",
+                "kbkpacing" : "no",
+                "no_time": "no",
+                "profil_split": 0.05,
+                "objectif_heure": 9,
+                "objectif_minute": 10,
+                "objectif_seconde": 0,
+                "break_heure":0,
+                "break_minutes":0, 
+                "threshold": 10,
+                "a_gradient": 0.05,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            },
+            "Race2": {
+                "template": "trail",
                 "course": "90k du Mont Blanc",
                 "profil_split": 108,
                 "objectif_heure": 10,
@@ -1098,7 +1117,6 @@
         
         },
 
-
         "anthonysaliou": {
             "infos": {
                 "nom": "Saliou",
@@ -1108,6 +1126,8 @@
                 "nationality": "France",
                 "Team": "MA2M",
                 "personalized_message":"From 800m to UTMB",
+                "kbkpacing" : "yes",
+                "no_time": "no",
                 "best_nutrition_brand":"Maurten",
                 "energy_consumption":60, 
                 "sexe":"M",
@@ -1115,6 +1135,24 @@
                 "taille":177     
             },
             "Race": {
+                "template": "trail",
+                "course": "Sierre Zinal",
+                "profil_split": 0.05,
+                "objectif_heure": 3,
+                "objectif_minute": 0,
+                "objectif_seconde": 0,
+                "break_heure":0,
+                "break_minutes":0,  
+                "threshold": 1,
+                "a_gradient": 1,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 0,
+                "previous_place": 0
+            },
+
+            "Race1": {
                 "template": "route",
                 "course": "Barcelona Marathon",
                 "profil_split": 0.05,
@@ -1621,6 +1659,26 @@
                 "taille":172   
             },
             "Race": {
+                "template": "trail",
+                "course": "France Trail Court 2025",
+                "kbkpacing" : "yes",
+                "no_time": "no",
+                "profil_split": 0.05,
+                "objectif_heure": 2,
+                "objectif_minute": 45,
+                "objectif_seconde": 0,
+                "break_heure":0,
+                "break_minutes":0, 
+                "threshold": 10,
+                "a_gradient": 0.05,
+                "a_split": 1,
+                "a_drift": 1,
+                "a_vent": 0,
+                "a_temp": 1,
+                "previous_place": 1
+            },
+
+            "Race1": {
                 "template": "trail",
                 "course": "Grand Colombier 42k",
                 "kbkpacing" : "yes",
