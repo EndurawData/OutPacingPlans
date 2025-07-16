@@ -1906,5 +1906,40 @@
             "a_temp": 0,
             "previous_place": 0
         }
+        },
+        "maceocazals": {
+        "infos": {
+            "nom": "Cazals",
+            "prenom": "Maceo",
+            "birthdate": "01/03/1995",
+            "cote": 0,
+            "nationality": "France",
+            "Team": "MA2Trail",
+            "personalized_message":"Ah bon ça monte ?",
+            "best_nutrition_brand":"",
+            "energy_consumption": 30, 
+            "sexe":"M",
+            "poids":70,     
+            "taille":175 
+        },
+        "Race": {
+            "template": "trail",
+            "course": "Double KV Canigou",
+            "kbkpacing" : "yes",
+            "no_time": "no",
+            "profil_split": 0.00,
+            "objectif_heure": 2,
+            "objectif_minute": 15,
+            "objectif_seconde": 0,
+            "break_heure":0,
+            "break_minutes":0, 
+            "threshold": 12,
+            "a_gradient": 12,
+            "a_split": 1,
+            "a_drift": 1,
+            "a_vent": 0,
+            "a_temp": 0,
+            "previous_place": 0
+        }
         }
 }

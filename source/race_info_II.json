@@ -2690,6 +2690,41 @@
     "zoom_de_la_carte": 9,
     "start_time": "2025-07-13",
     "start_hour": "07:30:00"
+},
+"Double KV Canigou" :
+{
+    "ravitos": {
+        "1": {
+            "nom": "Vernet les Bains",
+            "dist": 0.0,
+            "deniiiv": 741,
+            "lat": 42.55052,
+            "lon": 2.39998
+        },
+        "2": {
+            "nom": "Premier KV",
+            "dist": 5.8,
+            "deniiiv": 1722.8,
+            "lat": 42.53712,
+            "lon": 2.43322
+        },
+       "3": {
+            "nom": "Pic du Canigou",
+            "dist": 10.9,
+            "deniiiv": 2710,
+            "lat": 42.5189,
+            "lon": 2.45655
+        }
+    },
+    "longueur_off": 10.9,
+    "deniiiv_off": 1969,
+    "deniiiv_negatiiif_off": 0,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-08-09",
+    "start_hour": "08:30:00"
 }
 
 
