@@ -701,7 +701,7 @@
                 "a_temp": 1,
                 "previous_place": 1
             },
-            "Race": {
+            "Race0": {
                 "template": "trail",
                 "course": "Conta Cour",
                 "profil_split": 0.00,
@@ -721,14 +721,16 @@
                 "previous_place": 1
             },
 
-            "Race1": {
+            "Race": {
                 "template": "trail",
                 "course": "Shokz 60k",
                 "profil_split": 0.05,
                 "objectif_heure": 5,
                 "objectif_minute": 38,
                 "objectif_seconde": 53,
-                "kbkpacing" : "no",
+                "break_heure":0,
+                "break_minutes":0,
+                "kbkpacing" : "yes",
                 "no_time" : "no",
                 "threshold": 8,
                 "a_gradient": 6,
@@ -1621,7 +1623,7 @@
                 "poids":70,     
                 "taille":180   
             },
-            "Race": {
+            "Race2": {
                 "template": "trail",
                 "course": "Peak LR OOB",
                 "profil_split": 0,
@@ -1640,14 +1642,16 @@
                 "a_temp": 0,
                 "previous_place": 0
             },
-            "Race2": {
+            "Race": {
                 "template": "trail",
                 "course": "Tenerife Bluetrail",
                 "profil_split": -0.35,
                 "objectif_heure": 11,
                 "objectif_minute": 55,
                 "objectif_seconde": 0,
-                "kbkpacing" : "no",
+                "break_heure":0,
+                "break_minutes":0, 
+                "kbkpacing" : "yes",
                 "aidstation_nutrition" : "yes",
                 "threshold": 1,
                 "a_gradient": 4,
