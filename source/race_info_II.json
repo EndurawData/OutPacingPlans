@@ -2725,6 +2725,90 @@
     "zoom_de_la_carte": 9,
     "start_time": "2025-08-09",
     "start_hour": "08:30:00"
+},
+
+"Ultra Oisans" : {
+    "ravitos": {
+        "1": {
+            "nom": "Villard-Reculas ",
+            "dist": 0.0,
+            "deniiiv": 1457,
+            "lat": 45.0927,
+            "lon": 6.03077
+        },
+        "2": {
+            "nom": "Auris en Oisans",
+            "dist": 12.4,
+            "deniiiv": 1590.9,
+            "lat": 45.05568,
+            "lon": 6.07829
+        },
+        "3": {
+            "nom": "Besse en Oisans aller",
+            "dist": 22.9,
+            "deniiiv": 1527.7,
+            "lat": 45.07193,
+            "lon": 6.16788
+        },
+        "4": {
+            "nom": "Chalet du Fay",
+            "dist": 37.2,
+            "deniiiv": 2270.5,
+            "lat": 45.05835,
+            "lon": 6.21272
+        },
+        "5": {
+            "nom": "Besse en Oisans retour",
+            "dist": 44.7,
+            "deniiiv": 1478.4,
+            "lat": 45.07106,
+            "lon": 6.16445
+        },
+        "6": {
+            "nom": "Pierre Ronde",
+            "dist": 57.2,
+            "deniiiv": 1889.6,
+            "lat": 45.08725,
+            "lon": 6.09678
+        },
+        "7": {
+            "nom": "Col de l'Alpette",
+            "dist": 65.4,
+            "deniiiv": 2000.4,
+            "lat": 45.14182,
+            "lon": 6.09443
+        },
+        "8": {
+            "nom": "Vaujany - Le Collet",
+            "dist": 71.4,
+            "deniiiv": 1380.7,
+            "lat": 45.16596,
+            "lon": 6.09041
+        },
+        "9": {
+            "nom": "Oz en Oisans",
+            "dist": 78.7,
+            "deniiiv": 1369.1,
+            "lat": 45.12826,
+            "lon": 6.06486
+        },
+        "10" : {
+            "nom": "Villard-Reculas ",
+            "dist": 88.05,
+            "deniiiv": 1457,
+            "lat": 45.0927,
+            "lon": 6.03077
+        }
+    },
+    "longueur_off": 88.05,
+    "deniiiv_off": 4823,
+    "deniiiv_negatiiif_off": 4823,
+    "record_feminin": "non sp\u00e9cifi\u00e9",
+    "record_masculin": "non sp\u00e9cifi\u00e9",
+    "date_de_creation": 2000,
+    "zoom_de_la_carte": 9,
+    "start_time": "2025-07-19",
+    "start_hour": "00:01:00"
 }
 
 
